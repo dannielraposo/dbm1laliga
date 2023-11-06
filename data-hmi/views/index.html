@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>LaLiga 2018/19</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+            integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+            crossorigin="anonymous">
+
+        <link href="styles.css" rel="stylesheet">
+        <link
+            href="https://fonts.googleapis.com/css?family=Merriweather:400,700"
+            rel="stylesheet" type="text/css">
+        <script
+            src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="index.js"></script>
+
+    </head>
+
+    <body>
+        <nav
+            class="navbar navbar-dark bg-dark navbar-static-top navbar-expand-md">
+            <div class="container"
+                style="padding: 0; margin: 2%; margin-top: 0;margin-bottom: 0;">
+                <button type="button" class="navbar-toggler collapsed"
+                    data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1"
+                    aria-expanded="false"> <span class="sr-only">Toggle
+                        navigation</span>
+                </button> <a class="navbar-brand">Spanish LaLiga 2028/19</a>
+                <div class="collapse navbar-collapse"
+                    id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav mr-auto">
+                        <li class="active nav-item"><a href="/" class="nav-link">Home</a>
+                        </li>
+                        <li class="nav-item"><a href="/fixedqueries"
+                                class="nav-link">Fixed
+                                Queries</a>
+                        </li>
+                        <li class="nav-item"><a href="/newquery"
+                                class="nav-link">New
+                                Query</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div class="jumbotron">
+            <div class="container">
+                <h1>Start learning about spanish LaLiga 2018/2019 !</h1>
+                <!-- <p>Info sobre la base de datos xxxxx xxxxxxxxx xxxxxxxxxxx</p> -->
+                <!-- <br>
+            <p><a class="btn btn-primary btn-lg" href="/" role="button">Make some queries to the database</a>
+            </p> -->
+            </div>
+        </div>
+
+        <div class="container" style="min-width: 100%; padding: 0;">
+            <div id="carousel">
+                <div class="hideLeft team" id="D. Alavés">
+                    <img
+                        src="resources/alaves.png">
+                </div>
+                <div class="hideLeft team" id="Athletic Club">
+                    <img
+                        src="resources/athletic.png">
+                </div>
+                <div class="hideLeft team" id="Atlético de Madrid">
+                    <img
+                        src="resources/atletico.png">
+                </div>
+                <div class="hideLeft team" id="FC Barcelona">
+                    <img
+                        src="resources/barcelona.png">
+                </div>
+                <div class="hideLeft team" id="Real Betis">
+                    <img
+                        src="resources/betis.png">
+                </div>
+                <div class="hideLeft team" id="RC Celta">
+                    <img
+                        src="resources/celta.png">
+                </div>
+                <div class="prevLeftSecond team" id="SD Eibar">
+                    <img
+                        src="resources/eibar.png">
+                </div>
+                <div class="prev team" id="RCD Espanyol">
+                    <img
+                        src="resources/espanyol.png">
+                </div>
+                <div class="selected team" id="Getafe CF">
+                    <img
+                        src="resources/getafe.png">
+                </div>
+                <div class="next team" id="Girona FC">
+                    <img
+                        src="resources/girona.png">
+                </div>
+                <div class="nextRightSecond team" id="SD Huesca">
+                    <img
+                        src="resources/huesca.png">
+                </div>
+                <div class="hideRight team" id="CD Leganés">
+                    <img
+                        src="resources/leganes.png">
+                </div>
+                <div class="hideRight team" id="Levante UD">
+                    <img
+                        src="resources/levante.png">
+                </div>
+                <div class="hideRight team" id="Rayo Vallecano">
+                    <img
+                        src="resources/rayovallecano.png">
+                </div>
+                <div class="hideRight team" id="Real Madrid">
+                    <img
+                        src="resources/realmadrid.png">
+                </div>
+                <div class="hideRight team" id="Real Sociedad">
+                    <img
+                        src="resources/realsociedad.png">
+                </div>
+                <div class="hideRight team" id="R. Valladolid CF">
+                    <img
+                        src="resources/realvalladolid.png">
+                </div>
+                <div class="hideRight team" id="Sevilla FC">
+                    <img
+                        src="resources/sevilla.png">
+                </div>
+                <div class="hideRight team" id="Valencia CF">
+                    <img
+                        src="resources/valencia.png">
+                </div>
+                <div class="hideRight team" id="Villarreal CF">
+                    <img
+                        src="resources/villareal.png">
+                </div>
+            </div>
+        </div>
+        <table class="table table-hover table-bordered" id="teamtable"
+            style="border: 2px solid white; background-color: slategray;"></table>
+    </body>
+</html>

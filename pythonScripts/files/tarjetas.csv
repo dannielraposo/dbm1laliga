@@ -1,0 +1,2000 @@
+match_id,card_type,player_name, minute
+match1,Yellow,José Luis Morales Nogales,93
+match1,Yellow,Antonio Luna Rodríguez,82
+match2,Yellow,Àlex Granell,87
+match2,Yellow,Rubén Alcaraz,86
+match3,Yellow,Guillermo Maripán,41
+match3,Yellow,Daniel Alejandro Torres,10
+match4,Yellow,Dídac Vilà,95
+match4,Yellow,Junior Alonso,91
+match4,Yellow,Marc Roca,73
+match4,Yellow,Iago Aspas,70
+match4,Yellow,Brais Méndez,43
+match5,Yellow,Joseba Zaldua,77
+match5,Yellow,Juanmi Jiménez,75
+match5,Yellow,Santiago Cáseres,67
+match5,Yellow,Theo Hernández,51
+match5,Yellow,Manu Morlanes,36
+match6,Yellow,Samuele Longo,93
+match6,Yellow,Joan Jordán,50
+match7,Yellow,Leandro Cabrera,79
+match7,Yellow,Bruno González,79
+match7,Yellow,Mauro Arambarri,77
+match7,Yellow,Marcelo Vieira,68
+match7,Yellow,Jaime Mata,63
+match7,Yellow,Djené Dakonam Ortega,42
+match7,Yellow,Amath Ndiaye,41
+match7,Yellow,Jorge Molina Vidal,27
+match8,Yellow,José Ángel Pozo,12
+match9,Yellow,Iker Muniain,94
+match9,Yellow,Michael Santos,88
+match9,Yellow,Jonathan Silva,81
+match9,Yellow,Raúl García Escudero,78
+match9,Yellow,Gerard Gumbau,76
+match9,Yellow,Guido Carrillo,55
+match9,Yellow,Yuri Berchiche,53
+match9,Yellow,Raúl García Carnero,41
+match9,Yellow,Yeray Álvarez,17
+match10,Yellow,Rodrigo Moreno Machado,70
+match10,Yellow,Filipe Luís,63
+match10,Yellow,Juanfran Torres,52
+match10,Yellow,Ezequiel Garay,46
+match10,Yellow,Stefan Savić,13
+match11,Yellow,Anaitz Arbilla Zabala,91
+match11,Yellow,Iván Alejo,46
+match11,Yellow,Djené Dakonam Ortega,1
+match12,Yellow,Jonathan Silva,92
+match12,Yellow,Juanmi Jiménez,80
+match12,Yellow,Joseba Zaldua,53
+match13,Yellow,Martín Aguirregabiria,70
+match13,Yellow,Manu García Sánchez,47
+match13,Yellow,Wakaso Mubarak,40
+match13,Yellow,Marc Bartra,23
+match14,Yellow,Koke Resurrección,88
+match14,Yellow,Álvaro García Rivera,29
+match15,Yellow,Gerard Piqué,60
+match15,Yellow,Enes Ünal,49
+match16,Yellow,Mario Hermoso,48
+match16,Yellow,Mouctar Diakhaby,30
+match17,Yellow,Lucas Vázquez,88
+match17,Yellow,Karim Benzema,86
+match17,Yellow,Dani Carvajal,67
+match17,Yellow,Marc Muniesa,65
+match17,Yellow,Pedro Porro,33
+match18,Yellow,Simon Kjær,92
+match18,Yellow,Jaume Costa,88
+match18,Yellow,Pablo Sarabia,81
+match18,Yellow,Gabriel Mercado,44
+match18,Yellow,Mario Gaspar,5
+match19,Yellow,Damián Musto,92
+match19,Yellow,Ander Iturraspe,73
+match19,Yellow,Jorge Pulido,72
+match19,Yellow,Dani García,42
+match20,Yellow,Róber Pier,96
+match20,Yellow,Sofiane Boufal,93
+match20,Yellow,Sergio Álvarez Conde,77
+match20,Yellow,José Campaña,74
+match20,Yellow,Hugo Mallo,63
+match21,Yellow,Asier Illarramendi,80
+match21,Yellow,Rubén Peña Jiménez,75
+match21,Yellow,Juanmi Jiménez,58
+match21,Yellow,Pape Diop,34
+match21,Yellow,Marko Dmitrović,14
+match22,Yellow,Djené Dakonam Ortega,89
+match22,Yellow,Iván Alejo,42
+match22,Yellow,Javi Moyano,40
+match22,Yellow,Francisco Portillo Soler,15
+match23,Yellow,Nicola Sansone,89
+match23,Yellow,Mario Gaspar,85
+match23,Yellow,Manu Trigueros,75
+match23,Yellow,Aday Benítez,56
+match23,Yellow,Pedro Alcalá Guirado,23
+match24,Yellow,Hugo Mallo,76
+match24,Yellow,Okay Yokuşlu,74
+match24,Red,Stefan Savić,70
+match24,Yellow,Diego Costa,57
+match24,Yellow,Stefan Savić,51
+match24,Yellow,Junior Alonso,48
+match24,Yellow,Stanislav Lobotka,41
+match24,Yellow,Yakubu Partey,28
+match24,Yellow,Saúl Ñíguez,17
+match25,Yellow,Michael Santos,27
+match25,Yellow,Luka Modrić,3
+match26,Yellow,Léo Baptistão,93
+match26,Yellow,Borja Iglesias,49
+match26,Yellow,Sergi Darder,44
+match26,Yellow,Fernando Pacheco Flores,40
+match26,Yellow,Víctor Laguardia,39
+match26,Yellow,Manu García Sánchez,19
+match26,Yellow,Wakaso Mubarak,17
+match27,Yellow,Arturo Vidal,88
+match27,Yellow,Damián Musto,87
+match27,Yellow,Luís Carlos Correia Pinto,26
+match28,Yellow,Pablo Sarabia,81
+match28,Yellow,Joaquín,81
+match28,Yellow,Simon Kjær,71
+match28,Red,Roque Mesa,66
+match28,Yellow,Sergio Canales,64
+match28,Yellow,Roque Mesa,48
+match28,Yellow,André Silva,46
+match28,Yellow,Gabriel Mercado,42
+match28,Yellow,William Carvalho,30
+match29,Yellow,Santi Mina,94
+match29,Yellow,José Luis Morales Nogales,94
+match29,Yellow,Ferran Torres,93
+match29,Red,Coke Andújar,76
+match29,Yellow,José Manuel Rodríguez Benito,48
+match29,Yellow,Coke Andújar,47
+match30,Yellow,Luís Carlos Correia Pinto,93
+match30,Yellow,Chimy Ávila,79
+match30,Yellow,Jordi Amat Maas,53
+match31,Yellow,Unai Simón,92
+match31,Yellow,Lucas Vázquez,87
+match31,Yellow,Dani Carvajal,85
+match31,Yellow,Beñat Etxebarria,78
+match31,Yellow,Yuri Berchiche,72
+match31,Yellow,Ander Capa,68
+match31,Yellow,Dani García,60
+match31,Yellow,Yeray Álvarez,45
+match32,Yellow,Pape Diop,54
+match32,Yellow,Diego Godín,51
+match32,Yellow,Koke Resurrección,39
+match32,Yellow,Charles Dias,16
+match33,Yellow,Samuel Umtiti,87
+match33,Yellow,Asier Illarramendi,43
+match34,Yellow,Michy Batshuayi,92
+match34,Yellow,Pau López,81
+match34,Yellow,Andrés Guardado,77
+match34,Yellow,Mouctar Diakhaby,76
+match34,Yellow,Gabriel Paulista,74
+match34,Yellow,Cristiano Piccini,62
+match34,Yellow,Antonio Sanabria,36
+match34,Yellow,Dani Parejo,31
+match34,Yellow,Ferran Torres,16
+match35,Yellow,Antonio Luna Rodríguez,94
+match35,Yellow,Dídac Vilà,94
+match35,Yellow,José Manuel Rodríguez Benito,61
+match36,Yellow,Unai Bustinza,94
+match36,Yellow,Víctor Ruiz Torre,94
+match36,Yellow,Rubén Pérez del Mármol,82
+match36,Yellow,Allan Romeo Nyom,64
+match36,Yellow,Mario Gaspar,48
+match36,Yellow,Jaume Costa,45
+match36,Yellow,Jonathan Silva,27
+match37,Yellow,Dimitri Foulquier,76
+match37,Yellow,Bruno González,70
+match37,Yellow,Éver Banega,69
+match37,Yellow,Amath Ndiaye,46
+match37,Yellow,Jesús Navas,21
+match37,Yellow,Vitorino Antunes,21
+match37,Yellow,Djené Dakonam Ortega,19
+match37,Yellow,Leandro Cabrera,16
+match37,Yellow,Roque Mesa,14
+match38,Yellow,Óscar Plano,87
+match38,Yellow,Nacho Martínez García,50
+match38,Yellow,Martín Aguirregabiria,45
+match38,Yellow,Anuar Mohamed Tuhami,41
+match38,Yellow,Darko Brašanac,18
+match39,Yellow,Douglas Luiz,96
+match39,Red,Gustavo Cabral,92
+match39,Yellow,Fran Beltrán,70
+match39,Yellow,Gustavo Cabral,70
+match40,Yellow,David Ferreiro,91
+match40,Red,Theo Hernández,82
+match40,Yellow,Samuele Longo,76
+match40,Red,Juanmi Jiménez,71
+match40,Yellow,Juanmi Jiménez,71
+match40,Yellow,Álex Gallar,65
+match40,Yellow,Juan Camilo Hernández Suárez,46
+match40,Yellow,Luís Carlos Correia Pinto,43
+match40,Yellow,Rubén Pardo,23
+match41,Yellow,David Juncà Reñé,49
+match41,Yellow,Facundo Roncaglia,42
+match41,Yellow,Duje Čop,25
+match41,Yellow,Rubén Alcaraz,20
+match42,Yellow,Gerard Gumbau,67
+match42,Yellow,Gonzalo Escalante,24
+match43,Yellow,Juanfran Torres,84
+match43,Yellow,Saúl Ñíguez,82
+match43,Red,Iván Alejo,67
+match43,Yellow,Damián Suárez,56
+match44,Yellow,Casemiro,77
+match44,Yellow,Javier López Rodríguez,47
+match44,Yellow,Marc Roca,26
+match44,Yellow,Nacho Fernández Iglesias,6
+match45,Yellow,Giannelli Imbula,94
+match45,Yellow,Martín Aguirregabiria,83
+match45,Red,Abdoulaye Ba,35
+match45,Yellow,Rubén Duarte,23
+match46,Yellow,Gerard Piqué,81
+match46,Yellow,Portu,69
+match46,Yellow,Pedro Alcalá Guirado,68
+match46,Yellow,Juanpe Ramírez,61
+match46,Yellow,Bernardo Espinosa,39
+match46,Red,Clément Lenglet,35
+match46,Yellow,Cristhian Stuani,16
+match46,Yellow,Arthur Melo,15
+match46,Yellow,Nélson Semedo,12
+match47,Yellow,Unai Simón,93
+match47,Yellow,Iñigo Martínez,87
+match47,Yellow,Sidnei Rechel da Silva Junior,70
+match47,Yellow,Sergio Canales,53
+match47,Yellow,Yuri Berchiche,50
+match47,Yellow,Beñat Etxebarria,46
+match47,Red,Markel Susaeta,45
+match47,Yellow,Yeray Álvarez,40
+match47,Yellow,Markel Susaeta,38
+match48,Yellow,Aleix Vidal,62
+match48,Yellow,Sergio Postigo Redondo,20
+match49,Yellow,Mario Gaspar,90
+match49,Yellow,Ramiro Funes Mori,84
+match49,Yellow,Miguel Layún,63
+match49,Red,Dani Parejo,58
+match49,Yellow,Jaume Costa,38
+match49,Yellow,Mouctar Diakhaby,22
+match50,Yellow,Damián Musto,67
+match50,Yellow,Rúben Semedo,47
+match51,Yellow,Pedro Bigas,74
+match51,Yellow,Joan Jordán,66
+match51,Yellow,Léo Baptistão,60
+match51,Yellow,Sergio García de la Fuente,25
+match52,Yellow,Óscar Trejo,91
+match52,Yellow,Joseba Zaldua,89
+match52,Yellow,Mikel Merino,81
+match52,Yellow,Héctor Moreno,77
+match52,Yellow,Gaël Kakuta,62
+match52,Yellow,Luis Advíncula,61
+match52,Yellow,Igor Zubeldia,15
+match53,Yellow,Víctor Ruiz Torre,76
+match53,Yellow,Óscar de Marcos,73
+match54,Yellow,Youssef En-Nesyri,92
+match54,Yellow,Allan Romeo Nyom,88
+match54,Yellow,Thomas Vermaelen,64
+match54,Yellow,Samuel Umtiti,60
+match54,Yellow,Unai Bustinza,49
+match54,Yellow,Rubén Pérez del Mármol,40
+match55,Yellow,Mariano Díaz Mejía,87
+match55,Yellow,Pablo Sarabia,79
+match55,Yellow,Éver Banega,74
+match55,Yellow,Luka Modrić,65
+match55,Yellow,Toni Kroos,64
+match55,Yellow,Franco Vázquez,34
+match55,Yellow,Gareth Bale,27
+match56,Yellow,Fran Beltrán,75
+match56,Yellow,Michy Batshuayi,56
+match56,Yellow,Hugo Mallo,48
+match56,Yellow,Iago Aspas,46
+match57,Yellow,Leandro Cabrera,95
+match57,Yellow,Darko Brašanac,89
+match57,Yellow,Jony Rodríguez,82
+match57,Yellow,Manu García Sánchez,82
+match57,Yellow,Mauro Arambarri,75
+match57,Yellow,Wakaso Mubarak,44
+match58,Yellow,Pau López,90
+match58,Yellow,Pedro Alcalá Guirado,73
+match58,Yellow,Junior Firpo,70
+match58,Yellow,Ryad Boudebouz,37
+match59,Yellow,José Campaña,96
+match59,Yellow,Antonio Jesús Regal Angulo,74
+match59,Red,Nikola Vukčević,54
+match59,Yellow,Nikola Vukčević,41
+match59,Yellow,José Luis Morales Nogales,22
+match60,Yellow,Álvaro García Rivera,88
+match60,Yellow,Víctor Sánchez Mata,87
+match60,Yellow,Marc Roca,83
+match60,Yellow,Esteban Granero,79
+match60,Yellow,Santiago Comesaña Veiga,64
+match60,Yellow,Tiago Manuel Dias Correia,58
+match61,Yellow,Lionel Messi,94
+match61,Yellow,Peru Nolaskoain,90
+match61,Yellow,Dani García,90
+match61,Yellow,Sergio Busquets,89
+match61,Yellow,Ivan Rakitić,78
+match61,Yellow,Yeray Álvarez,48
+match62,Yellow,Guilherme Arana,97
+match62,Yellow,Franco Vázquez,89
+match62,Yellow,Éver Banega,80
+match62,Yellow,Fabián Orellana,56
+match62,Yellow,Iván Ramis,17
+match63,Yellow,Ángel Correa,93
+match63,Yellow,Nacho Fernández Iglesias,92
+match63,Yellow,Koke Resurrección,70
+match63,Yellow,Sergio Ramos,61
+match63,Yellow,Thomas Lemar,59
+match63,Yellow,Juanfran Torres,48
+match63,Yellow,Dani Carvajal,30
+match64,Yellow,Sandro Ramírez,94
+match64,Yellow,Rúben Vezo,94
+match64,Yellow,Neto Murara,92
+match64,Yellow,Aritz Elustondo,80
+match64,Yellow,Gabriel Paulista,70
+match64,Yellow,Igor Zubeldia,63
+match64,Yellow,Denís Chéryshev,46
+match64,Yellow,Toni Lato,9
+match65,Yellow,Rubén Pérez del Mármol,94
+match65,Yellow,Iván Cuéllar,87
+match65,Yellow,Unai Bustinza,38
+match65,Yellow,Youssef En-Nesyri,3
+match66,Yellow,David Ferreiro,87
+match66,Yellow,Bernardo Espinosa,70
+match66,Yellow,Damián Musto,45
+match66,Yellow,Cristhian Stuani,39
+match66,Yellow,Chimy Ávila,28
+match67,Yellow,José Campaña,94
+match67,Yellow,Antonio García Aranda,94
+match67,Yellow,José Manuel Rodríguez Benito,92
+match67,Yellow,Rubén Sobrino,86
+match67,Yellow,José Luis Morales Nogales,85
+match67,Yellow,Rubén Rochina,80
+match67,Yellow,Sanjin Prcić,73
+match67,Yellow,Jason Remeseiro,47
+match68,Yellow,Nacho Martínez García,85
+match68,Yellow,Kiko Olivas,82
+match68,Yellow,Santi Cazorla,60
+match68,Yellow,Carlos Bacca,45
+match68,Yellow,Duje Čop,36
+match68,Yellow,Mario Gaspar,35
+match69,Yellow,Hugo Mallo,91
+match69,Yellow,Iago Aspas,82
+match69,Yellow,Francisco Portillo Soler,82
+match69,Yellow,Bruno González,20
+match70,Yellow,Jon Bautista,92
+match70,Yellow,Asier Illarramendi,83
+match70,Yellow,David Zurutuza,70
+match70,Yellow,Raúl García Escudero,67
+match70,Yellow,Miguel Ángel Moyá,57
+match70,Yellow,Dani García,39
+match70,Yellow,Igor Zubeldia,38
+match70,Yellow,Iñaki Williams,31
+match70,Yellow,Iñigo Martínez,29
+match70,Yellow,Markel Susaeta,26
+match70,Yellow,Óscar de Marcos,19
+match71,Yellow,Wakaso Mubarak,54
+match72,Yellow,Damián Suárez,93
+match72,Yellow,Robert Ibáñez,92
+match72,Red,Francisco Portillo Soler,91
+match72,Yellow,Rubén Rochina,90
+match72,Yellow,Róber Pier,42
+match72,Yellow,Jason Remeseiro,33
+match72,Yellow,Sanjin Prcić,31
+match72,Yellow,Vitorino Antunes,26
+match72,Yellow,Emmanuel Boateng,22
+match72,Yellow,Djené Dakonam Ortega,13
+match73,Yellow,Paulo Oliveira,61
+match73,Yellow,Anaitz Arbilla Zabala,59
+match73,Yellow,Asier Riesgo,45
+match73,Yellow,Pape Diop,41
+match73,Yellow,Joan Jordán,34
+match73,Yellow,José Ángel Valdés,20
+match73,Yellow,Portu,15
+match73,Yellow,Aday Benítez,11
+match73,Yellow,Juanpe Ramírez,6
+match74,Red,Álvaro Medrán,82
+match74,Yellow,Abdoulaye Ba,80
+match74,Yellow,Adrián Embarba,55
+match74,Yellow,Óscar Rodríguez Arnaiz,43
+match74,Yellow,Álvaro Medrán,43
+match75,Yellow,Sergio Canales,93
+match75,Yellow,Lucas Hernández,88
+match75,Yellow,Marc Bartra,85
+match75,Yellow,Saúl Ñíguez,78
+match75,Yellow,Filipe Luís,77
+match75,Yellow,Diego Godín,58
+match75,Yellow,Juanfran Torres,47
+match75,Yellow,Junior Firpo,41
+match76,Yellow,Sergi Darder,90
+match76,Yellow,Ramiro Funes Mori,47
+match76,Yellow,Mario Hermoso,48
+match76,Yellow,Miguel Llambrich,33
+match76,Yellow,David López Silva,5
+match77,Yellow,Gustavo Cabral,92
+match77,Yellow,Guilherme Arana,89
+match77,Red,Néstor Araujo,58
+match77,Yellow,Daniel Carriço,56
+match77,Yellow,Néstor Araujo,56
+match77,Yellow,Facundo Roncaglia,52
+match77,Yellow,Éver Banega,17
+match78,Yellow,Dani Parejo,58
+match78,Yellow,Philippe Coutinho,58
+match78,Yellow,Carlos Soler,43
+match78,Yellow,Luis Suárez,41
+match79,Yellow,Rúben Semedo,27
+match79,Yellow,Serdar Gürler,13
+match79,Yellow,Míchel Herrero,6
+match80,Yellow,Andrew Hjulsager,91
+match80,Yellow,Tomás Pina,88
+match80,Yellow,Jonathan Calleri,64
+match80,Yellow,Gustavo Cabral,58
+match80,Yellow,Víctor Laguardia,11
+match81,Yellow,Tomáš Vaclík,62
+match82,Yellow,Marcelo Vieira,94
+match82,Yellow,Jason Remeseiro,89
+match82,Yellow,Erick Cabaco,53
+match83,Yellow,Dani Parejo,93
+match83,Yellow,Gerard Gumbau,48
+match83,Yellow,Óscar Rodríguez Arnaiz,33
+match84,Yellow,Alfonso Pedraza,68
+match84,Yellow,Álvaro González Soberón,44
+match84,Yellow,Manuel Iturra,31
+match84,Yellow,Juanfran Torres,28
+match85,Yellow,Jordi Masip,85
+match85,Yellow,Nacho Martínez García,59
+match85,Yellow,Kiko Olivas,40
+match85,Yellow,Antonio Jesús Regal Angulo,26
+match86,Yellow,Raúl García Escudero,87
+match86,Yellow,Sergi Enrich,75
+match86,Yellow,Óscar de Marcos,65
+match86,Yellow,Unai López,28
+match86,Yellow,Fabián Orellana,23
+match87,Yellow,Jorge Miramón,99
+match87,Yellow,Dídac Vilà,73
+match87,Yellow,Mario Hermoso,68
+match87,Yellow,Chimy Ávila,67
+match87,Yellow,Damián Musto,58
+match87,Yellow,Esteban Granero,39
+match88,Red,Óscar Trejo,93
+match88,Yellow,Jordi Amat Maas,89
+match88,Yellow,Óscar Trejo,86
+match88,Yellow,Jaime Mata,84
+match88,Yellow,Damián Suárez,81
+match88,Yellow,Vitorino Antunes,77
+match88,Yellow,Santiago Comesaña Veiga,77
+match88,Yellow,Raúl de Tomás,75
+match88,Yellow,Mauro Arambarri,47
+match88,Yellow,Leandro Cabrera,24
+match89,Yellow,Pedro Porro,81
+match89,Yellow,Aritz Elustondo,72
+match89,Yellow,Asier Illarramendi,53
+match89,Yellow,Kevin Rodrigues,41
+match90,Yellow,Giannelli Imbula,59
+match90,Yellow,Raúl García Escudero,53
+match91,Yellow,Óscar Plano,93
+match91,Yellow,Dídac Vilà,75
+match91,Yellow,Javier López Rodríguez,73
+match91,Yellow,Míchel Herrero,63
+match91,Yellow,Rubén Alcaraz,61
+match91,Yellow,Kiko Olivas,47
+match92,Yellow,José Luis Gayà,92
+match92,Yellow,Yuri Berchiche,77
+match92,Yellow,Daniel Wass,74
+match92,Yellow,Michy Batshuayi,38
+match92,Yellow,Carlos Soler,35
+match92,Yellow,Ander Capa,20
+match92,Yellow,Rúben Vezo,16
+match93,Yellow,Stefan Savić,53
+match93,Yellow,Koke Resurrección,49
+match93,Yellow,Igor Zubeldia,44
+match95,Red,Anthony Lozano,88
+match95,Yellow,Alexandre Moreno,73
+match95,Yellow,Douglas Luiz,72
+match95,Yellow,Óscar Trejo,60
+match95,Yellow,Alejandro Gálvez,33
+match96,Yellow,Róber Pier,83
+match96,Yellow,Kenneth Omeruo,70
+match96,Yellow,José Campaña,61
+match96,Yellow,Dimitrios Siovas,53
+match97,Yellow,Rubén Duarte,73
+match97,Yellow,Ramiro Funes Mori,27
+match98,Yellow,Luis Suárez,77
+match98,Yellow,Gareth Bale,53
+match98,Yellow,Nacho Fernández Iglesias,39
+match98,Yellow,Ivan Rakitić,38
+match99,Yellow,Antonio Barragán,92
+match99,Yellow,Giovani Lo Celso,49
+match99,Yellow,Damián Suárez,38
+match100,Yellow,Chimy Ávila,92
+match100,Yellow,Guilherme Arana,61
+match100,Yellow,Jorge Miramón,60
+match100,Yellow,Daniel Carriço,49
+match100,Yellow,Serdar Gürler,47
+match101,Yellow,Michael Santos,93
+match101,Yellow,Nikola Kalinić,90
+match101,Yellow,Iván Cuéllar,85
+match101,Yellow,Jonathan Silva,53
+match101,Yellow,Lucas Hernández,29
+match101,Yellow,Youssef En-Nesyri,13
+match102,Yellow,Marco Asensio,45
+match103,Yellow,Geoffrey Kondogbia,79
+match103,Yellow,Gabriel Paulista,77
+match103,Yellow,Bono,59
+match103,Yellow,Carles Planas,40
+match103,Yellow,Marc Muniesa,39
+match103,Yellow,Francis Coquelin,36
+match103,Yellow,Seydou Doumbia,30
+match103,Yellow,José Luis Gayà,28
+match104,Yellow,Emiliano Velázquez,92
+match104,Yellow,Alberto García Cabrera,89
+match104,Yellow,Jordi Alba,70
+match104,Yellow,Raúl de Tomás,49
+match104,Yellow,Clément Lenglet,17
+match104,Yellow,Jordi Amat Maas,6
+match105,Yellow,Okay Yokuşlu,82
+match105,Yellow,Aissa Mandi,78
+match105,Yellow,Junior Firpo,72
+match105,Yellow,Sergio Canales,69
+match105,Yellow,Joaquín,65
+match105,Yellow,David Juncà Reñé,62
+match106,Yellow,Pape Diop,88
+match106,Yellow,Anaitz Arbilla Zabala,78
+match106,Yellow,Fabián Orellana,73
+match106,Red,Pablo De Blasis,62
+match106,Yellow,Pablo De Blasis,61
+match106,Red,Rubén Duarte,24
+match107,Yellow,Djené Dakonam Ortega,94
+match107,Yellow,Damián Suárez,85
+match107,Yellow,Álex Gallar,85
+match107,Yellow,Rúben Semedo,74
+match107,Yellow,David Ferreiro,74
+match107,Yellow,Damián Musto,59
+match107,Yellow,Ángel,54
+match107,Yellow,Jorge Miramón,23
+match108,Yellow,Roque Mesa,92
+match108,Yellow,Theo Hernández,85
+match108,Yellow,Ibrahim Amadou,79
+match108,Yellow,Jesús Navas,73
+match109,Yellow,Álvaro González Soberón,94
+match109,Yellow,Enis Bardhi,78
+match109,Yellow,Santiago Cáseres,39
+match109,Yellow,Rubén Rochina,37
+match109,Yellow,Jason Remeseiro,31
+match109,Yellow,Jaume Costa,30
+match110,Yellow,Unai Nuñez,76
+match110,Yellow,Esteban Granero,66
+match110,Yellow,Dani García,48
+match110,Yellow,Mikel San José,20
+match111,Yellow,Oier Olazábal,88
+match111,Yellow,José Campaña,76
+match111,Yellow,Enis Bardhi,65
+match111,Yellow,Asier Illarramendi,53
+match111,Yellow,José Luis Morales Nogales,49
+match111,Yellow,José Manuel Rodríguez Benito,24
+match111,Yellow,Emmanuel Boateng,13
+match112,Red,Yuri Berchiche,95
+match112,Yellow,Yuri Berchiche,95
+match112,Yellow,Iñigo Martínez,94
+match112,Yellow,Ángel Correa,92
+match112,Yellow,Óscar de Marcos,86
+match112,Yellow,Mikel San José,82
+match112,Yellow,Antonio Adán,66
+match112,Yellow,Nikola Kalinić,66
+match112,Yellow,Vitolo Machín,66
+match112,Yellow,Beñat Etxebarria,49
+match112,Yellow,Diego Costa,38
+match113,Yellow,Ezequiel Garay,93
+match113,Red,Bruno González,79
+match113,Yellow,Bruno González,75
+match113,Yellow,Francis Coquelin,56
+match113,Yellow,José Luis Gayà,54
+match113,Yellow,Vitorino Antunes,30
+match114,Yellow,Guido Carrillo,91
+match114,Yellow,Anthony Lozano,90
+match114,Yellow,Dani Ojeda,71
+match114,Yellow,Javier Eraso,69
+match114,Yellow,Óscar Rodríguez Arnaiz,19
+match115,Yellow,Pape Diop,87
+match115,Yellow,Fernando Calero,81
+match115,Red,Anaitz Arbilla Zabala,72
+match115,Yellow,Rubén Peña Jiménez,63
+match115,Yellow,Nacho Martínez García,41
+match115,Yellow,Anaitz Arbilla Zabala,15
+match116,Yellow,Juan Camilo Hernández Suárez,93
+match116,Yellow,Carlos Akapo,76
+match116,Yellow,Guillermo Maripán,74
+match116,Yellow,Rubén Sobrino,73
+match116,Yellow,Damián Musto,70
+match116,Yellow,Rúben Semedo,47
+match116,Yellow,Ximo Navarro Jiménez,46
+match117,Red,Ivan Rakitić,81
+match117,Yellow,Arturo Vidal,73
+match117,Yellow,Aissa Mandi,69
+match117,Yellow,Cristian Tello,67
+match117,Yellow,Sergio Busquets,59
+match117,Yellow,Ivan Rakitić,44
+match117,Yellow,Andrés Guardado,24
+match118,Red,Gustavo Cabral,87
+match118,Yellow,Javier Sánchez de Felipe,53
+match118,Yellow,David Juncà Reñé,44
+match118,Yellow,Hugo Mallo,41
+match118,Yellow,Gustavo Cabral,40
+match118,Yellow,Sergio Reguilón,37
+match119,Yellow,Sergio Escudero Palomo,88
+match119,Yellow,Diego López Rodríguez,83
+match119,Yellow,Gabriel Mercado,61
+match119,Yellow,Esteban Granero,54
+match119,Yellow,Daniel Carriço,18
+match119,Yellow,Franco Vázquez,8
+match120,Red,Álvaro González Soberón,92
+match120,Yellow,Manu Trigueros,87
+match120,Yellow,Álvaro González Soberón,61
+match120,Yellow,Jordi Amat Maas,44
+match121,Yellow,Borja Bastón,75
+match121,Yellow,Martín Aguirregabiria,73
+match121,Yellow,Allan Romeo Nyom,62
+match121,Yellow,Darko Brašanac,52
+match121,Yellow,Rubén Duarte,49
+match121,Yellow,Óscar Rodríguez Arnaiz,15
+match122,Yellow,Rafinha Alcántara,93
+match122,Yellow,Filipe Luís,87
+match122,Yellow,Rodri Hernández,86
+match122,Yellow,Samuel Umtiti,71
+match122,Yellow,Diego Costa,71
+match122,Yellow,Antoine Griezmann,48
+match122,Yellow,Lucas Hernández,39
+match122,Yellow,Sergio Busquets,29
+match123,Yellow,Gareth Bale,44
+match123,Yellow,Joan Jordán,36
+match123,Yellow,Marc Cucurella,33
+match124,Red,Chimy Ávila,96
+match124,Yellow,Chimy Ávila,81
+match124,Yellow,Antonio García Aranda,81
+match124,Yellow,Xabier Etxeita,76
+match124,Yellow,Aleksandar Jovanović,75
+match124,Yellow,Sanjin Prcić,67
+match124,Yellow,Jorge Pulido,12
+match124,Yellow,Nikola Vukčević,10
+match125,Red,Luis Advíncula,87
+match125,Yellow,Carlos Soler,74
+match125,Yellow,Alejandro Gálvez,51
+match125,Yellow,Santiago Comesaña Veiga,41
+match125,Yellow,Mouctar Diakhaby,28
+match125,Yellow,Luis Advíncula,22
+match126,Yellow,Jaime Mata,95
+match126,Yellow,Aritz Aduriz,94
+match126,Yellow,Iñigo Córdoba,94
+match126,Yellow,Iñigo Martínez,80
+match126,Yellow,Peru Nolaskoain,73
+match126,Yellow,Leandro Cabrera,32
+match126,Yellow,Amath Ndiaye,29
+match126,Yellow,Mauro Arambarri,27
+match126,Yellow,Unai Nuñez,25
+match127,Yellow,Mario Hermoso,89
+match127,Yellow,Pere Pons,89
+match127,Yellow,Borja Iglesias,75
+match127,Yellow,Cristhian Stuani,41
+match127,Yellow,Diego López Rodríguez,41
+match127,Yellow,Carles Planas,28
+match127,Yellow,Jonás Ramalho,26
+match128,Yellow,Joaquín Fernández Moreno,89
+match128,Yellow,Borja Fernández Fernández,87
+match128,Yellow,Aleix Vidal,81
+match128,Yellow,Daniel Carriço,64
+match128,Yellow,Sergio Escudero Palomo,39
+match128,Yellow,Antonio Jesús Regal Angulo,21
+match129,Yellow,Sergio Canales,89
+match129,Yellow,Víctor Ruiz Torre,89
+match129,Yellow,Manu Morlanes,72
+match130,Yellow,Mikel Oyarzabal,92
+match130,Yellow,Sandro Ramírez,89
+match130,Yellow,Maxi Gómez,87
+match130,Yellow,David Juncà Reñé,76
+match131,Yellow,Alexandre Moreno,80
+match131,Yellow,Óscar Trejo,75
+match131,Yellow,Gorka Elustondo,67
+match131,Yellow,Rubén Peña Jiménez,65
+match131,Yellow,Joan Jordán,60
+match131,Yellow,Giannelli Imbula,46
+match131,Yellow,Pape Diop,38
+match131,Yellow,Raúl de Tomás,19
+match132,Yellow,Rubén Blanco,59
+match132,Yellow,Xabier Etxeita,37
+match132,Yellow,Sofiane Boufal,32
+match132,Yellow,Damián Musto,31
+match132,Yellow,Juan Camilo Hernández Suárez,29
+match133,Yellow,David López Silva,77
+match133,Yellow,Jaime Mata,58
+match133,Yellow,Nemanja Maksimović,21
+match133,Yellow,Amath Ndiaye,18
+match133,Yellow,Hernán Arsenio Pérez,14
+match134,Yellow,Dani Ceballos,71
+match134,Yellow,José Luis Gayà,20
+match134,Yellow,Carlos Soler,11
+match134,Yellow,Gabriel Paulista,6
+match135,Yellow,Allan Romeo Nyom,78
+match135,Yellow,Jonathan Silva,62
+match135,Yellow,Rubén Pérez del Mármol,15
+match136,Yellow,John Guidetti,93
+match136,Yellow,Franco Vázquez,84
+match136,Yellow,Tomás Pina,55
+match136,Yellow,Pablo Sarabia,39
+match136,Yellow,Roque Mesa,26
+match136,Yellow,Manu García Sánchez,24
+match137,Yellow,Alfonso Pedraza,91
+match137,Yellow,Pablo Fornals,90
+match137,Yellow,Jordi Alba,69
+match137,Yellow,Álvaro González Soberón,26
+match137,Yellow,Clément Lenglet,18
+match137,Yellow,Víctor Ruiz Torre,11
+match138,Yellow,Willian José,80
+match138,Yellow,William Carvalho,79
+match138,Yellow,Aissa Mandi,76
+match138,Yellow,Theo Hernández,62
+match138,Yellow,Junior Firpo,59
+match138,Yellow,Giovani Lo Celso,46
+match139,Yellow,Saúl Ñíguez,89
+match139,Yellow,Diego Costa,89
+match139,Yellow,Yakubu Partey,72
+match139,Yellow,Koke Resurrección,41
+match139,Yellow,Antoine Griezmann,17
+match140,Yellow,Iker Muniain,94
+match140,Yellow,Markel Susaeta,84
+match140,Red,Peru Nolaskoain,75
+match140,Yellow,Iñigo Martínez,65
+match140,Yellow,Rubén Rochina,60
+match140,Yellow,Aritz Aduriz,40
+match140,Yellow,Unai Nuñez,40
+match140,Yellow,José Campaña,23
+match141,Red,Rubén Pérez del Mármol,93
+match141,Yellow,Djené Dakonam Ortega,75
+match141,Yellow,Allan Romeo Nyom,49
+match141,Yellow,Jaime Mata,42
+match142,Yellow,Víctor Laguardia,92
+match142,Yellow,Francisco Javier Montero Rubio,91
+match142,Yellow,Yakubu Partey,79
+match142,Yellow,Santiago Arias,58
+match142,Yellow,Ximo Navarro Jiménez,37
+match142,Yellow,Ángel Correa,22
+match142,Yellow,Tomás Pina,16
+match142,Yellow,Jonathan Calleri,15
+match142,Yellow,Nikola Kalinić,5
+match143,Yellow,Dídac Vilà,79
+match144,Yellow,André Silva,91
+match144,Yellow,Gabriel Mercado,45
+match144,Yellow,Quincy Promes,37
+match144,Yellow,Franco Vázquez,36
+match145,Yellow,Rubén Blanco,93
+match145,Yellow,Maxi Gómez,85
+match145,Yellow,Okay Yokuşlu,76
+match145,Yellow,Mario Gaspar,48
+match145,Yellow,Álvaro González Soberón,39
+match145,Yellow,Santiago Cáseres,14
+match146,Yellow,Jordi Amat Maas,93
+match146,Yellow,Álvaro Medrán,61
+match146,Yellow,Antonio Barragán,58
+match146,Yellow,Adrián Embarba,33
+match146,Yellow,Santiago Comesaña Veiga,33
+match146,Yellow,William Carvalho,31
+match147,Yellow,José Ángel Valdés,91
+match147,Yellow,José Campaña,82
+match147,Yellow,Gonzalo Escalante,77
+match147,Yellow,Antonio García Aranda,1
+match148,Yellow,Pablo Insua,80
+match148,Yellow,Xabier Etxeita,42
+match148,Yellow,Dani Ceballos,39
+match148,Yellow,Dani Carvajal,26
+match149,Yellow,Joseba Zaldua,73
+match149,Yellow,Míchel Herrero,71
+match149,Yellow,Mikel Merino,66
+match149,Yellow,Fernando Calero,4
+match150,Yellow,Juanpe Ramírez,83
+match150,Yellow,Ander Capa,81
+match150,Yellow,Unai Nuñez,78
+match150,Yellow,Beñat Etxebarria,55
+match151,Yellow,Iván Cuéllar,93
+match151,Yellow,David Costas,85
+match151,Yellow,Maxi Gómez,35
+match151,Yellow,David Juncà Reñé,28
+match151,Yellow,Mikel Vesga,24
+match151,Yellow,Youssef En-Nesyri,17
+match152,Yellow,Rodrigo Moreno Machado,78
+match153,Yellow,Sebastián Cristóforo,86
+match153,Yellow,Adnan Januzaj,72
+match153,Yellow,Asier Illarramendi,63
+match153,Yellow,Robin Le Normand,38
+match153,Yellow,Dimitri Foulquier,35
+match153,Yellow,Willian José,33
+match153,Yellow,Jorge Molina Vidal,32
+match154,Yellow,Giannelli Imbula,83
+match154,Yellow,Tiago Manuel Dias Correia,64
+match154,Yellow,Alejandro Gálvez,39
+match155,Yellow,Rubén Alcaraz,91
+match155,Yellow,Koke Resurrección,78
+match155,Yellow,Kiko Olivas,45
+match155,Yellow,Toni Villa,27
+match155,Yellow,Óscar Plano,23
+match156,Yellow,Víctor Sánchez Mata,84
+match156,Yellow,Sidnei Rechel da Silva Junior,65
+match156,Yellow,David López Silva,56
+match156,Yellow,Aissa Mandi,53
+match156,Yellow,Borja Iglesias,45
+match156,Yellow,William Carvalho,23
+match156,Yellow,Joaquín,18
+match157,Yellow,Samuele Longo,94
+match157,Yellow,Santiago Cáseres,94
+match157,Yellow,Jorge Pulido,73
+match157,Yellow,Carlos Bacca,66
+match157,Red,Mario Gaspar,65
+match157,Yellow,Pablo Insua,53
+match157,Yellow,Mario Gaspar,43
+match157,Yellow,Manu Trigueros,42
+match157,Yellow,Chimy Ávila,16
+match158,Red,Erick Cabaco,76
+match158,Yellow,Jason Remeseiro,59
+match158,Yellow,Jordi Alba,45
+match158,Yellow,Ivan Rakitić,36
+match158,Yellow,Róber Pier,25
+match158,Yellow,Ousmane Dembélé,18
+match159,Yellow,Pablo Sarabia,89
+match159,Yellow,Éver Banega,85
+match159,Yellow,Valery Fernández Estrada,33
+match160,Yellow,Borja Bastón,87
+match160,Yellow,Rubén Duarte,58
+match160,Yellow,Iñigo Martínez,47
+match160,Yellow,Dani García,14
+match161,Yellow,Mathieu Flamini,93
+match161,Yellow,Àlex Granell,86
+match161,Yellow,Dimitri Foulquier,36
+match162,Yellow,Guillermo Maripán,94
+match162,Yellow,Mikel Merino,91
+match162,Yellow,Rubén Duarte,76
+match162,Yellow,Wakaso Mubarak,34
+match162,Yellow,David Zurutuza,25
+match162,Yellow,Tomás Pina,22
+match163,Yellow,Raúl García Escudero,78
+match163,Yellow,Yeray Álvarez,61
+match163,Yellow,Keko Gontán,44
+match163,Yellow,Míchel Herrero,32
+match163,Yellow,Dani García,24
+match164,Yellow,Esteban Granero,88
+match164,Yellow,Diego Godín,85
+match165,Yellow,Iago Aspas,45
+match166,Yellow,Paulo Oliveira,88
+match166,Yellow,Joan Jordán,87
+match166,Yellow,Zouhair Feddal,71
+match166,Yellow,Giovani Lo Celso,57
+match166,Yellow,Iván Ramis,42
+match166,Yellow,Gonzalo Escalante,33
+match167,Yellow,Jonathan Silva,70
+match167,Yellow,André Silva,67
+match167,Yellow,Rubén Pérez del Mármol,59
+match167,Red,Franco Vázquez,47
+match167,Yellow,Gabriel Mercado,47
+match167,Yellow,Wissam Ben Yedder,44
+match167,Yellow,Allan Romeo Nyom,17
+match168,Yellow,Xabier Etxeita,95
+match168,Yellow,Cristiano Piccini,94
+match168,Yellow,Carlos Soler,87
+match168,Yellow,José Luis Gayà,84
+match168,Yellow,Christian Rivera Hernández,84
+match168,Yellow,Samuele Longo,82
+match168,Yellow,Rodrigo Moreno Machado,63
+match168,Yellow,Pablo Insua,54
+match168,Yellow,Ezequiel Garay,49
+match168,Yellow,Denís Chéryshev,34
+match168,Yellow,Santi Mina,31
+match169,Yellow,Stole Dimitrievski,95
+match169,Yellow,Giannelli Imbula,90
+match169,Yellow,Rubén Rochina,80
+match169,Yellow,Sergio Postigo Redondo,58
+match170,Yellow,Jaume Costa,91
+match170,Yellow,Sergio Ramos,89
+match170,Yellow,Álvaro González Soberón,45
+match170,Yellow,Casemiro,41
+match171,Red,Gerard Gumbau,91
+match171,Yellow,Kenneth Omeruo,72
+match171,Yellow,Gerard Gumbau,70
+match171,Yellow,Marc Roca,68
+match171,Yellow,José Luis García del Pozo,67
+match171,Yellow,Dídac Vilà,35
+match171,Yellow,Unai Bustinza,20
+match172,Red,Sergio Postigo Redondo,69
+match172,Yellow,Enis Bardhi,56
+match172,Yellow,Cristhian Stuani,35
+match172,Yellow,Antonio García Aranda,28
+match172,Yellow,Sergio Postigo Redondo,21
+match173,Yellow,Fernando Pacheco Flores,82
+match173,Yellow,Ferran Torres,80
+match173,Yellow,Mouctar Diakhaby,46
+match173,Yellow,Ximo Navarro Jiménez,25
+match173,Yellow,Daniel Wass,22
+match173,Yellow,Víctor Laguardia,13
+match174,Yellow,Moi Gómez,85
+match174,Yellow,Francis Guerrero,78
+match174,Yellow,Xabier Etxeita,45
+match174,Yellow,Juan Camilo Hernández Suárez,41
+match174,Yellow,Zouhair Feddal,8
+match175,Yellow,Tiago Manuel Dias Correia,65
+match175,Yellow,Óscar Trejo,59
+match175,Yellow,Adrián Embarba,56
+match176,Yellow,Javi Fuego,69
+match176,Yellow,Ramiro Funes Mori,58
+match177,Yellow,Nemanja Maksimović,77
+match177,Yellow,Leandro Cabrera,69
+match177,Yellow,Arturo Vidal,65
+match177,Yellow,Damián Suárez,61
+match177,Yellow,Dimitri Foulquier,15
+match177,Yellow,Jordi Alba,15
+match177,Yellow,Arthur Melo,12
+match178,Yellow,Isco,88
+match178,Yellow,Luka Modrić,75
+match178,Red,Lucas Vázquez,61
+match178,Yellow,Marcelo Vieira,52
+match178,Yellow,Lucas Vázquez,40
+match178,Yellow,Willian José,36
+match179,Yellow,Daniel Carriço,94
+match179,Yellow,Stefan Savić,92
+match179,Yellow,André Silva,92
+match179,Yellow,Yakubu Partey,91
+match179,Yellow,Diego Godín,78
+match179,Yellow,Rodri Hernández,77
+match179,Yellow,Éver Banega,72
+match179,Yellow,Antoine Griezmann,54
+match179,Yellow,Saúl Ñíguez,49
+match179,Yellow,Pablo Sarabia,47
+match179,Yellow,Jesús Navas,46
+match179,Yellow,Ángel Correa,14
+match180,Yellow,Iker Muniain,92
+match180,Yellow,Aritz Aduriz,85
+match180,Yellow,Hugo Mallo,67
+match180,Yellow,Dani García,58
+match180,Yellow,Iñigo Córdoba,40
+match180,Yellow,Okay Yokuşlu,25
+match180,Yellow,Iñaki Williams,15
+match181,Yellow,Tiago Manuel Dias Correia,92
+match181,Yellow,Emiliano Velázquez,80
+match181,Yellow,Luis Advíncula,71
+match181,Yellow,Brais Méndez,19
+match181,Yellow,Abdoulaye Ba,16
+match182,Yellow,Pedro Porro,93
+match182,Yellow,Pere Pons,80
+match182,Yellow,Cristhian Stuani,61
+match182,Yellow,Víctor Laguardia,52
+match182,Yellow,Douglas Luiz,40
+match182,Yellow,Jonathan Calleri,21
+match183,Yellow,Jonathan Silva,89
+match183,Yellow,Jorge Pulido,67
+match183,Yellow,Roberto Santamaría Ciprián,65
+match183,Yellow,Unai Bustinza,58
+match183,Yellow,Dimitrios Siovas,35
+match183,Yellow,Gonzalo Melero,30
+match184,Yellow,Francis Coquelin,81
+match184,Yellow,Fernando Calero,76
+match184,Yellow,Rubén Alcaraz,67
+match184,Yellow,Dani Parejo,64
+match184,Yellow,Enes Ünal,37
+match184,Yellow,Nacho Martínez García,20
+match184,Yellow,Óscar Plano,13
+match185,Yellow,Ángel,93
+match185,Yellow,Ramiro Funes Mori,89
+match185,Yellow,Karl Toko Ekambi,85
+match185,Yellow,Jaume Costa,39
+match185,Yellow,Gerard Moreno,36
+match185,Yellow,Mauro Arambarri,30
+match185,Yellow,Álvaro González Soberón,29
+match185,Yellow,Dimitri Foulquier,13
+match186,Yellow,Joris Gnagnon,93
+match186,Yellow,Iñigo Martínez,90
+match186,Yellow,Iago Herrerín,81
+match186,Yellow,Iker Muniain,76
+match186,Yellow,Dani García,64
+match186,Yellow,Sergio Escudero Palomo,28
+match186,Yellow,Roque Mesa,26
+match187,Yellow,José Campaña,94
+match187,Yellow,Erick Cabaco,85
+match187,Yellow,Jason Remeseiro,42
+match188,Yellow,Gerard Piqué,70
+match188,Yellow,Luis Suárez,44
+match188,Yellow,Sergi Enrich,42
+match189,Yellow,William Carvalho,86
+match189,Yellow,Federico Valverde,62
+match189,Yellow,Sergio Ramos,42
+match189,Yellow,Luka Modrić,35
+match189,Yellow,Andrés Guardado,4
+match190,Yellow,Gerónimo Rulli,94
+match190,Red,Mikel Merino,75
+match190,Yellow,Edinaldo Gomes Pereira,69
+match190,Yellow,Dídac Vilà,65
+match190,Yellow,Willian José,64
+match190,Yellow,Asier Illarramendi,61
+match190,Yellow,Héctor Moreno,58
+match190,Yellow,Mikel Merino,43
+match190,Yellow,Aritz Elustondo,33
+match190,Yellow,Sergi Darder,22
+match190,Yellow,David López Silva,7
+match191,Yellow,Wakaso Mubarak,78
+match191,Yellow,Rubén Duarte,77
+match191,Yellow,Tomás Pina,62
+match191,Yellow,Ximo Navarro Jiménez,40
+match192,Yellow,Facundo Roncaglia,92
+match192,Yellow,Ferran Torres,80
+match192,Yellow,Hugo Mallo,76
+match192,Yellow,Brais Méndez,58
+match192,Yellow,Gabriel Paulista,42
+match192,Yellow,Carlos Soler,42
+match192,Yellow,Jozabed,11
+match193,Yellow,Enric Gallego,68
+match193,Yellow,Ángel Correa,64
+match193,Yellow,José María Giménez,62
+match193,Yellow,Xabier Etxeita,24
+match194,Yellow,Simon Kjær,85
+match194,Yellow,Dani Ceballos,65
+match194,Yellow,Casemiro,61
+match194,Yellow,Éver Banega,54
+match194,Yellow,Daniel Carriço,30
+match195,Yellow,Sergi Roberto,60
+match195,Yellow,Carles Aleñá,54
+match195,Yellow,Kenneth Omeruo,30
+match195,Yellow,Rodrigo Tarín,22
+match195,Yellow,Sergio Busquets,12
+match195,Yellow,Martin Braithwaite,8
+match196,Yellow,Jonás Ramalho,83
+match196,Yellow,Loren Morón García,66
+match196,Yellow,Pedro Alcalá Guirado,55
+match196,Yellow,Antonio Sanabria,46
+match196,Yellow,Valery Fernández Estrada,39
+match196,Yellow,Pedro Porro,11
+match197,Yellow,José Campaña,97
+match197,Yellow,Daniele Verde,97
+match197,Yellow,Roger Martí,95
+match197,Yellow,Fernando Calero,90
+match197,Yellow,Erick Cabaco,87
+match197,Yellow,Borja Fernández Fernández,78
+match197,Yellow,Jason Remeseiro,61
+match197,Yellow,Rubén Rochina,55
+match197,Yellow,Antonio Jesús Regal Angulo,40
+match197,Yellow,Enes Ünal,15
+match197,Yellow,Enis Bardhi,14
+match198,Yellow,Stole Dimitrievski,88
+match198,Yellow,Diego Llorente,87
+match198,Yellow,Emiliano Velázquez,76
+match199,Yellow,Álvaro González Soberón,62
+match199,Yellow,Mario Gaspar,57
+match199,Yellow,Vicente Iborra de la Fuente,54
+match199,Yellow,Beñat Etxebarria,40
+match199,Yellow,Ramiro Funes Mori,37
+match200,Yellow,Esteban Granero,91
+match200,Yellow,Sergi Enrich,86
+match200,Yellow,Borja Iglesias,85
+match200,Yellow,Léo Baptistão,69
+match200,Yellow,Dídac Vilà,40
+match200,Yellow,Joan Jordán,28
+match200,Yellow,Víctor Sánchez Mata,18
+match201,Red,Leandro Cabrera,91
+match201,Yellow,Samu Saiz,90
+match201,Red,Djené Dakonam Ortega,88
+match201,Yellow,Leandro Cabrera,83
+match201,Yellow,Rodri Hernández,76
+match201,Yellow,Sebastián Cristóforo,71
+match201,Yellow,Santiago Arias,48
+match201,Yellow,Ángel,47
+match201,Yellow,Djené Dakonam Ortega,34
+match202,Yellow,Charles Dias,87
+match202,Yellow,Marko Dmitrović,66
+match202,Yellow,José Luis García del Pozo,51
+match202,Yellow,Marc Cucurella,38
+match202,Yellow,Dimitrios Siovas,35
+match203,Yellow,Róber Pier,86
+match203,Yellow,Éver Banega,56
+match203,Yellow,Gabriel Mercado,40
+match204,Yellow,Mario Gaspar,76
+match204,Yellow,José Luis Gayà,72
+match204,Yellow,Vicente Iborra de la Fuente,26
+match204,Yellow,Víctor Ruiz Torre,15
+match205,Yellow,Ander Capa,87
+match205,Red,Óscar de Marcos,84
+match205,Yellow,Yeray Álvarez,82
+match205,Yellow,Loren Morón García,50
+match205,Yellow,Mikel San José,31
+match205,Yellow,Yuri Berchiche,26
+match205,Yellow,Sidnei Rechel da Silva Junior,24
+match206,Yellow,Thibaut Courtois,91
+match206,Yellow,Nacho Fernández Iglesias,88
+match206,Yellow,Alejandro López Moreno,85
+match206,Yellow,Dani Carvajal,81
+match206,Red,Raphaël Varane,72
+match206,Yellow,Sergio García de la Fuente,34
+match206,Yellow,Sergio Ramos,27
+match206,Yellow,Marc Roca,7
+match207,Yellow,Cristhian Stuani,89
+match207,Yellow,Juanpe Ramírez,69
+match207,Yellow,Bono,52
+match207,Red,Bernardo Espinosa,51
+match207,Yellow,Sergio Busquets,43
+match207,Yellow,Arturo Vidal,37
+match207,Yellow,Clément Lenglet,31
+match207,Yellow,Bernardo Espinosa,29
+match208,Yellow,Carlos Akapo,94
+match208,Yellow,Yangel Herrera,63
+match208,Yellow,Jorge Miramón,59
+match209,Yellow,Míchel Herrero,90
+match209,Yellow,David Juncà Reñé,89
+match209,Red,Wesley Hoedt,87
+match209,Yellow,Toni Villa,60
+match209,Yellow,Sofiane Boufal,52
+match209,Yellow,Wesley Hoedt,41
+match209,Yellow,Hugo Mallo,40
+match210,Yellow,Tiago Manuel Dias Correia,91
+match210,Yellow,Álvaro Medrán,89
+match210,Yellow,Santiago Comesaña Veiga,85
+match210,Yellow,Giannelli Imbula,84
+match210,Yellow,Fernando Pacheco Flores,84
+match210,Yellow,Alexandre Moreno,69
+match210,Yellow,Guillermo Maripán,57
+match211,Yellow,Fernando Calero,88
+match211,Yellow,Anuar Mohamed Tuhami,85
+match211,Yellow,Moi Gómez,85
+match211,Yellow,Damián Musto,83
+match211,Yellow,Jorge Pulido,82
+match211,Yellow,Javi Galán,69
+match211,Yellow,Pablo Insua,63
+match211,Yellow,Juan Camilo Hernández Suárez,37
+match212,Yellow,Jordi Alba,91
+match212,Yellow,Ivan Rakitić,47
+match212,Yellow,Sergi Roberto,31
+match213,Yellow,Brais Méndez,90
+match213,Yellow,Éver Banega,89
+match213,Yellow,Wissam Ben Yedder,88
+match213,Yellow,David Costas,88
+match213,Yellow,Fran Beltrán,80
+match213,Yellow,Sergi Gómez,63
+match213,Yellow,Okay Yokuşlu,49
+match213,Yellow,Pablo Sarabia,29
+match214,Yellow,Jason Remeseiro,94
+match214,Yellow,Erick Cabaco,56
+match214,Yellow,Dimitri Foulquier,34
+match214,Yellow,Ignasi Miquel,31
+match214,Yellow,Mathieu Flamini,22
+match214,Yellow,José Campaña,21
+match214,Yellow,Rubén Rochina,20
+match215,Yellow,Raúl Rodríguez Navas,81
+match215,Yellow,Ander Capa,55
+match216,Yellow,Pau López,87
+match216,Yellow,Sergio León,85
+match216,Yellow,Junior Firpo,83
+match216,Yellow,Aissa Mandi,82
+match216,Yellow,Lucas Hernández,51
+match216,Yellow,Ángel Correa,41
+match216,Yellow,Santiago Arias,40
+match217,Yellow,Marc Cucurella,92
+match217,Yellow,Pape Diop,41
+match217,Yellow,Pedro Alcalá Guirado,9
+match218,Yellow,Wakaso Mubarak,74
+match218,Yellow,Burgui,54
+match218,Yellow,Víctor Laguardia,32
+match219,Yellow,Sergi Darder,91
+match219,Yellow,Vicente Iborra de la Fuente,86
+match219,Yellow,Roberto Rosales,82
+match219,Yellow,Mario Hermoso,64
+match219,Yellow,Dídac Vilà,60
+match219,Yellow,Ramiro Funes Mori,53
+match219,Yellow,Pablo Fornals,40
+match219,Yellow,Víctor Sánchez Mata,39
+match219,Yellow,Daniele Bonera,4
+match220,Yellow,Iván Cuéllar,94
+match220,Yellow,Emiliano Velázquez,90
+match220,Yellow,Franco Di Santo,73
+match220,Red,Allan Romeo Nyom,58
+match220,Yellow,José Luis García del Pozo,54
+match220,Yellow,Unai Bustinza,51
+match220,Yellow,Álvaro Medrán,49
+match220,Yellow,Óscar Trejo,40
+match220,Yellow,Jonathan Silva,13
+match220,Yellow,Jordi Amat Maas,8
+match220,Yellow,Abdoulaye Ba,1
+match221,Yellow,Pablo Hervías,65
+match221,Yellow,Rubén Alcaraz,56
+match221,Yellow,Santi Cazorla,42
+match221,Yellow,Ramiro Funes Mori,29
+match221,Yellow,Óscar Plano,8
+match222,Red,Yakubu Partey,80
+match222,Yellow,Saúl Ñíguez,72
+match222,Yellow,Álvaro Morata,68
+match222,Yellow,Luka Modrić,66
+match222,Yellow,Sergio Reguilón,64
+match222,Yellow,Yakubu Partey,62
+match222,Yellow,Lucas Hernández,58
+match222,Yellow,José María Giménez,41
+match222,Yellow,Antoine Griezmann,24
+match222,Yellow,Lucas Vázquez,22
+match223,Yellow,Jordi Amat Maas,77
+match223,Yellow,Emiliano Velázquez,71
+match224,Yellow,Mathías Olivera,89
+match224,Yellow,David Costas,87
+match224,Yellow,Mathieu Flamini,69
+match224,Yellow,Jaime Mata,64
+match224,Red,Maxi Gómez,37
+match224,Yellow,Maxi Gómez,37
+match225,Yellow,Javi Galán,81
+match225,Yellow,Aleix García,69
+match225,Red,Bernardo Espinosa,68
+match225,Yellow,Bernardo Espinosa,48
+match226,Yellow,Yeray Álvarez,91
+match226,Red,Óscar de Marcos,91
+match226,Yellow,Sergio Busquets,78
+match226,Yellow,Clément Lenglet,72
+match226,Yellow,Óscar de Marcos,68
+match226,Yellow,Dani García,52
+match227,Yellow,Martin Braithwaite,92
+match227,Yellow,Diego Lainez Leyva,89
+match227,Red,Javi García,80
+match227,Yellow,José Luis García 
+del Pozo,76
+match227,Yellow,Kenneth Omeruo,53
+match227,Yellow,Antonio Barragán,28
+match227,Yellow,Mikel Vesga,26
+match228,Yellow,Wissam Ben Yedder,88
+match228,Yellow,Jesús Navas,88
+match228,Red,Éver Banega,84
+match228,Yellow,Éver Banega,65
+match228,Yellow,Joan Jordán,52
+match228,Yellow,Sergio Escudero Palomo,39
+match229,Yellow,Joseba Zaldua,86
+match229,Yellow,Sandro Ramírez,78
+match229,Yellow,Asier Illarramendi,76
+match229,Yellow,Cristiano Piccini,57
+match229,Yellow,Theo Hernández,33
+match229,Yellow,Santi Mina,26
+match230,Yellow,Antonio Luna Rodríguez,80
+match230,Yellow,Víctor Laguardia,70
+match230,Yellow,Darko Brašanac,65
+match230,Yellow,Tomás Pina,48
+match230,Yellow,Erick Cabaco,44
+match231,Yellow,Marc Cucurella,90
+match231,Yellow,Pape Diop,78
+match231,Yellow,Nemanja Maksimović,67
+match231,Yellow,Djené Dakonam Ortega,44
+match232,Yellow,Míchel Herrero,70
+match232,Yellow,Lionel Messi,67
+match232,Yellow,Anuar Mohamed Tuhami,34
+match232,Yellow,Enes Ünal,11
+match233,Yellow,Cheick Doukouré,80
+match233,Red,Ryad Boudebouz,49
+match233,Yellow,Sofiane Boufal,44
+match234,Yellow,Theo Hernández,90
+match234,Yellow,Unai Bustinza,89
+match234,Yellow,Raúl Rodríguez Navas,63
+match234,Yellow,Dimitrios Siovas,46
+match234,Yellow,Willian José,45
+match234,Yellow,Diego Llorente,21
+match235,Yellow,José María Giménez,92
+match236,Yellow,Aissa Mandi,83
+match236,Yellow,Diego Lainez Leyva,73
+match236,Yellow,Sergio Canales,44
+match236,Yellow,Andrés Guardado,12
+match236,Yellow,Rubén Duarte,9
+match237,Red,Sergio Ramos,90
+match237,Yellow,Casemiro,88
+match237,Yellow,Pedro Alcalá Guirado,86
+match237,Yellow,Sergio Ramos,64
+match237,Yellow,Anthony Lozano,48
+match238,Red,Javier López Rodríguez,95
+match238,Yellow,Marc Roca,87
+match238,Yellow,Facundo Roncaglia,84
+match238,Yellow,Esteban Granero,75
+match238,Yellow,Francis Coquelin,66
+match238,Yellow,Javier López Rodríguez,28
+match239,Yellow,Ramiro Funes Mori,81
+match239,Yellow,Mario Gaspar,68
+match239,Yellow,Roque Mesa,60
+match239,Yellow,Álvaro González Soberón,52
+match239,Yellow,Karl Toko Ekambi,12
+match240,Yellow,Moi Gómez,73
+match240,Yellow,Adrián Diéguez,68
+match240,Yellow,Enric Gallego,42
+match240,Yellow,Jorge Miramón,41
+match240,Yellow,Yangel Herrera,38
+match240,Yellow,Ander Capa,32
+match241,Yellow,Alfa Semedo,80
+match241,Yellow,Javi Galán,76
+match241,Yellow,Juanpi,69
+match241,Yellow,Esteban Granero,31
+match241,Yellow,Chimy Ávila,28
+match241,Yellow,Xabier Etxeita,25
+match242,Yellow,Hugo Mallo,70
+match242,Yellow,Rubén Duarte,59
+match242,Yellow,Okay Yokuşlu,54
+match242,Yellow,Ximo Navarro Jiménez,46
+match243,Yellow,Anaitz Arbilla Zabala,87
+match243,Yellow,Iñigo Martínez,83
+match243,Yellow,Charles Dias,77
+match243,Yellow,Paulo Oliveira,58
+match243,Yellow,Beñat Etxebarria,55
+match243,Yellow,Pape Diop,46
+match243,Yellow,Yeray Álvarez,13
+match244,Yellow,Mario Suárez,90
+match244,Yellow,Damián Suárez,82
+match244,Yellow,Vitorino Antunes,32
+match245,Yellow,Roque Mesa,90
+match245,Yellow,Pablo Sarabia,83
+match245,Yellow,Simon Kjær,80
+match245,Yellow,Franco Vázquez,70
+match245,Yellow,Maximilian Wöber,57
+match245,Yellow,Marko Rog,49
+match245,Yellow,Gerard Piqué,38
+match246,Yellow,Víctor Ruiz Torre,79
+match246,Yellow,Santiago Cáseres,70
+match246,Yellow,Álvaro González Soberón,66
+match247,Yellow,Youssef En-Nesyri,94
+match247,Yellow,Kevin Gameiro,90
+match247,Yellow,Rubén Pérez del Mármol,84
+match247,Yellow,Unai Bustinza,72
+match247,Yellow,Allan Romeo Nyom,69
+match247,Yellow,Neto Murara,68
+match247,Yellow,José Luis Gayà,25
+match247,Yellow,Vasyl Kravets,21
+match248,Red,Rubén Rochina,88
+match248,Red,Nacho Fernández Iglesias,86
+match248,Yellow,Antonio Luna Rodríguez,84
+match248,Yellow,Pedro López Muñoz,82
+match248,Yellow,Lucas Vázquez,68
+match248,Yellow,Rubén Rochina,57
+match248,Yellow,Nacho Fernández Iglesias,28
+match248,Yellow,Roger Martí,25
+match249,Yellow,Zouhair Feddal,83
+match249,Yellow,Nacho Martínez García,62
+match249,Yellow,Sergio Canales,20
+match250,Yellow,Mikel Merino,86
+match250,Yellow,Àlex Granell,70
+match250,Yellow,Douglas Luiz,66
+match250,Yellow,Anthony Lozano,54
+match250,Yellow,Cristhian Stuani,32
+match251,Yellow,Pedro Alcalá Guirado,92
+match251,Yellow,Santiago Comesaña Veiga,89
+match251,Yellow,Àlex Granell,84
+match251,Yellow,Raúl García Carnero,77
+match251,Yellow,Emiliano Velázquez,75
+match251,Yellow,Jonás Ramalho,64
+match251,Red,Abdoulaye Ba,60
+match251,Yellow,Mario Suárez,6
+match252,Yellow,Rubén Alcaraz,91
+match252,Yellow,Borja Iglesias,91
+match252,Yellow,Nacho Martínez García,68
+match252,Yellow,Sergi Darder,52
+match253,Yellow,Chimy Ávila,99
+match253,Yellow,Gabriel Mercado,98
+match253,Yellow,Jorge Pulido,78
+match253,Yellow,Yangel Herrera,77
+match253,Yellow,Javi Galán,66
+match253,Yellow,Xabier Etxeita,61
+match253,Yellow,Simon Kjær,54
+match253,Yellow,Quincy Promes,45
+match253,Yellow,Marko Rog,40
+match254,Yellow,Dani Carvajal,89
+match254,Yellow,Marco Asensio,82
+match254,Yellow,Clément Lenglet,63
+match254,Yellow,Sergio Ramos,61
+match254,Yellow,Sergio Busquets,2
+match255,Yellow,Víctor Ruiz Torre,89
+match255,Yellow,Álvaro González Soberón,71
+match255,Yellow,Víctor Laguardia,65
+match255,Yellow,Jony Rodríguez,40
+match255,Yellow,Jonathan Calleri,30
+match256,Yellow,Aissa Mandi,93
+match256,Yellow,Joaquín,86
+match256,Yellow,Jaime Mata,51
+match256,Yellow,Mauro Arambarri,12
+match257,Yellow,José Ángel Valdés,74
+match257,Yellow,David Costas,37
+match258,Yellow,Diego Godín,63
+match258,Red,Koke Resurrección,62
+match258,Yellow,Rodri Hernández,59
+match258,Yellow,Koke Resurrección,41
+match258,Yellow,Joseba Zaldua,3
+match259,Yellow,Iñigo Martínez,70
+match259,Yellow,Yeray Álvarez,53
+match259,Yellow,Raúl García Escudero,14
+match260,Yellow,Óscar Rodríguez Arnaiz,95
+match260,Yellow,Rodrigo Tarín,87
+match260,Yellow,Jason Remeseiro,86
+match260,Yellow,Coke Andújar,86
+match260,Yellow,Dimitrios Siovas,82
+match260,Yellow,Rúben Vezo,82
+match260,Yellow,Iván Cuéllar,70
+match260,Yellow,Diego Reyes,65
+match260,Yellow,José Luis García del Pozo,44
+match260,Yellow,Erick Cabaco,30
+match261,Yellow,Víctor Sánchez Mata,87
+match261,Yellow,Iñigo Martínez,78
+match261,Yellow,Esteban Granero,73
+match261,Yellow,Yuri Berchiche,46
+match261,Yellow,Óscar Melendo,45
+match261,Yellow,Dani García,36
+match261,Yellow,Mario Hermoso,24
+match261,Yellow,Facundo Ferreyra,21
+match262,Yellow,Adrián Marín Gómez,53
+match262,Yellow,Gonzalo Escalante,26
+match263,Yellow,Rubén Pérez del Mármol,65
+match263,Yellow,Thomas Lemar,53
+match263,Yellow,Martin Braithwaite,15
+match263,Yellow,José María Giménez,14
+match264,Yellow,Giannelli Imbula,89
+match264,Yellow,Sergio Busquets,79
+match264,Yellow,Emiliano Velázquez,68
+match265,Yellow,Damián Musto,83
+match265,Yellow,David Ferreiro,70
+match265,Yellow,Xabier Etxeita,21
+match265,Yellow,Javi Galán,5
+match266,Yellow,Hugo Mallo,95
+match266,Yellow,Maxi Gómez,76
+match266,Yellow,Okay Yokuşlu,64
+match267,Yellow,Pedro Alcalá Guirado,88
+match267,Yellow,Mouctar Diakhaby,82
+match267,Red,Facundo Roncaglia,72
+match267,Yellow,Facundo Roncaglia,62
+match267,Yellow,José Luis Gayà,20
+match268,Yellow,Rubén Rochina,85
+match268,Yellow,Vicente Iborra de la Fuente,82
+match268,Yellow,José Campaña,76
+match268,Yellow,Ramiro Funes Mori,69
+match268,Yellow,Karl Toko Ekambi,60
+match268,Yellow,Gerard Moreno,39
+match268,Yellow,Erick Cabaco,36
+match268,Yellow,Mario Gaspar,23
+match269,Yellow,Daniel Carriço,81
+match269,Yellow,Munir El Haddadi,47
+match269,Yellow,Raúl Rodríguez Navas,43
+match269,Yellow,Igor Zubeldia,36
+match270,Yellow,Marcelo Vieira,93
+match270,Red,Casemiro,80
+match270,Yellow,Casemiro,69
+match270,Yellow,Thibaut Courtois,64
+match270,Yellow,Nacho Martínez García,61
+match270,Yellow,Sergio Reguilón,48
+match270,Yellow,Álvaro Odriozola,12
+match271,Yellow,Mikel Merino,70
+match271,Yellow,Sandro Ramírez,44
+match271,Yellow,José Manuel Rodríguez Benito,38
+match271,Yellow,Rúben Vezo,30
+match272,Yellow,Yeray Álvarez,82
+match272,Yellow,Mikel San José,77
+match272,Yellow,Rodri Hernández,45
+match272,Yellow,Raúl García Escudero,37
+match273,Yellow,Tomás Pina,91
+match273,Yellow,Guillermo Maripán,89
+match273,Yellow,David Ferreiro,38
+match273,Yellow,Víctor Laguardia,33
+match274,Yellow,Michael Santos,94
+match274,Yellow,Guido Carrillo,93
+match274,Yellow,Kenneth Omeruo,63
+match274,Yellow,José Luis García del Pozo,61
+match274,Yellow,Youssef En-Nesyri,52
+match274,Yellow,Vasyl Kravets,47
+match274,Yellow,Martin Braithwaite,38
+match274,Yellow,Allan Romeo Nyom,32
+match274,Yellow,Marc Muniesa,17
+match275,Yellow,Gareth Bale,45
+match276,Yellow,Nélson Semedo,67
+match276,Yellow,Clément Lenglet,52
+match276,Yellow,Andrés Guardado,16
+match277,Yellow,Marc Cardona,97
+match277,Yellow,Keko Gontán,94
+match277,Yellow,Fabián Orellana,92
+match277,Yellow,Marko Dmitrović,90
+match277,Yellow,Rubén Alcaraz,74
+match277,Yellow,Anuar Mohamed Tuhami,67
+match277,Yellow,José Ángel Valdés,50
+match278,Red,Sergi Darder,94
+match278,Red,Juan Soriano Oropesa,94
+match278,Yellow,Juan Soriano Oropesa,90
+match278,Yellow,Daniel Carriço,75
+match278,Yellow,Sergi Darder,65
+match278,Yellow,Maximilian Wöber,63
+match279,Yellow,Francisco Portillo Soler,86
+match279,Yellow,Santi Mina,85
+match279,Yellow,Mathieu Flamini,78
+match279,Yellow,Leandro Cabrera,74
+match279,Yellow,Gonçalo Guedes,64
+match279,Yellow,Mauro Arambarri,26
+match279,Yellow,José Luis Gayà,24
+match280,Yellow,Jordi Amat Maas,82
+match280,Yellow,Álvaro González Soberón,82
+match280,Yellow,Víctor Ruiz Torre,79
+match280,Yellow,Alejandro Gálvez,66
+match280,Yellow,Emiliano Velázquez,51
+match280,Yellow,Ramiro Funes Mori,44
+match281,Yellow,Beñat Etxebarria,84
+match281,Yellow,Portu,80
+match281,Yellow,Iñigo Martínez,80
+match281,Yellow,Juanpe Ramírez,72
+match281,Yellow,Raúl García Escudero,63
+match281,Yellow,Ander Capa,39
+match282,Yellow,Juanfran Torres,88
+match282,Yellow,Manu García Sánchez,56
+match282,Yellow,Thomas Lemar,55
+match282,Yellow,Tomás Pina,50
+match283,Yellow,Roberto Rosales,93
+match283,Yellow,Adrià Pedrosa,87
+match283,Yellow,Esteban Granero,73
+match283,Yellow,Víctor Sánchez Mata,69
+match284,Yellow,Hugo Mallo,61
+match284,Yellow,Víctor Ruiz Torre,60
+match284,Yellow,Mario Gaspar,50
+match284,Yellow,Alfonso Pedraza,44
+match285,Yellow,Mathieu Flamini,91
+match285,Yellow,Djené Dakonam Ortega,86
+match285,Yellow,Mathías Olivera,70
+match285,Yellow,Guido Carrillo,68
+match285,Yellow,Damián Suárez,65
+match285,Yellow,Martin Braithwaite,65
+match285,Yellow,Nemanja Maksimović,17
+match286,Yellow,Marc Cucurella,87
+match286,Yellow,Nikola Vukčević,83
+match286,Yellow,Enis Bardhi,40
+match287,Yellow,Martín Mantovani,90
+match287,Yellow,Nacho Fernández Iglesias,66
+match287,Yellow,Damián Musto,51
+match287,Yellow,Jorge Pulido,48
+match288,Yellow,Daniel Wass,92
+match288,Yellow,Éver Banega,90
+match288,Yellow,Franco Vázquez,72
+match288,Yellow,Munir El Haddadi,58
+match289,Yellow,Enes Ünal,93
+match289,Yellow,Aritz Elustondo,75
+match289,Yellow,Anuar Mohamed Tuhami,55
+match289,Yellow,Keko Gontán,46
+match289,Yellow,Nacho Martínez García,2
+match290,Red,Franco Di Santo,95
+match290,Yellow,Jordi Amat Maas,90
+match290,Yellow,Loren Morón García,87
+match290,Yellow,Tiago Manuel Dias Correia,70
+match290,Yellow,Álvaro Medrán,61
+match290,Yellow,William Carvalho,57
+match290,Yellow,Roberto Román Triguero,52
+match290,Yellow,Emerson Royal,50
+match290,Yellow,Mario Suárez,30
+match291,Yellow,Santiago Arias,48
+match292,Yellow,Mario Hermoso,85
+match292,Yellow,Djené Dakonam Ortega,83
+match292,Yellow,Edinaldo Gomes Pereira,81
+match292,Yellow,Sebastián Cristóforo,78
+match292,Yellow,Óscar Melendo,54
+match292,Yellow,Dídac Vilà,33
+match292,Yellow,Damián Suárez,23
+match293,Yellow,Santiago Cáseres,91
+match293,Yellow,Luis Suárez,91
+match293,Red,Álvaro González Soberón,86
+match293,Yellow,Sergi Roberto,85
+match293,Yellow,Lionel Messi,84
+match293,Yellow,Carles Aleñá,83
+match293,Yellow,Arturo Vidal,77
+match293,Yellow,Ramiro Funes Mori,47
+match293,Yellow,Clément Lenglet,42
+match293,Yellow,Sergio Busquets,39
+match293,Yellow,Álvaro González Soberón,36
+match294,Red,Erick Cabaco,96
+match294,Yellow,Moses Simon,91
+match294,Yellow,Erick Cabaco,85
+match294,Yellow,Iker Muniain,78
+match294,Yellow,Roger Martí,77
+match294,Yellow,Yuri Berchiche,77
+match294,Yellow,Sergio Postigo Redondo,46
+match294,Yellow,Rúben Vezo,43
+match294,Yellow,Raúl García Escudero,6
+match294,Yellow,José Luis Morales Nogales,4
+match295,Yellow,Jordi Amat Maas,86
+match295,Yellow,Alexandre Moreno,74
+match295,Yellow,Pape Diop,51
+match296,Yellow,Emre Mor,88
+match296,Yellow,Xabier Etxeita,55
+match296,Yellow,Lucas Olaza,52
+match296,Yellow,Jorge Pulido,25
+match296,Yellow,Brais Méndez,18
+match297,Yellow,Marcelo Vieira,76
+match297,Yellow,Dani Parejo,65
+match297,Yellow,Álvaro Odriozola,64
+match297,Yellow,Daniel Wass,5
+match298,Yellow,Javi Moyano,97
+match298,Yellow,Guido Carrillo,97
+match298,Yellow,Mikel Vesga,78
+match298,Yellow,Nacho Martínez García,77
+match299,Yellow,Ximo Navarro Jiménez,70
+match299,Yellow,Borja Bastón,67
+match299,Yellow,Tomás Pina,60
+match299,Yellow,Roque Mesa,54
+match299,Yellow,Wakaso Mubarak,46
+match299,Yellow,Sergio Escudero Palomo,46
+match299,Yellow,Jesús Navas,39
+match300,Yellow,Joseba Zaldua,52
+match300,Yellow,Antonio Barragán,43
+match300,Yellow,Diego Llorente,24
+match300,Yellow,Giovani Lo Celso,19
+match300,Yellow,Andrés Guardado,18
+match301,Yellow,Luis Suárez,86
+match301,Yellow,Clément Lenglet,78
+match301,Yellow,Gerard Piqué,74
+match301,Yellow,Saúl Ñíguez,71
+match301,Yellow,Diego Godín,29
+match301,Yellow,José María Giménez,28
+match301,Red,Diego Costa,28
+match301,Yellow,Yakubu Partey,27
+match302,Yellow,Jonás Ramalho,91
+match302,Yellow,Douglas Luiz,73
+match302,Yellow,Víctor Sánchez Mata,62
+match302,Yellow,Pere Pons,58
+match302,Yellow,Àlex Granell,43
+match302,Yellow,Cristhian Stuani,35
+match302,Yellow,Javier López Rodríguez,24
+match303,Yellow,Paulo Oliveira,21
+match304,Yellow,Mouctar Diakhaby,84
+match304,Yellow,Facundo Roncaglia,76
+match304,Yellow,Alejandro Gálvez,55
+match304,Yellow,Ferran Torres,29
+match304,Yellow,Raúl de Tomás,14
+match305,Yellow,Patrick Twumasi,87
+match305,Yellow,Rodrigo Ely,76
+match305,Yellow,Rubén Duarte,69
+match305,Yellow,Jonathan Silva,58
+match305,Yellow,Martín Aguirregabiria,48
+match305,Yellow,Manu García Sánchez,48
+match305,Yellow,Gerard Gumbau,44
+match305,Yellow,Tomás Pina,32
+match305,Yellow,Javier Eraso,19
+match305,Yellow,Unai Bustinza,17
+match306,Yellow,Cristian Tello,96
+match306,Yellow,William Carvalho,95
+match306,Yellow,Mario Gaspar,93
+match306,Yellow,Zouhair Feddal,79
+match306,Yellow,Santiago Cáseres,52
+match306,Yellow,Jesé Rodríguez,46
+match306,Yellow,Víctor Ruiz Torre,35
+match306,Yellow,Samu Chukwueze,20
+match307,Yellow,Iago Aspas,70
+match307,Yellow,Okay Yokuşlu,66
+match307,Red,Willian José,58
+match307,Yellow,Gerónimo Rulli,46
+match308,Yellow,Ángel,60
+match308,Yellow,Damián Suárez,32
+match308,Yellow,Mikel San José,11
+match309,Yellow,Juanpi,91
+match309,Yellow,Chimy Ávila,83
+match309,Yellow,Adrián Diéguez,76
+match309,Yellow,Roger Martí,58
+match309,Yellow,Juan Camilo Hernández Suárez,40
+match309,Yellow,José Manuel Rodríguez Benito,36
+match310,Yellow,Daniel Carriço,89
+match310,Yellow,Moisés Delgado López,71
+match310,Yellow,Míchel Herrero,47
+match310,Yellow,Rubén Alcaraz,46
+match310,Yellow,Wissam Ben Yedder,31
+match310,Yellow,Éver Banega,30
+match311,Yellow,Lucas Olaza,87
+match311,Yellow,Antoine Griezmann,68
+match311,Yellow,Juanfran Torres,56
+match311,Yellow,Ryad Boudebouz,37
+match312,Yellow,Marc Roca,84
+match312,Yellow,Víctor Laguardia,79
+match312,Yellow,Sergi Darder,53
+match312,Yellow,Rubén Duarte,38
+match312,Yellow,Edinaldo Gomes Pereira,21
+match313,Yellow,Jorge Pulido,91
+match313,Yellow,Moussa Wagué,90
+match313,Yellow,Jean-Clair Todibo,42
+match314,Yellow,Marko Rog,94
+match314,Yellow,Cristian Tello,92
+match314,Yellow,Gabriel Mercado,86
+match314,Yellow,Aissa Mandi,83
+match314,Yellow,Daniel Carriço,81
+match314,Yellow,Jesús Navas,73
+match314,Yellow,Éver Banega,70
+match314,Yellow,Sergio Escudero Palomo,65
+match314,Yellow,Jesé Rodríguez,39
+match315,Yellow,Iñaki Williams,95
+match315,Yellow,Abdoulaye Ba,68
+match315,Red,Luis Advíncula,52
+match315,Yellow,Luis Advíncula,49
+match316,Yellow,Ramiro Funes Mori,96
+match316,Yellow,Santiago Cáseres,95
+match316,Yellow,Mario Gaspar,87
+match316,Yellow,Pere Pons,79
+match316,Yellow,Samu Chukwueze,76
+match316,Yellow,Juanpe Ramírez,74
+match316,Yellow,Pablo Fornals,51
+match317,Yellow,Rubén Pardo,87
+match317,Yellow,Joan Jordán,55
+match317,Yellow,Diego Llorente,39
+match317,Yellow,Pablo De Blasis,33
+match318,Yellow,Erick Cabaco,89
+match318,Yellow,Lee Kang-in,83
+match318,Yellow,Borja Mayoral,81
+match318,Yellow,Carlos Soler,33
+match319,Yellow,Rubén Alcaraz,88
+match319,Yellow,Mauro Arambarri,79
+match319,Yellow,Óscar Plano,78
+match319,Yellow,Waldo Rubio,71
+match319,Yellow,Damián Suárez,71
+match319,Red,Mathías Olivera,62
+match319,Yellow,Mathías Olivera,40
+match319,Yellow,Anuar Mohamed Tuhami,18
+match320,Yellow,Federico Valverde,67
+match320,Yellow,Marco Asensio,61
+match320,Yellow,Dani Carvajal,48
+match321,Yellow,Enes Ünal,85
+match321,Yellow,Antonio Jesús Regal Angulo,82
+match321,Yellow,John Guidetti,81
+match321,Yellow,Míchel Herrero,80
+match321,Yellow,Fernando Calero,73
+match321,Yellow,Joaquín Fernández Moreno,69
+match321,Yellow,Adrián Marín Gómez,63
+match321,Yellow,Jonathan Calleri,54
+match322,Yellow,Mikel Merino,15
+match323,Yellow,Douglas Luiz,76
+match323,Yellow,Sofiane Boufal,70
+match323,Yellow,Okay Yokuşlu,47
+match324,Yellow,Álvaro Morata,90
+match324,Yellow,Sergi Enrich,69
+match324,Yellow,José Ángel Valdés,62
+match324,Yellow,Joan Jordán,45
+match325,Yellow,Raúl de Tomás,86
+match325,Yellow,José Ángel Pozo,66
+match325,Yellow,Gonzalo Melero,62
+match325,Yellow,Enric Gallego,47
+match325,Yellow,Roberto Román Triguero,47
+match325,Yellow,Álvaro Medrán,46
+match326,Red,Rodrigo Moreno Machado,82
+match326,Yellow,Giovani Lo Celso,73
+match326,Yellow,Rodrigo Moreno Machado,62
+match326,Yellow,Zouhair Feddal,58
+match326,Yellow,Junior Firpo,55
+match326,Yellow,Andrés Guardado,47
+match327,Red,Djené Dakonam Ortega,74
+match327,Yellow,Leandro Cabrera,51
+match327,Yellow,Bruno González,50
+match327,Red,Sergio Escudero Palomo,49
+match327,Yellow,Jaime Mata,38
+match327,Yellow,Sergio Escudero Palomo,33
+match327,Yellow,Franco Vázquez,33
+match327,Yellow,Gabriel Mercado,32
+match327,Yellow,Éver Banega,30
+match327,Yellow,Ibrahim Amadou,23
+match328,Yellow,José Luis Morales Nogales,82
+match328,Red,Rubén Rochina,74
+match328,Yellow,Víctor Sánchez Mata,70
+match328,Yellow,José Manuel Rodríguez Benito,43
+match328,Yellow,Rubén Rochina,30
+match329,Yellow,Keylor Navas,82
+match329,Yellow,Toni Kroos,69
+match329,Yellow,Iñigo Martínez,53
+match329,Yellow,Raúl García Escudero,45
+match329,Yellow,Yuri Berchiche,15
+match329,Yellow,Iñigo Córdoba,3
+match330,Yellow,Santiago Cáseres,91
+match330,Yellow,Andrés Fernández Moreno,90
+match330,Yellow,Kenneth Omeruo,90
+match331,Yellow,Tomás Pina,94
+match331,Yellow,Philippe Coutinho,76
+match331,Yellow,Ximo Navarro Jiménez,56
+match331,Yellow,Jony Rodríguez,33
+match332,Yellow,Yangel Herrera,86
+match332,Yellow,Chimy Ávila,70
+match332,Yellow,Martín Mantovani,37
+match332,Yellow,Pape Diop,31
+match332,Yellow,Enric Gallego,24
+match333,Yellow,Cristhian Stuani,91
+match333,Yellow,Kiko Olivas,91
+match333,Yellow,Rubén Alcaraz,63
+match333,Yellow,Juanpe Ramírez,34
+match333,Yellow,Enes Ünal,24
+match333,Yellow,Marc Muniesa,23
+match333,Yellow,Óscar Plano,13
+match334,Yellow,Mouctar Diakhaby,92
+match334,Yellow,Saúl Ñíguez,76
+match334,Yellow,Rubén Sobrino,73
+match334,Yellow,Filipe Luís,56
+match334,Yellow,Álvaro Morata,47
+match334,Yellow,Carlos Soler,22
+match335,Yellow,Marc Roca,81
+match335,Yellow,Okay Yokuşlu,41
+match335,Yellow,Esteban Granero,39
+match336,Yellow,Iñigo Lekue,93
+match336,Yellow,Iñigo Córdoba,44
+match336,Yellow,Rodrigo Tarín,39
+match337,Yellow,Róber Pier,90
+match337,Yellow,Wilfrid Kaptoum,80
+match337,Yellow,Aissa Mandi,61
+match337,Yellow,Nikola Vukčević,28
+match337,Yellow,Sidnei Rechel da Silva Junior,26
+match338,Yellow,Nacho Fernández Iglesias,82
+match338,Yellow,Federico Valverde,63
+match338,Yellow,Damián Suárez,38
+match338,Yellow,Isco,30
+match339,Yellow,José Ángel Pozo,52
+match339,Yellow,Alejandro Gálvez,33
+match339,Yellow,Éver Banega,31
+match340,Yellow,Mikel Oyarzabal,79
+match340,Yellow,Vicente Iborra de la Fuente,78
+match340,Yellow,Karl Toko Ekambi,68
+match340,Yellow,Ramiro Funes Mori,42
+match340,Yellow,Raúl Rodríguez Navas,24
+match341,Yellow,Mikel San José,48
+match341,Yellow,Carlos Vigaray,44
+match341,Yellow,Raúl García Escudero,34
+match341,Yellow,Víctor Laguardia,32
+match342,Yellow,Koke Resurrección,94
+match342,Yellow,Ángel Correa,92
+match342,Yellow,Yakubu Partey,38
+match342,Yellow,Rubén Alcaraz,35
+match342,Yellow,Diego Godín,5
+match342,Yellow,Javi Moyano,1
+match343,Yellow,Sergio Busquets,91
+match343,Yellow,Coke Andújar,83
+match343,Yellow,Nélson Semedo,77
+match343,Yellow,Gerard Piqué,70
+match343,Yellow,Rúben Vezo,58
+match343,Yellow,Rubén Rochina,56
+match343,Yellow,Ivan Rakitić,14
+match344,Yellow,José Luis García del Pozo,45
+match345,Red,Éver Banega,95
+match345,Yellow,Éver Banega,90
+match345,Yellow,Roque Mesa,67
+match345,Yellow,Marc Muniesa,44
+match346,Yellow,Samu Saiz,83
+match346,Yellow,Jaime Mata,75
+match346,Yellow,Gerónimo Rulli,60
+match346,Yellow,Mikel Merino,46
+match346,Yellow,Leandro Cabrera,26
+match347,Yellow,Sergio Álvarez Díaz,90
+match347,Yellow,Charles Dias,87
+match347,Yellow,José Ángel Valdés,70
+match347,Yellow,Facundo Roncaglia,60
+match347,Yellow,Carlos Soler,58
+match348,Yellow,Uche Agbo,93
+match348,Yellow,Marcelo Vieira,86
+match348,Yellow,Dani Carvajal,79
+match348,Yellow,Mariano Díaz Mejía,62
+match348,Yellow,Mario Suárez,43
+match348,Yellow,Luka Modrić,28
+match348,Yellow,Jesús Vallejo,22
+match349,Red,Jorge Pulido,92
+match349,Yellow,Xavi Quintillà,91
+match349,Yellow,Yangel Herrera,86
+match349,Yellow,Santiago Cáseres,75
+match349,Yellow,Karl Toko Ekambi,56
+match349,Yellow,Javi Galán,53
+match349,Yellow,Pablo Fornals,40
+match349,Yellow,Mario Gaspar,7
+match350,Yellow,Marc Bartra,96
+match350,Yellow,Junior Firpo,78
+match350,Yellow,Óscar Melendo,68
+match350,Yellow,Zouhair Feddal,66
+match350,Yellow,Aissa Mandi,58
+match351,Yellow,José Luis García del Pozo,64
+match351,Yellow,Pablo Sarabia,46
+match352,Yellow,Igor Zubeldia,89
+match352,Yellow,Mikel Merino,80
+match352,Yellow,Rubén Pardo,73
+match352,Yellow,Wakaso Mubarak,47
+match353,Yellow,Arturo Vidal,79
+match353,Yellow,Kevin-Prince Boateng,72
+match353,Yellow,Jean-Clair Todibo,55
+match353,Yellow,Sofiane Boufal,31
+match353,Yellow,Samuel Umtiti,29
+match353,Yellow,Thomas Vermaelen,14
+match354,Yellow,Álvaro Morata,59
+match354,Yellow,Marc Roca,38
+match354,Yellow,Saúl Ñíguez,18
+match355,Yellow,José Campaña,85
+match355,Red,Adrián Embarba,82
+match355,Yellow,Adrián Embarba,78
+match355,Yellow,Mario Suárez,68
+match355,Yellow,Álvaro Medrán,58
+match356,Yellow,Gonzalo Escalante,87
+match356,Yellow,José Ángel Valdés,79
+match356,Yellow,Iván Ramis,67
+match356,Yellow,Cristian Tello,58
+match356,Yellow,Marc Bartra,54
+match357,Yellow,Mathías Olivera,91
+match357,Red,Borja García Freire,69
+match357,Yellow,Bruno González,60
+match357,Yellow,Seydou Doumbia,60
+match357,Yellow,Juanpe Ramírez,52
+match357,Yellow,Jaime Mata,47
+match357,Yellow,Pedro Alcalá Guirado,46
+match358,Yellow,Christian Rivera Hernández,85
+match358,Yellow,Chimy Ávila,30
+match358,Yellow,Francis Coquelin,29
+match359,Yellow,Vicente Iborra de la Fuente,89
+match359,Yellow,Álvaro González Soberón,84
+match359,Yellow,Ramiro Funes Mori,43
+match360,Yellow,Iker Muniain,95
+match360,Yellow,Aritz Aduriz,91
+match360,Yellow,Toni Villa,84
+match360,Yellow,Mikel San José,55
+match360,Yellow,Borja Fernández Fernández,50
+match360,Yellow,Rubén Alcaraz,41
+match360,Yellow,Míchel Herrero,35
+match360,Yellow,Dani García,30
+match360,Yellow,Ander Capa,30
+match360,Yellow,Óscar Plano,11
+match361,Yellow,Raúl García Escudero,89
+match361,Yellow,Ander Capa,87
+match361,Yellow,Wesley Hoedt,64
+match361,Yellow,Iker Muniain,61
+match361,Yellow,Beñat Etxebarria,45
+match361,Yellow,Néstor Araujo,36
+match361,Yellow,Ryad Boudebouz,24
+match362,Yellow,Saúl Ñíguez,92
+match362,Yellow,Jesús Navas,90
+match362,Yellow,Thomas Lemar,88
+match362,Yellow,Marko Rog,86
+match362,Yellow,Koke Resurrección,81
+match362,Yellow,Aleix Vidal,75
+match362,Yellow,Álvaro Morata,72
+match362,Yellow,Yakubu Partey,68
+match362,Yellow,Roque Mesa,58
+match363,Yellow,Djené Dakonam Ortega,93
+match363,Yellow,Arturo Vidal,76
+match363,Yellow,Mathías Olivera,52
+match363,Yellow,Dimitri Foulquier,37
+match364,Yellow,Joaquín,99
+match364,Yellow,Luís Carlos Correia Pinto,97
+match364,Yellow,Zouhair Feddal,92
+match364,Red,Jorge Pulido,76
+match364,Yellow,Andrés Guardado,70
+match364,Yellow,Gonzalo Melero,70
+match364,Yellow,Javi Galán,64
+match364,Yellow,Adrián Diéguez,64
+match364,Yellow,Xabier Etxeita,61
+match365,Yellow,Erick Cabaco,95
+match365,Yellow,Anthony Lozano,62
+match365,Yellow,Enis Bardhi,49
+match365,Yellow,Douglas Luiz,48
+match365,Yellow,Jason Remeseiro,27
+match366,Yellow,Facundo Ferreyra,94
+match366,Yellow,Youssef En-Nesyri,93
+match366,Red,Unai Bustinza,45
+match366,Yellow,José Luis García del Pozo,38
+match366,Yellow,Unai Bustinza,29
+match367,Yellow,Casemiro,75
+match367,Yellow,Igor Zubeldia,59
+match367,Yellow,Dani Carvajal,42
+match367,Red,Jesús Vallejo,39
+match368,Yellow,Patrick Twumasi,93
+match368,Yellow,Víctor Laguardia,89
+match368,Yellow,Borja Bastón,72
+match368,Yellow,Gabriel Paulista,64
+match368,Yellow,Ezequiel Garay,45
+match368,Yellow,Tomás Pina,35
+match368,Yellow,Darko Brašanac,17
+match369,Yellow,Fernando Calero,86
+match369,Yellow,Kiko Olivas,77
+match369,Yellow,José Ángel Pozo,76
+match369,Yellow,Alexandre Moreno,69
+match370,Yellow,Carlos Bacca,95
+match370,Yellow,José Ángel Valdés,94
+match370,Yellow,Gerard Moreno,94
+match370,Yellow,Mario Gaspar,76
+match370,Yellow,Marc Cucurella,64
+match371,Yellow,Carles Planas,64
+match371,Yellow,Marc Muniesa,58
+match371,Yellow,Diego Rolán,56
+match371,Yellow,Jonathan Calleri,55
+match371,Yellow,Tomás Pina,45
+match371,Yellow,Kévin Soni,33
+match372,Yellow,Stole Dimitrievski,85
+match372,Yellow,Alejandro Catena Marugán,79
+match372,Yellow,Álvaro García Rivera,39
+match372,Yellow,Uche Agbo,4
+match373,Yellow,Sergio García de la Fuente,93
+match373,Yellow,Aritz Elustondo,82
+match373,Yellow,Wu Lei,66
+match373,Yellow,Víctor Sánchez Mata,62
+match373,Yellow,Diego Llorente,37
+match374,Yellow,Damián Suárez,92
+match374,Yellow,Nemanja Maksimović,57
+match374,Yellow,Vicente Iborra de la Fuente,46
+match374,Yellow,Andrés Fernández Moreno,22
+match374,Yellow,Álvaro González Soberón,22
+match375,Yellow,Kenneth Omeruo,17
+match376,Red,Ángel Correa,51
+match376,Yellow,Francisco Javier Montero Rubio,39
+match377,Yellow,Gabriel Mercado,65
+match377,Yellow,Jesús Navas,60
+match377,Yellow,Joris Gnagnon,60
+match377,Yellow,Marko Rog,36
+match377,Yellow,Raúl García Escudero,29
+match377,Yellow,Dani García,19
+match378,Yellow,Gonçalo Guedes,41
+match378,Yellow,Borja Fernández Fernández,26
+match378,Yellow,Mouctar Diakhaby,21
+match378,Yellow,José Luis Gayà,11
+match378,Yellow,Dani Parejo,2
+match379,Yellow,Gonzalo Escalante,83
+match379,Yellow,Jordi Alba,83
+match379,Yellow,José Ángel Valdés,80
+match379,Yellow,Pablo De Blasis,44
+match379,Yellow,Nélson Semedo,42
+match379,Yellow,Iván Ramis,33
+match380,Yellow,Isco,85
+match380,Yellow,Dani Carvajal,58
+match380,Yellow,Federico Valverde,49
+match380,Yellow,Marcos Llorente,37
+match380,Yellow,Wilfrid Kaptoum,30

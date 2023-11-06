@@ -1,0 +1,381 @@
+﻿Match,Fecha,Equipo Local,Equipo Visitante
+match1,17/08/2018,Betis,Levante
+match2,17/08/2018,Girona FC,R. Valladolid CF
+match3,18/08/2018,FC Barcelona,Alavés
+match4,18/08/2018,RC Celta,RCD Espanyol
+match5,18/08/2018,Villarreal,Real Sociedad
+match6,19/08/2018,SD Eibar,SD Huesca
+match7,19/08/2018,Real Madrid,Getafe CF
+match8,19/08/2018,Rayo Vallecano,Sevilla FC
+match9,20/08/2018,Athletic Club,CD Leganés
+match10,20/08/2018,Valencia CF,Atlético de Madrid
+match11,24/08/2018,Getafe CF,SD Eibar
+match12,24/08/2018,CD Leganés,Real Sociedad
+match13,25/08/2018,Alavés,Betis
+match14,25/08/2018,Atlético de Madrid,Rayo Vallecano
+match15,25/08/2018,R. Valladolid CF,FC Barcelona
+match16,26/08/2018,RCD Espanyol,Valencia CF
+match17,26/08/2018,Girona FC,Real Madrid
+match18,26/08/2018,Sevilla FC,Villarreal
+match19,27/08/2018,Athletic Club,SD Huesca
+match20,27/08/2018,Levante,RC Celta
+match21,31/08/2018,SD Eibar,Real Sociedad
+match22,31/08/2018,Getafe CF,R. Valladolid CF
+match23,31/08/2018,Villarreal,Girona FC
+match24,01/09/2018,RC Celta,Atlético de Madrid
+match25,01/09/2018,Real Madrid,CD Leganés
+match26,02/09/2018,Alavés,RCD Espanyol
+match27,02/09/2018,FC Barcelona,SD Huesca
+match28,02/09/2018,Betis,Sevilla FC
+match29,02/09/2018,Levante,Valencia CF
+match30,14/09/2018,SD Huesca,Rayo Vallecano
+match31,15/09/2018,Athletic Club,Real Madrid
+match32,15/09/2018,Atlético de Madrid,SD Eibar
+match33,15/09/2018,Real Sociedad,FC Barcelona
+match34,15/09/2018,Valencia CF,Betis
+match35,16/09/2018,RCD Espanyol,Levante
+match36,16/09/2018,CD Leganés,Villarreal
+match37,16/09/2018,Sevilla FC,Getafe CF
+match38,16/09/2018,R. Valladolid CF,Alavés
+match39,17/09/2018,Girona FC,RC Celta
+match40,21/09/2018,SD Huesca,Real Sociedad
+match41,22/09/2018,RC Celta,R. Valladolid CF
+match42,22/09/2018,SD Eibar,CD Leganés
+match43,22/09/2018,Getafe CF,Atlético de Madrid
+match44,22/09/2018,Real Madrid,RCD Espanyol
+match45,22/09/2018,Rayo Vallecano,Alavés
+match46,23/09/2018,FC Barcelona,Girona FC
+match47,23/09/2018,Betis,Athletic Club
+match48,23/09/2018,Levante,Sevilla FC
+match49,23/09/2018,Villarreal,Valencia CF
+match50,25/09/2018,Atlético de Madrid,SD Huesca
+match51,25/09/2018,RCD Espanyol,SD Eibar
+match52,25/09/2018,Real Sociedad,Rayo Vallecano
+match53,26/09/2018,Athletic Club,Villarreal
+match54,26/09/2018,CD Leganés,FC Barcelona
+match55,26/09/2018,Sevilla FC,Real Madrid
+match56,26/09/2018,Valencia CF,RC Celta
+match57,27/09/2018,Alavés,Getafe CF
+match58,27/09/2018,Girona FC,Betis
+match59,27/09/2018,R. Valladolid CF,Levante
+match60,28/09/2018,Rayo Vallecano,RCD Espanyol
+match61,29/09/2018,FC Barcelona,Athletic Club
+match62,29/09/2018,SD Eibar,Sevilla FC
+match63,29/09/2018,Real Madrid,Atlético de Madrid
+match64,29/09/2018,Real Sociedad,Valencia CF
+match65,30/09/2018,Betis,CD Leganés
+match66,30/09/2018,SD Huesca,Girona FC
+match67,30/09/2018,Levante,Alavés
+match68,30/09/2018,Villarreal,R. Valladolid CF
+match69,01/10/2018,RC Celta,Getafe CF
+match70,05/10/2018,Athletic Club,Real Sociedad
+match71,06/10/2018,Alavés,Real Madrid
+match72,06/10/2018,Getafe CF,Levante
+match73,06/10/2018,Girona FC,SD Eibar
+match74,06/10/2018,CD Leganés,Rayo Vallecano
+match75,07/10/2018,Atlético de Madrid,Betis
+match76,07/10/2018,RCD Espanyol,Villarreal
+match77,07/10/2018,Sevilla FC,RC Celta
+match78,07/10/2018,Valencia CF,FC Barcelona
+match79,07/10/2018,R. Valladolid CF,SD Huesca
+match80,19/10/2018,RC Celta,Alavés
+match81,20/10/2018,FC Barcelona,Sevilla FC
+match82,20/10/2018,Real Madrid,Levante
+match83,20/10/2018,Valencia CF,CD Leganés
+match84,20/10/2018,Villarreal,Atlético de Madrid
+match85,21/10/2018,Betis,R. Valladolid CF
+match86,21/10/2018,SD Eibar,Athletic Club
+match87,21/10/2018,SD Huesca,RCD Espanyol
+match88,21/10/2018,Rayo Vallecano,Getafe CF
+match89,22/10/2018,Real Sociedad,Girona FC
+match90,24/10/2018,Rayo Vallecano,Athletic Club
+match91,26/10/2018,R. Valladolid CF,RCD Espanyol
+match92,27/10/2018,Athletic Club,Valencia CF
+match93,27/10/2018,Atlético de Madrid,Real Sociedad
+match94,27/10/2018,RC Celta,SD Eibar
+match95,27/10/2018,Girona FC,Rayo Vallecano
+match96,27/10/2018,Levante,CD Leganés
+match97,28/10/2018,Alavés,Villarreal
+match98,28/10/2018,FC Barcelona,Real Madrid
+match99,28/10/2018,Getafe CF,Betis
+match100,28/10/2018,Sevilla FC,SD Huesca
+match101,03/11/2018,CD Leganés,Atlético de Madrid
+match102,03/11/2018,Real Madrid,R. Valladolid CF
+match103,03/11/2018,Valencia CF,Girona FC
+match104,03/11/2018,Rayo Vallecano,FC Barcelona
+match105,04/11/2018,Betis,RC Celta
+match106,04/11/2018,SD Eibar,Alavés
+match107,04/11/2018,SD Huesca,Getafe CF
+match108,04/11/2018,Real Sociedad,Sevilla FC
+match109,04/11/2018,Villarreal,Levante
+match110,05/11/2018,RCD Espanyol,Athletic Club
+match111,09/11/2018,Levante,Real Sociedad
+match112,10/11/2018,Atlético de Madrid,Athletic Club
+match113,10/11/2018,Getafe CF,Valencia CF
+match114,10/11/2018,Girona FC,CD Leganés
+match115,10/11/2018,R. Valladolid CF,SD Eibar
+match116,11/11/2018,Alavés,SD Huesca
+match117,11/11/2018,FC Barcelona,Betis
+match118,11/11/2018,RC Celta,Real Madrid
+match119,11/11/2018,Sevilla FC,RCD Espanyol
+match120,11/11/2018,Rayo Vallecano,Villarreal
+match121,23/11/2018,CD Leganés,Alavés
+match122,24/11/2018,Atlético de Madrid,FC Barcelona
+match123,24/11/2018,SD Eibar,Real Madrid
+match124,24/11/2018,SD Huesca,Levante
+match125,24/11/2018,Valencia CF,Rayo Vallecano
+match126,25/11/2018,Athletic Club,Getafe CF
+match127,25/11/2018,RCD Espanyol,Girona FC
+match128,25/11/2018,Sevilla FC,R. Valladolid CF
+match129,25/11/2018,Villarreal,Betis
+match130,26/11/2018,Real Sociedad,RC Celta
+match131,30/11/2018,Rayo Vallecano,SD Eibar
+match132,01/12/2018,RC Celta,SD Huesca
+match133,01/12/2018,Getafe CF,RCD Espanyol
+match134,01/12/2018,Real Madrid,Valencia CF
+match135,01/12/2018,R. Valladolid CF,CD Leganés
+match136,02/12/2018,Alavés,Sevilla FC
+match137,02/12/2018,FC Barcelona,Villarreal
+match138,02/12/2018,Betis,Real Sociedad
+match139,02/12/2018,Girona FC,Atlético de Madrid
+match140,03/12/2018,Levante,Athletic Club
+match141,07/12/2018,CD Leganés,Getafe CF
+match142,08/12/2018,Atlético de Madrid,Alavés
+match143,08/12/2018,RCD Espanyol,FC Barcelona
+match144,08/12/2018,Valencia CF,Sevilla FC
+match145,08/12/2018,Villarreal,RC Celta
+match146,09/12/2018,Betis,Rayo Vallecano
+match147,09/12/2018,SD Eibar,Levante
+match148,09/12/2018,SD Huesca,Real Madrid
+match149,09/12/2018,Real Sociedad,R. Valladolid CF
+match150,10/12/2018,Athletic Club,Girona FC
+match151,14/12/2018,RC Celta,CD Leganés
+match152,15/12/2018,SD Eibar,Valencia CF
+match153,15/12/2018,Getafe CF,Real Sociedad
+match154,15/12/2018,Real Madrid,Rayo Vallecano
+match155,15/12/2018,R. Valladolid CF,Atlético de Madrid
+match156,16/12/2018,RCD Espanyol,Betis
+match157,16/12/2018,SD Huesca,Villarreal
+match158,16/12/2018,Levante,FC Barcelona
+match159,16/12/2018,Sevilla FC,Girona FC
+match160,17/12/2018,Alavés,Athletic Club
+match161,21/12/2018,Girona FC,Getafe CF
+match162,21/12/2018,Real Sociedad,Alavés
+match163,22/12/2018,Athletic Club,R. Valladolid CF
+match164,22/12/2018,Atlético de Madrid,RCD Espanyol
+match165,22/12/2018,FC Barcelona,RC Celta
+match166,22/12/2018,Betis,SD Eibar
+match167,23/12/2018,CD Leganés,Sevilla FC
+match168,23/12/2018,Valencia CF,SD Huesca
+match169,23/12/2018,Rayo Vallecano,Levante
+match170,03/01/2019,Villarreal,Real Madrid
+match171,04/01/2019,RCD Espanyol,CD Leganés
+match172,04/01/2019,Levante,Girona FC
+match173,05/01/2019,Alavés,Valencia CF
+match174,05/01/2019,SD Huesca,Betis
+match175,05/01/2019,R. Valladolid CF,Rayo Vallecano
+match176,06/01/2019,SD Eibar,Villarreal
+match177,06/01/2019,Getafe CF,FC Barcelona
+match178,06/01/2019,Real Madrid,Real Sociedad
+match179,06/01/2019,Sevilla FC,Atlético de Madrid
+match180,07/01/2019,RC Celta,Athletic Club
+match181,11/01/2019,Rayo Vallecano,RC Celta
+match182,12/01/2019,Girona FC,Alavés
+match183,12/01/2019,CD Leganés,SD Huesca
+match184,12/01/2019,Valencia CF,R. Valladolid CF
+match185,12/01/2019,Villarreal,Getafe CF
+match186,13/01/2019,Athletic Club,Sevilla FC
+match187,13/01/2019,Atlético de Madrid,Levante
+match188,13/01/2019,FC Barcelona,SD Eibar
+match189,13/01/2019,Betis,Real Madrid
+match190,14/01/2019,Real Sociedad,RCD Espanyol
+match191,18/01/2019,Getafe CF,Alavés
+match192,19/01/2019,RC Celta,Valencia CF
+match193,19/01/2019,SD Huesca,Atlético de Madrid
+match194,19/01/2019,Real Madrid,Sevilla FC
+match195,20/01/2019,FC Barcelona,CD Leganés
+match196,20/01/2019,Betis,Girona FC
+match197,20/01/2019,Levante,R. Valladolid CF
+match198,20/01/2019,Rayo Vallecano,Real Sociedad
+match199,20/01/2019,Villarreal,Athletic Club
+match200,21/01/2019,SD Eibar,RCD Espanyol
+match201,26/01/2019,Atlético de Madrid,Getafe CF
+match202,26/01/2019,CD Leganés,SD Eibar
+match203,26/01/2019,Sevilla FC,Levante
+match204,26/01/2019,Valencia CF,Villarreal
+match205,27/01/2019,Athletic Club,Betis
+match206,27/01/2019,RCD Espanyol,Real Madrid
+match207,27/01/2019,Girona FC,FC Barcelona
+match208,27/01/2019,Real Sociedad,SD Huesca
+match209,27/01/2019,R. Valladolid CF,RC Celta
+match210,28/01/2019,Alavés,Rayo Vallecano
+match211,01/02/2019,SD Huesca,R. Valladolid CF
+match212,02/02/2019,FC Barcelona,Valencia CF
+match213,02/02/2019,RC Celta,Sevilla FC
+match214,02/02/2019,Levante,Getafe CF
+match215,02/02/2019,Real Sociedad,Athletic Club
+match216,03/02/2019,Betis,Atlético de Madrid
+match217,03/02/2019,SD Eibar,Girona FC
+match218,03/02/2019,Real Madrid,Alavés
+match219,03/02/2019,Villarreal,RCD Espanyol
+match220,04/02/2019,Rayo Vallecano,CD Leganés
+match221,08/02/2019,R. Valladolid CF,Villarreal
+match222,09/02/2019,Atlético de Madrid,Real Madrid
+match223,09/02/2019,RCD Espanyol,Rayo Vallecano
+match224,09/02/2019,Getafe CF,RC Celta
+match225,09/02/2019,Girona FC,SD Huesca
+match226,10/02/2019,Athletic Club,FC Barcelona
+match227,10/02/2019,CD Leganés,Betis
+match228,10/02/2019,Sevilla FC,SD Eibar
+match229,10/02/2019,Valencia CF,Real Sociedad
+match230,11/02/2019,Alavés,Levante
+match231,15/02/2019,SD Eibar,Getafe CF
+match232,16/02/2019,FC Barcelona,R. Valladolid CF
+match233,16/02/2019,RC Celta,Levante
+match234,16/02/2019,Real Sociedad,CD Leganés
+match235,16/02/2019,Rayo Vallecano,Atlético de Madrid
+match236,17/02/2019,Betis,Alavés
+match237,17/02/2019,Real Madrid,Girona FC
+match238,17/02/2019,Valencia CF,RCD Espanyol
+match239,17/02/2019,Villarreal,Sevilla FC
+match240,18/02/2019,SD Huesca,Athletic Club
+match241,22/02/2019,RCD Espanyol,SD Huesca
+match242,23/02/2019,Alavés,RC Celta
+match243,23/02/2019,Athletic Club,SD Eibar
+match244,23/02/2019,Getafe CF,Rayo Vallecano
+match245,23/02/2019,Sevilla FC,FC Barcelona
+match246,24/02/2019,Atlético de Madrid,Villarreal
+match247,24/02/2019,CD Leganés,Valencia CF
+match248,24/02/2019,Levante,Real Madrid
+match249,24/02/2019,R. Valladolid CF,Betis
+match250,25/02/2019,Girona FC,Real Sociedad
+match251,01/03/2019,Rayo Vallecano,Girona FC
+match252,02/03/2019,RCD Espanyol,R. Valladolid CF
+match253,02/03/2019,SD Huesca,Sevilla FC
+match254,02/03/2019,Real Madrid,FC Barcelona
+match255,02/03/2019,Villarreal,Alavés
+match256,03/03/2019,Betis,Getafe CF
+match257,03/03/2019,SD Eibar,RC Celta
+match258,03/03/2019,Real Sociedad,Atlético de Madrid
+match259,03/03/2019,Valencia CF,Athletic Club
+match260,04/03/2019,CD Leganés,Levante
+match261,08/03/2019,Athletic Club,RCD Espanyol
+match262,09/03/2019,Alavés,SD Eibar
+match263,09/03/2019,Atlético de Madrid,CD Leganés
+match264,09/03/2019,FC Barcelona,Rayo Vallecano
+match265,09/03/2019,Getafe CF,SD Huesca
+match266,10/03/2019,RC Celta,Betis
+match267,10/03/2019,Girona FC,Valencia CF
+match268,10/03/2019,Levante,Villarreal
+match269,10/03/2019,Sevilla FC,Real Sociedad
+match270,10/03/2019,R. Valladolid CF,Real Madrid
+match271,15/03/2019,Real Sociedad,Levante
+match272,16/03/2019,Athletic Club,Atlético de Madrid
+match273,16/03/2019,SD Huesca,Alavés
+match274,16/03/2019,CD Leganés,Girona FC
+match275,16/03/2019,Real Madrid,RC Celta
+match276,17/03/2019,Betis,FC Barcelona
+match277,17/03/2019,SD Eibar,R. Valladolid CF
+match278,17/03/2019,RCD Espanyol,Sevilla FC
+match279,17/03/2019,Valencia CF,Getafe CF
+match280,17/03/2019,Villarreal,Rayo Vallecano
+match281,29/03/2019,Girona FC,Athletic Club
+match282,30/03/2019,Alavés,Atlético de Madrid
+match283,30/03/2019,FC Barcelona,RCD Espanyol
+match284,30/03/2019,RC Celta,Villarreal
+match285,30/03/2019,Getafe CF,CD Leganés
+match286,31/03/2019,Levante,SD Eibar
+match287,31/03/2019,Real Madrid,SD Huesca
+match288,31/03/2019,Sevilla FC,Valencia CF
+match289,31/03/2019,R. Valladolid CF,Real Sociedad
+match290,31/03/2019,Rayo Vallecano,Betis
+match291,02/04/2019,Atlético de Madrid,Girona FC
+match292,02/04/2019,RCD Espanyol,Getafe CF
+match293,02/04/2019,Villarreal,FC Barcelona
+match294,03/04/2019,Athletic Club,Levante
+match295,03/04/2019,SD Eibar,Rayo Vallecano
+match296,03/04/2019,SD Huesca,RC Celta
+match297,03/04/2019,Valencia CF,Real Madrid
+match298,04/04/2019,CD Leganés,R. Valladolid CF
+match299,04/04/2019,Sevilla FC,Alavés
+match300,04/04/2019,Real Sociedad,Betis
+match301,06/04/2019,FC Barcelona,Atlético de Madrid
+match302,06/04/2019,Girona FC,RCD Espanyol
+match303,06/04/2019,Real Madrid,SD Eibar
+match304,06/04/2019,Rayo Vallecano,Valencia CF
+match305,07/04/2019,Alavés,CD Leganés
+match306,07/04/2019,Betis,Villarreal
+match307,07/04/2019,RC Celta,Real Sociedad
+match308,07/04/2019,Getafe CF,Athletic Club
+match309,07/04/2019,Levante,SD Huesca
+match310,07/04/2019,R. Valladolid CF,Sevilla FC
+match311,13/04/2019,Atlético de Madrid,RC Celta
+match312,13/04/2019,RCD Espanyol,Alavés
+match313,13/04/2019,SD Huesca,FC Barcelona
+match314,13/04/2019,Sevilla FC,Betis
+match315,14/04/2019,Athletic Club,Rayo Vallecano
+match316,14/04/2019,Girona FC,Villarreal
+match317,14/04/2019,Real Sociedad,SD Eibar
+match318,14/04/2019,Valencia CF,Levante
+match319,14/04/2019,R. Valladolid CF,Getafe CF
+match320,15/04/2019,CD Leganés,Real Madrid
+match321,19/04/2019,Alavés,R. Valladolid CF
+match322,20/04/2019,FC Barcelona,Real Sociedad
+match323,20/04/2019,RC Celta,Girona FC
+match324,20/04/2019,SD Eibar,Atlético de Madrid
+match325,20/04/2019,Rayo Vallecano,SD Huesca
+match326,21/04/2019,Betis,Valencia CF
+match327,21/04/2019,Getafe CF,Sevilla FC
+match328,21/04/2019,Levante,RCD Espanyol
+match329,21/04/2019,Real Madrid,Athletic Club
+match330,21/04/2019,Villarreal,CD Leganés
+match331,23/04/2019,Alavés,FC Barcelona
+match332,23/04/2019,SD Huesca,SD Eibar
+match333,23/04/2019,R. Valladolid CF,Girona FC
+match334,24/04/2019,Atlético de Madrid,Valencia CF
+match335,24/04/2019,RCD Espanyol,RC Celta
+match336,24/04/2019,CD Leganés,Athletic Club
+match337,24/04/2019,Levante,Betis
+match338,25/04/2019,Getafe CF,Real Madrid
+match339,25/04/2019,Sevilla FC,Rayo Vallecano
+match340,25/04/2019,Real Sociedad,Villarreal
+match341,27/04/2019,Athletic Club,Alavés
+match342,27/04/2019,Atlético de Madrid,R. Valladolid CF
+match343,27/04/2019,FC Barcelona,Levante
+match344,27/04/2019,CD Leganés,RC Celta
+match345,28/04/2019,Girona FC,Sevilla FC
+match346,28/04/2019,Real Sociedad,Getafe CF
+match347,28/04/2019,Valencia CF,SD Eibar
+match348,28/04/2019,Rayo Vallecano,Real Madrid
+match349,28/04/2019,Villarreal,SD Huesca
+match350,29/04/2019,Betis,RCD Espanyol
+match351,03/05/2019,Sevilla FC,CD Leganés
+match352,04/05/2019,Alavés,Real Sociedad
+match353,04/05/2019,RC Celta,FC Barcelona
+match354,04/05/2019,RCD Espanyol,Atlético de Madrid
+match355,04/05/2019,Levante,Rayo Vallecano
+match356,05/05/2019,SD Eibar,Betis
+match357,05/05/2019,Getafe CF,Girona FC
+match358,05/05/2019,SD Huesca,Valencia CF
+match359,05/05/2019,Real Madrid,Villarreal
+match360,05/05/2019,R. Valladolid CF,Athletic Club
+match361,12/05/2019,Athletic Club,RC Celta
+match362,12/05/2019,Atlético de Madrid,Sevilla FC
+match363,12/05/2019,FC Barcelona,Getafe CF
+match364,12/05/2019,Betis,SD Huesca
+match365,12/05/2019,Girona FC,Levante
+match366,12/05/2019,CD Leganés,RCD Espanyol
+match367,12/05/2019,Real Sociedad,Real Madrid
+match368,12/05/2019,Valencia CF,Alavés
+match369,12/05/2019,Rayo Vallecano,R. Valladolid CF
+match370,12/05/2019,Villarreal,SD Eibar
+match371,18/05/2019,Alavés,Girona FC
+match372,18/05/2019,RC Celta,Rayo Vallecano
+match373,18/05/2019,RCD Espanyol,Real Sociedad
+match374,18/05/2019,Getafe CF,Villarreal
+match375,18/05/2019,SD Huesca,CD Leganés
+match376,18/05/2019,Levante,Atlético de Madrid
+match377,18/05/2019,Sevilla FC,Athletic Club
+match378,18/05/2019,R. Valladolid CF,Valencia CF
+match379,19/05/2019,SD Eibar,FC Barcelona
+match380,19/05/2019,Real Madrid,Betis

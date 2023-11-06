@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>LaLiga 2018/19</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet"
+            href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+            integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+            crossorigin="anonymous">
+        <link href="styles.css" rel="stylesheet">
+        <link
+            href="https://fonts.googleapis.com/css?family=Merriweather:400,700"
+            rel="stylesheet" type="text/css">
+        <script
+            src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <script src="index.js"></script>
+
+    </head>
+
+    <body>
+        <nav
+            class="navbar navbar-dark bg-dark navbar-static-top navbar-expand-md">
+            <div class="container"
+                style="padding: 0; margin: 2%; margin-top: 0;margin-bottom: 0;">
+                <button type="button" class="navbar-toggler collapsed"
+                    data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1"
+                    aria-expanded="false"> <span class="sr-only">Toggle
+                        navigation</span>
+                </button> <a class="navbar-brand">Spanish LaLiga 2028/19</a>
+                <div class="collapse navbar-collapse"
+                    id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav mr-auto">
+                        <li class="nav-item"><a href="/" class="nav-link">Home</a>
+                        </li>
+                        <li class="active nav-item"><a href="/fixedqueries"
+                                class="nav-link">Fixed
+                                Queries</a>
+                        </li>
+                        <li class="nav-item"><a href="/newquery"
+                                class="nav-link">New
+                                Query</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </body>
+
+    <div style="padding: 2%;">
+        <h3 style="text-align-last: center;">Select one of the fixed queries to be evaluated by the server:</h3>
+        <div style="margin-bottom: 3%;">
+            <select class="form-select" id="fixedqueryselect" aria-label="Default select example"
+                style="width: 100%; background-color: white;"">
+                <option value="" disabled selected hidden>Please choose a query...</option>
+                <option value="1">Query 1: In which matches the home team starts losing (result at half-time) but ends up winning in the final result?</option>
+                <option value="2">Query 2: Which players born after 1985 scored more than 15 goals in this season?</option>
+                <option value="3">Query 3: Which are the top 5 players that received the highest number of yellow cards and from which teams are they?</option>
+                <option value="4">Query 4: What was the final score board for this season?</option>
+            </select>
+        </div>
+
+        <table class="table table-hover table-bordered" id="fixedquerytable" style="border: 2px solid white; background-color: slategray;"></table>
+    </div>
+
+</html>

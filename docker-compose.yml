@@ -1,0 +1,29 @@
+version: "3.9"
+services:
+  data-hmi:
+    image: data-hmi:latest
+    build:
+      context: data-hmi
+      dockerfile: Dockerfile
+    ports:
+      - 7070:7070
+    restart: always
+
+  postgres:
+    image: postgres
+    restart: always
+    ports:
+        - 5432:5432
+    environment:
+      - POSTGRES_HOST_AUTH_METHOD=trust
+    volumes:
+      - ./postgresqldata:/var/lib/postgresql/data
+
+  notebook:
+    build: notebook/
+    ports:
+      - 8888:8888
+    volumes:
+       - ./notebookdata:/home/jovyan/work/data
+    environment:
+      - GRANT_SUDO=yes

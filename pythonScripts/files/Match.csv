@@ -1,0 +1,381 @@
+﻿id_match,date,home_team,away_team,winner_team_FT,winner_team_HT
+match1,17/08/2018,Real Betis,Levante UD,AwayTeam,AwayTeam
+match2,17/08/2018,Girona FC,R. Valladolid CF,Draw,Draw
+match3,18/08/2018,FC Barcelona,D. Alavés,HomeTeam,Draw
+match4,18/08/2018,RC Celta,RCD Espanyol,Draw,AwayTeam
+match5,18/08/2018,Villarreal CF,Real Sociedad,AwayTeam,Draw
+match6,19/08/2018,SD Eibar,SD Huesca,AwayTeam,AwayTeam
+match7,19/08/2018,Real Madrid,Getafe CF,HomeTeam,HomeTeam
+match8,19/08/2018,Rayo Vallecano,Sevilla FC,AwayTeam,AwayTeam
+match9,20/08/2018,Athletic Club,CD Leganés,HomeTeam,Draw
+match10,20/08/2018,Valencia CF,Atlético de Madrid,Draw,AwayTeam
+match11,24/08/2018,Getafe CF,SD Eibar,HomeTeam,HomeTeam
+match12,24/08/2018,CD Leganés,Real Sociedad,Draw,AwayTeam
+match13,25/08/2018,D. Alavés,Real Betis,Draw,Draw
+match14,25/08/2018,Atlético de Madrid,Rayo Vallecano,HomeTeam,Draw
+match15,25/08/2018,R. Valladolid CF,FC Barcelona,AwayTeam,Draw
+match16,26/08/2018,RCD Espanyol,Valencia CF,HomeTeam,Draw
+match17,26/08/2018,Girona FC,Real Madrid,AwayTeam,Draw
+match18,26/08/2018,Sevilla FC,Villarreal CF,Draw,Draw
+match19,27/08/2018,Athletic Club,SD Huesca,Draw,Draw
+match20,27/08/2018,Levante UD,RC Celta,AwayTeam,AwayTeam
+match21,31/08/2018,SD Eibar,Real Sociedad,HomeTeam,Draw
+match22,31/08/2018,Getafe CF,R. Valladolid CF,Draw,Draw
+match23,31/08/2018,Villarreal CF,Girona FC,AwayTeam,Draw
+match24,01/09/2018,RC Celta,Atlético de Madrid,HomeTeam,Draw
+match25,01/09/2018,Real Madrid,CD Leganés,HomeTeam,Draw
+match26,02/09/2018,D. Alavés,RCD Espanyol,HomeTeam,AwayTeam
+match27,02/09/2018,FC Barcelona,SD Huesca,HomeTeam,HomeTeam
+match28,02/09/2018,Real Betis,Sevilla FC,HomeTeam,Draw
+match29,02/09/2018,Levante UD,Valencia CF,Draw,HomeTeam
+match30,14/09/2018,SD Huesca,Rayo Vallecano,AwayTeam,AwayTeam
+match31,15/09/2018,Athletic Club,Real Madrid,Draw,HomeTeam
+match32,15/09/2018,Atlético de Madrid,SD Eibar,Draw,Draw
+match33,15/09/2018,Real Sociedad,FC Barcelona,AwayTeam,HomeTeam
+match34,15/09/2018,Valencia CF,Real Betis,Draw,Draw
+match35,16/09/2018,RCD Espanyol,Levante UD,HomeTeam,Draw
+match36,16/09/2018,CD Leganés,Villarreal CF,AwayTeam,Draw
+match37,16/09/2018,Sevilla FC,Getafe CF,AwayTeam,AwayTeam
+match38,16/09/2018,R. Valladolid CF,D. Alavés,AwayTeam,Draw
+match39,17/09/2018,Girona FC,RC Celta,HomeTeam,HomeTeam
+match40,21/09/2018,SD Huesca,Real Sociedad,AwayTeam,Draw
+match41,22/09/2018,RC Celta,R. Valladolid CF,Draw,HomeTeam
+match42,22/09/2018,SD Eibar,CD Leganés,HomeTeam,Draw
+match43,22/09/2018,Getafe CF,Atlético de Madrid,AwayTeam,AwayTeam
+match44,22/09/2018,Real Madrid,RCD Espanyol,HomeTeam,HomeTeam
+match45,22/09/2018,Rayo Vallecano,D. Alavés,AwayTeam,AwayTeam
+match46,23/09/2018,FC Barcelona,Girona FC,Draw,Draw
+match47,23/09/2018,Real Betis,Athletic Club,Draw,AwayTeam
+match48,23/09/2018,Levante UD,Sevilla FC,AwayTeam,AwayTeam
+match49,23/09/2018,Villarreal CF,Valencia CF,Draw,Draw
+match50,25/09/2018,Atlético de Madrid,SD Huesca,HomeTeam,HomeTeam
+match51,25/09/2018,RCD Espanyol,SD Eibar,HomeTeam,Draw
+match52,25/09/2018,Real Sociedad,Rayo Vallecano,Draw,AwayTeam
+match53,26/09/2018,Athletic Club,Villarreal CF,AwayTeam,Draw
+match54,26/09/2018,CD Leganés,FC Barcelona,HomeTeam,AwayTeam
+match55,26/09/2018,Sevilla FC,Real Madrid,HomeTeam,HomeTeam
+match56,26/09/2018,Valencia CF,RC Celta,Draw,HomeTeam
+match57,27/09/2018,D. Alavés,Getafe CF,Draw,Draw
+match58,27/09/2018,Girona FC,Real Betis,AwayTeam,Draw
+match59,27/09/2018,R. Valladolid CF,Levante UD,HomeTeam,Draw
+match60,28/09/2018,Rayo Vallecano,RCD Espanyol,Draw,AwayTeam
+match61,29/09/2018,FC Barcelona,Athletic Club,Draw,AwayTeam
+match62,29/09/2018,SD Eibar,Sevilla FC,AwayTeam,Draw
+match63,29/09/2018,Real Madrid,Atlético de Madrid,Draw,Draw
+match64,29/09/2018,Real Sociedad,Valencia CF,AwayTeam,AwayTeam
+match65,30/09/2018,Real Betis,CD Leganés,HomeTeam,Draw
+match66,30/09/2018,SD Huesca,Girona FC,Draw,AwayTeam
+match67,30/09/2018,Levante UD,D. Alavés,HomeTeam,HomeTeam
+match68,30/09/2018,Villarreal CF,R. Valladolid CF,AwayTeam,Draw
+match69,01/10/2018,RC Celta,Getafe CF,Draw,HomeTeam
+match70,05/10/2018,Athletic Club,Real Sociedad,AwayTeam,Draw
+match71,06/10/2018,D. Alavés,Real Madrid,HomeTeam,Draw
+match72,06/10/2018,Getafe CF,Levante UD,AwayTeam,Draw
+match73,06/10/2018,Girona FC,SD Eibar,AwayTeam,Draw
+match74,06/10/2018,CD Leganés,Rayo Vallecano,HomeTeam,HomeTeam
+match75,07/10/2018,Atlético de Madrid,Real Betis,HomeTeam,Draw
+match76,07/10/2018,RCD Espanyol,Villarreal CF,HomeTeam,Draw
+match77,07/10/2018,Sevilla FC,RC Celta,HomeTeam,HomeTeam
+match78,07/10/2018,Valencia CF,FC Barcelona,Draw,Draw
+match79,07/10/2018,R. Valladolid CF,SD Huesca,HomeTeam,HomeTeam
+match80,19/10/2018,RC Celta,D. Alavés,AwayTeam,Draw
+match81,20/10/2018,FC Barcelona,Sevilla FC,HomeTeam,HomeTeam
+match82,20/10/2018,Real Madrid,Levante UD,AwayTeam,AwayTeam
+match83,20/10/2018,Valencia CF,CD Leganés,Draw,Draw
+match84,20/10/2018,Villarreal CF,Atlético de Madrid,Draw,Draw
+match85,21/10/2018,Real Betis,R. Valladolid CF,AwayTeam,AwayTeam
+match86,21/10/2018,SD Eibar,Athletic Club,Draw,Draw
+match87,21/10/2018,SD Huesca,RCD Espanyol,AwayTeam,AwayTeam
+match88,21/10/2018,Rayo Vallecano,Getafe CF,AwayTeam,Draw
+match89,22/10/2018,Real Sociedad,Girona FC,Draw,Draw
+match90,24/10/2018,Rayo Vallecano,Athletic Club,Draw,HomeTeam
+match91,26/10/2018,R. Valladolid CF,RCD Espanyol,Draw,AwayTeam
+match92,27/10/2018,Athletic Club,Valencia CF,Draw,Draw
+match93,27/10/2018,Atlético de Madrid,Real Sociedad,HomeTeam,HomeTeam
+match94,27/10/2018,RC Celta,SD Eibar,HomeTeam,HomeTeam
+match95,27/10/2018,Girona FC,Rayo Vallecano,HomeTeam,HomeTeam
+match96,27/10/2018,Levante UD,CD Leganés,HomeTeam,HomeTeam
+match97,28/10/2018,D. Alavés,Villarreal CF,HomeTeam,AwayTeam
+match98,28/10/2018,FC Barcelona,Real Madrid,HomeTeam,HomeTeam
+match99,28/10/2018,Getafe CF,Real Betis,HomeTeam,Draw
+match100,28/10/2018,Sevilla FC,SD Huesca,HomeTeam,Draw
+match101,03/11/2018,CD Leganés,Atlético de Madrid,Draw,Draw
+match102,03/11/2018,Real Madrid,R. Valladolid CF,HomeTeam,Draw
+match103,03/11/2018,Valencia CF,Girona FC,AwayTeam,Draw
+match104,03/11/2018,Rayo Vallecano,FC Barcelona,AwayTeam,Draw
+match105,04/11/2018,Real Betis,RC Celta,Draw,HomeTeam
+match106,04/11/2018,SD Eibar,D. Alavés,HomeTeam,AwayTeam
+match107,04/11/2018,SD Huesca,Getafe CF,Draw,Draw
+match108,04/11/2018,Real Sociedad,Sevilla FC,Draw,Draw
+match109,04/11/2018,Villarreal CF,Levante UD,Draw,Draw
+match110,05/11/2018,RCD Espanyol,Athletic Club,HomeTeam,HomeTeam
+match111,09/11/2018,Levante UD,Real Sociedad,AwayTeam,HomeTeam
+match112,10/11/2018,Atlético de Madrid,Athletic Club,HomeTeam,AwayTeam
+match113,10/11/2018,Getafe CF,Valencia CF,AwayTeam,Draw
+match114,10/11/2018,Girona FC,CD Leganés,Draw,Draw
+match115,10/11/2018,R. Valladolid CF,SD Eibar,Draw,Draw
+match116,11/11/2018,D. Alavés,SD Huesca,HomeTeam,Draw
+match117,11/11/2018,FC Barcelona,Real Betis,AwayTeam,AwayTeam
+match118,11/11/2018,RC Celta,Real Madrid,AwayTeam,AwayTeam
+match119,11/11/2018,Sevilla FC,RCD Espanyol,HomeTeam,AwayTeam
+match120,11/11/2018,Rayo Vallecano,Villarreal CF,Draw,Draw
+match121,23/11/2018,CD Leganés,D. Alavés,HomeTeam,HomeTeam
+match122,24/11/2018,Atlético de Madrid,FC Barcelona,Draw,Draw
+match123,24/11/2018,SD Eibar,Real Madrid,HomeTeam,HomeTeam
+match124,24/11/2018,SD Huesca,Levante UD,Draw,Draw
+match125,24/11/2018,Valencia CF,Rayo Vallecano,HomeTeam,HomeTeam
+match126,25/11/2018,Athletic Club,Getafe CF,Draw,Draw
+match127,25/11/2018,RCD Espanyol,Girona FC,AwayTeam,AwayTeam
+match128,25/11/2018,Sevilla FC,R. Valladolid CF,HomeTeam,HomeTeam
+match129,25/11/2018,Villarreal CF,Real Betis,HomeTeam,Draw
+match130,26/11/2018,Real Sociedad,RC Celta,HomeTeam,HomeTeam
+match131,30/11/2018,Rayo Vallecano,SD Eibar,HomeTeam,Draw
+match132,01/12/2018,RC Celta,SD Huesca,HomeTeam,HomeTeam
+match133,01/12/2018,Getafe CF,RCD Espanyol,HomeTeam,Draw
+match134,01/12/2018,Real Madrid,Valencia CF,HomeTeam,HomeTeam
+match135,01/12/2018,R. Valladolid CF,CD Leganés,AwayTeam,AwayTeam
+match136,02/12/2018,D. Alavés,Sevilla FC,Draw,HomeTeam
+match137,02/12/2018,FC Barcelona,Villarreal CF,HomeTeam,HomeTeam
+match138,02/12/2018,Real Betis,Real Sociedad,HomeTeam,HomeTeam
+match139,02/12/2018,Girona FC,Atlético de Madrid,Draw,HomeTeam
+match140,03/12/2018,Levante UD,Athletic Club,HomeTeam,HomeTeam
+match141,07/12/2018,CD Leganés,Getafe CF,Draw,AwayTeam
+match142,08/12/2018,Atlético de Madrid,D. Alavés,HomeTeam,HomeTeam
+match143,08/12/2018,RCD Espanyol,FC Barcelona,AwayTeam,AwayTeam
+match144,08/12/2018,Valencia CF,Sevilla FC,Draw,Draw
+match145,08/12/2018,Villarreal CF,RC Celta,AwayTeam,AwayTeam
+match146,09/12/2018,Real Betis,Rayo Vallecano,HomeTeam,Draw
+match147,09/12/2018,SD Eibar,Levante UD,Draw,AwayTeam
+match148,09/12/2018,SD Huesca,Real Madrid,AwayTeam,AwayTeam
+match149,09/12/2018,Real Sociedad,R. Valladolid CF,AwayTeam,AwayTeam
+match150,10/12/2018,Athletic Club,Girona FC,HomeTeam,Draw
+match151,14/12/2018,RC Celta,CD Leganés,Draw,Draw
+match152,15/12/2018,SD Eibar,Valencia CF,Draw,AwayTeam
+match153,15/12/2018,Getafe CF,Real Sociedad,HomeTeam,HomeTeam
+match154,15/12/2018,Real Madrid,Rayo Vallecano,HomeTeam,HomeTeam
+match155,15/12/2018,R. Valladolid CF,Atlético de Madrid,AwayTeam,AwayTeam
+match156,16/12/2018,RCD Espanyol,Real Betis,AwayTeam,Draw
+match157,16/12/2018,SD Huesca,Villarreal CF,Draw,HomeTeam
+match158,16/12/2018,Levante UD,FC Barcelona,AwayTeam,AwayTeam
+match159,16/12/2018,Sevilla FC,Girona FC,HomeTeam,Draw
+match160,17/12/2018,D. Alavés,Athletic Club,Draw,Draw
+match161,21/12/2018,Girona FC,Getafe CF,Draw,Draw
+match162,21/12/2018,Real Sociedad,D. Alavés,AwayTeam,AwayTeam
+match163,22/12/2018,Athletic Club,R. Valladolid CF,Draw,HomeTeam
+match164,22/12/2018,Atlético de Madrid,RCD Espanyol,HomeTeam,Draw
+match165,22/12/2018,FC Barcelona,RC Celta,HomeTeam,HomeTeam
+match166,22/12/2018,Real Betis,SD Eibar,Draw,HomeTeam
+match167,23/12/2018,CD Leganés,Sevilla FC,Draw,HomeTeam
+match168,23/12/2018,Valencia CF,SD Huesca,HomeTeam,HomeTeam
+match169,23/12/2018,Rayo Vallecano,Levante UD,HomeTeam,HomeTeam
+match170,03/01/2019,Villarreal CF,Real Madrid,Draw,AwayTeam
+match171,04/01/2019,RCD Espanyol,CD Leganés,HomeTeam,HomeTeam
+match172,04/01/2019,Levante UD,Girona FC,Draw,AwayTeam
+match173,05/01/2019,D. Alavés,Valencia CF,HomeTeam,HomeTeam
+match174,05/01/2019,SD Huesca,Real Betis,HomeTeam,Draw
+match175,05/01/2019,R. Valladolid CF,Rayo Vallecano,AwayTeam,AwayTeam
+match176,06/01/2019,SD Eibar,Villarreal CF,Draw,Draw
+match177,06/01/2019,Getafe CF,FC Barcelona,AwayTeam,AwayTeam
+match178,06/01/2019,Real Madrid,Real Sociedad,AwayTeam,AwayTeam
+match179,06/01/2019,Sevilla FC,Atlético de Madrid,Draw,Draw
+match180,07/01/2019,RC Celta,Athletic Club,AwayTeam,Draw
+match181,11/01/2019,Rayo Vallecano,RC Celta,HomeTeam,Draw
+match182,12/01/2019,Girona FC,D. Alavés,Draw,HomeTeam
+match183,12/01/2019,CD Leganés,SD Huesca,HomeTeam,Draw
+match184,12/01/2019,Valencia CF,R. Valladolid CF,Draw,Draw
+match185,12/01/2019,Villarreal CF,Getafe CF,AwayTeam,Draw
+match186,13/01/2019,Athletic Club,Sevilla FC,HomeTeam,HomeTeam
+match187,13/01/2019,Atlético de Madrid,Levante UD,HomeTeam,Draw
+match188,13/01/2019,FC Barcelona,SD Eibar,HomeTeam,HomeTeam
+match189,13/01/2019,Real Betis,Real Madrid,AwayTeam,AwayTeam
+match190,14/01/2019,Real Sociedad,RCD Espanyol,HomeTeam,Draw
+match191,18/01/2019,Getafe CF,D. Alavés,HomeTeam,HomeTeam
+match192,19/01/2019,RC Celta,Valencia CF,AwayTeam,HomeTeam
+match193,19/01/2019,SD Huesca,Atlético de Madrid,AwayTeam,AwayTeam
+match194,19/01/2019,Real Madrid,Sevilla FC,HomeTeam,Draw
+match195,20/01/2019,FC Barcelona,CD Leganés,HomeTeam,HomeTeam
+match196,20/01/2019,Real Betis,Girona FC,HomeTeam,AwayTeam
+match197,20/01/2019,Levante UD,R. Valladolid CF,HomeTeam,HomeTeam
+match198,20/01/2019,Rayo Vallecano,Real Sociedad,Draw,HomeTeam
+match199,20/01/2019,Villarreal CF,Athletic Club,Draw,AwayTeam
+match200,21/01/2019,SD Eibar,RCD Espanyol,HomeTeam,
+match201,26/01/2019,Atlético de Madrid,Getafe CF,HomeTeam,HomeTeam
+match202,26/01/2019,CD Leganés,SD Eibar,Draw,AwayTeam
+match203,26/01/2019,Sevilla FC,Levante UD,HomeTeam,Draw
+match204,26/01/2019,Valencia CF,Villarreal CF,HomeTeam,HomeTeam
+match205,27/01/2019,Athletic Club,Real Betis,HomeTeam,HomeTeam
+match206,27/01/2019,RCD Espanyol,Real Madrid,AwayTeam,AwayTeam
+match207,27/01/2019,Girona FC,FC Barcelona,AwayTeam,AwayTeam
+match208,27/01/2019,Real Sociedad,SD Huesca,Draw,Draw
+match209,27/01/2019,R. Valladolid CF,RC Celta,HomeTeam,AwayTeam
+match210,28/01/2019,D. Alavés,Rayo Vallecano,AwayTeam,Draw
+match211,01/02/2019,SD Huesca,R. Valladolid CF,HomeTeam,HomeTeam
+match212,02/02/2019,FC Barcelona,Valencia CF,Draw,AwayTeam
+match213,02/02/2019,RC Celta,Sevilla FC,HomeTeam,Draw
+match214,02/02/2019,Levante UD,Getafe CF,Draw,Draw
+match215,02/02/2019,Real Sociedad,Athletic Club,HomeTeam,HomeTeam
+match216,03/02/2019,Real Betis,Atlético de Madrid,HomeTeam,Draw
+match217,03/02/2019,SD Eibar,Girona FC,HomeTeam,HomeTeam
+match218,03/02/2019,Real Madrid,D. Alavés,HomeTeam,HomeTeam
+match219,03/02/2019,Villarreal CF,RCD Espanyol,Draw,HomeTeam
+match220,04/02/2019,Rayo Vallecano,CD Leganés,AwayTeam,AwayTeam
+match221,08/02/2019,R. Valladolid CF,Villarreal CF,Draw,Draw
+match222,09/02/2019,Atlético de Madrid,Real Madrid,AwayTeam,AwayTeam
+match223,09/02/2019,RCD Espanyol,Rayo Vallecano,HomeTeam,AwayTeam
+match224,09/02/2019,Getafe CF,RC Celta,HomeTeam,Draw
+match225,09/02/2019,Girona FC,SD Huesca,AwayTeam,AwayTeam
+match226,10/02/2019,Athletic Club,FC Barcelona,Draw,Draw
+match227,10/02/2019,CD Leganés,Real Betis,HomeTeam,HomeTeam
+match228,10/02/2019,Sevilla FC,SD Eibar,Draw,AwayTeam
+match229,10/02/2019,Valencia CF,Real Sociedad,Draw,Draw
+match230,11/02/2019,D. Alavés,Levante UD,HomeTeam,HomeTeam
+match231,15/02/2019,SD Eibar,Getafe CF,Draw,AwayTeam
+match232,16/02/2019,FC Barcelona,R. Valladolid CF,HomeTeam,HomeTeam
+match233,16/02/2019,RC Celta,Levante UD,AwayTeam,AwayTeam
+match234,16/02/2019,Real Sociedad,CD Leganés,HomeTeam,Draw
+match235,16/02/2019,Rayo Vallecano,Atlético de Madrid,AwayTeam,Draw
+match236,17/02/2019,Real Betis,D. Alavés,Draw,Draw
+match237,17/02/2019,Real Madrid,Girona FC,AwayTeam,HomeTeam
+match238,17/02/2019,Valencia CF,RCD Espanyol,Draw,Draw
+match239,17/02/2019,Villarreal CF,Sevilla FC,HomeTeam,HomeTeam
+match240,18/02/2019,SD Huesca,Athletic Club,AwayTeam,AwayTeam
+match241,22/02/2019,RCD Espanyol,SD Huesca,Draw,HomeTeam
+match242,23/02/2019,D. Alavés,RC Celta,Draw,Draw
+match243,23/02/2019,Athletic Club,SD Eibar,HomeTeam,HomeTeam
+match244,23/02/2019,Getafe CF,Rayo Vallecano,HomeTeam,HomeTeam
+match245,23/02/2019,Sevilla FC,FC Barcelona,AwayTeam,HomeTeam
+match246,24/02/2019,Atlético de Madrid,Villarreal CF,HomeTeam,HomeTeam
+match247,24/02/2019,CD Leganés,Valencia CF,Draw,AwayTeam
+match248,24/02/2019,Levante UD,Real Madrid,AwayTeam,AwayTeam
+match249,24/02/2019,R. Valladolid CF,Real Betis,AwayTeam,AwayTeam
+match250,25/02/2019,Girona FC,Real Sociedad,Draw,Draw
+match251,01/03/2019,Rayo Vallecano,Girona FC,AwayTeam,AwayTeam
+match252,02/03/2019,RCD Espanyol,R. Valladolid CF,HomeTeam,Draw
+match253,02/03/2019,SD Huesca,Sevilla FC,HomeTeam,HomeTeam
+match254,02/03/2019,Real Madrid,FC Barcelona,AwayTeam,AwayTeam
+match255,02/03/2019,Villarreal CF,D. Alavés,AwayTeam,Draw
+match256,03/03/2019,Real Betis,Getafe CF,AwayTeam,AwayTeam
+match257,03/03/2019,SD Eibar,RC Celta,HomeTeam,Draw
+match258,03/03/2019,Real Sociedad,Atlético de Madrid,AwayTeam,AwayTeam
+match259,03/03/2019,Valencia CF,Athletic Club,HomeTeam,Draw
+match260,04/03/2019,CD Leganés,Levante UD,HomeTeam,HomeTeam
+match261,08/03/2019,Athletic Club,RCD Espanyol,Draw,AwayTeam
+match262,09/03/2019,D. Alavés,SD Eibar,Draw,Draw
+match263,09/03/2019,Atlético de Madrid,CD Leganés,HomeTeam,Draw
+match264,09/03/2019,FC Barcelona,Rayo Vallecano,HomeTeam,Draw
+match265,09/03/2019,Getafe CF,SD Huesca,HomeTeam,AwayTeam
+match266,10/03/2019,RC Celta,Real Betis,AwayTeam,Draw
+match267,10/03/2019,Girona FC,Valencia CF,AwayTeam,Draw
+match268,10/03/2019,Levante UD,Villarreal CF,AwayTeam,Draw
+match269,10/03/2019,Sevilla FC,Real Sociedad,HomeTeam,Draw
+match270,10/03/2019,R. Valladolid CF,Real Madrid,AwayTeam,Draw
+match271,15/03/2019,Real Sociedad,Levante UD,Draw,HomeTeam
+match272,16/03/2019,Athletic Club,Atlético de Madrid,HomeTeam,Draw
+match273,16/03/2019,SD Huesca,D. Alavés,AwayTeam,Draw
+match274,16/03/2019,CD Leganés,Girona FC,AwayTeam,AwayTeam
+match275,16/03/2019,Real Madrid,RC Celta,HomeTeam,Draw
+match276,17/03/2019,Real Betis,FC Barcelona,AwayTeam,AwayTeam
+match277,17/03/2019,SD Eibar,R. Valladolid CF,AwayTeam,Draw
+match278,17/03/2019,RCD Espanyol,Sevilla FC,AwayTeam,Draw
+match279,17/03/2019,Valencia CF,Getafe CF,Draw,Draw
+match280,17/03/2019,Villarreal CF,Rayo Vallecano,HomeTeam,AwayTeam
+match281,29/03/2019,Girona FC,Athletic Club,AwayTeam,HomeTeam
+match282,30/03/2019,D. Alavés,Atlético de Madrid,AwayTeam,AwayTeam
+match283,30/03/2019,FC Barcelona,RCD Espanyol,HomeTeam,Draw
+match284,30/03/2019,RC Celta,Villarreal CF,HomeTeam,AwayTeam
+match285,30/03/2019,Getafe CF,CD Leganés,AwayTeam,Draw
+match286,31/03/2019,Levante UD,SD Eibar,Draw,HomeTeam
+match287,31/03/2019,Real Madrid,SD Huesca,HomeTeam,Draw
+match288,31/03/2019,Sevilla FC,Valencia CF,AwayTeam,AwayTeam
+match289,31/03/2019,R. Valladolid CF,Real Sociedad,Draw,HomeTeam
+match290,31/03/2019,Rayo Vallecano,Real Betis,Draw,HomeTeam
+match291,02/04/2019,Atlético de Madrid,Girona FC,HomeTeam,Draw
+match292,02/04/2019,RCD Espanyol,Getafe CF,Draw,Draw
+match293,02/04/2019,Villarreal CF,FC Barcelona,Draw,AwayTeam
+match294,03/04/2019,Athletic Club,Levante UD,HomeTeam,HomeTeam
+match295,03/04/2019,SD Eibar,Rayo Vallecano,HomeTeam,AwayTeam
+match296,03/04/2019,SD Huesca,RC Celta,Draw,AwayTeam
+match297,03/04/2019,Valencia CF,Real Madrid,HomeTeam,HomeTeam
+match298,04/04/2019,CD Leganés,R. Valladolid CF,HomeTeam,Draw
+match299,04/04/2019,Sevilla FC,D. Alavés,HomeTeam,HomeTeam
+match300,04/04/2019,Real Sociedad,Real Betis,HomeTeam,HomeTeam
+match301,06/04/2019,FC Barcelona,Atlético de Madrid,HomeTeam,Draw
+match302,06/04/2019,Girona FC,RCD Espanyol,AwayTeam,Draw
+match303,06/04/2019,Real Madrid,SD Eibar,HomeTeam,AwayTeam
+match304,06/04/2019,Rayo Vallecano,Valencia CF,HomeTeam,HomeTeam
+match305,07/04/2019,D. Alavés,CD Leganés,Draw,HomeTeam
+match306,07/04/2019,Real Betis,Villarreal CF,HomeTeam,Draw
+match307,07/04/2019,RC Celta,Real Sociedad,HomeTeam,AwayTeam
+match308,07/04/2019,Getafe CF,Athletic Club,HomeTeam,Draw
+match309,07/04/2019,Levante UD,SD Huesca,Draw,HomeTeam
+match310,07/04/2019,R. Valladolid CF,Sevilla FC,AwayTeam,Draw
+match311,13/04/2019,Atlético de Madrid,RC Celta,HomeTeam,HomeTeam
+match312,13/04/2019,RCD Espanyol,D. Alavés,HomeTeam,HomeTeam
+match313,13/04/2019,SD Huesca,FC Barcelona,Draw,Draw
+match314,13/04/2019,Sevilla FC,Real Betis,HomeTeam,HomeTeam
+match315,14/04/2019,Athletic Club,Rayo Vallecano,HomeTeam,Draw
+match316,14/04/2019,Girona FC,Villarreal CF,AwayTeam,AwayTeam
+match317,14/04/2019,Real Sociedad,SD Eibar,Draw,HomeTeam
+match318,14/04/2019,Valencia CF,Levante UD,HomeTeam,HomeTeam
+match319,14/04/2019,R. Valladolid CF,Getafe CF,Draw,Draw
+match320,15/04/2019,CD Leganés,Real Madrid,Draw,HomeTeam
+match321,19/04/2019,D. Alavés,R. Valladolid CF,Draw,HomeTeam
+match322,20/04/2019,FC Barcelona,Real Sociedad,HomeTeam,HomeTeam
+match323,20/04/2019,RC Celta,Girona FC,HomeTeam,HomeTeam
+match324,20/04/2019,SD Eibar,Atlético de Madrid,AwayTeam,Draw
+match325,20/04/2019,Rayo Vallecano,SD Huesca,Draw,Draw
+match326,21/04/2019,Real Betis,Valencia CF,AwayTeam,AwayTeam
+match327,21/04/2019,Getafe CF,Sevilla FC,HomeTeam,HomeTeam
+match328,21/04/2019,Levante UD,RCD Espanyol,Draw,AwayTeam
+match329,21/04/2019,Real Madrid,Athletic Club,HomeTeam,Draw
+match330,21/04/2019,Villarreal CF,CD Leganés,HomeTeam,Draw
+match331,23/04/2019,D. Alavés,FC Barcelona,AwayTeam,Draw
+match332,23/04/2019,SD Huesca,SD Eibar,HomeTeam,Draw
+match333,23/04/2019,R. Valladolid CF,Girona FC,HomeTeam,Draw
+match334,24/04/2019,Atlético de Madrid,Valencia CF,HomeTeam,Draw
+match335,24/04/2019,RCD Espanyol,RC Celta,Draw,HomeTeam
+match336,24/04/2019,CD Leganés,Athletic Club,AwayTeam,AwayTeam
+match337,24/04/2019,Levante UD,Real Betis,HomeTeam,HomeTeam
+match338,25/04/2019,Getafe CF,Real Madrid,Draw,Draw
+match339,25/04/2019,Sevilla FC,Rayo Vallecano,HomeTeam,Draw
+match340,25/04/2019,Real Sociedad,Villarreal CF,AwayTeam,Draw
+match341,27/04/2019,Athletic Club,D. Alavés,Draw,Draw
+match342,27/04/2019,Atlético de Madrid,R. Valladolid CF,HomeTeam,Draw
+match343,27/04/2019,FC Barcelona,Levante UD,HomeTeam,Draw
+match344,27/04/2019,CD Leganés,RC Celta,Draw,Draw
+match345,28/04/2019,Girona FC,Sevilla FC,HomeTeam,Draw
+match346,28/04/2019,Real Sociedad,Getafe CF,HomeTeam,HomeTeam
+match347,28/04/2019,Valencia CF,SD Eibar,AwayTeam,Draw
+match348,28/04/2019,Rayo Vallecano,Real Madrid,HomeTeam,HomeTeam
+match349,28/04/2019,Villarreal CF,SD Huesca,Draw,HomeTeam
+match350,29/04/2019,Real Betis,RCD Espanyol,Draw,AwayTeam
+match351,03/05/2019,Sevilla FC,CD Leganés,AwayTeam,AwayTeam
+match352,04/05/2019,D. Alavés,Real Sociedad,AwayTeam,AwayTeam
+match353,04/05/2019,RC Celta,FC Barcelona,HomeTeam,Draw
+match354,04/05/2019,RCD Espanyol,Atlético de Madrid,HomeTeam,HomeTeam
+match355,04/05/2019,Levante UD,Rayo Vallecano,HomeTeam,HomeTeam
+match356,05/05/2019,SD Eibar,Real Betis,HomeTeam,HomeTeam
+match357,05/05/2019,Getafe CF,Girona FC,HomeTeam,HomeTeam
+match358,05/05/2019,SD Huesca,Valencia CF,AwayTeam,AwayTeam
+match359,05/05/2019,Real Madrid,Villarreal CF,HomeTeam,HomeTeam
+match360,05/05/2019,R. Valladolid CF,Athletic Club,HomeTeam,HomeTeam
+match361,12/05/2019,Athletic Club,RC Celta,HomeTeam,HomeTeam
+match362,12/05/2019,Atlético de Madrid,Sevilla FC,Draw,HomeTeam
+match363,12/05/2019,FC Barcelona,Getafe CF,HomeTeam,HomeTeam
+match364,12/05/2019,Real Betis,SD Huesca,HomeTeam,HomeTeam
+match365,12/05/2019,Girona FC,Levante UD,AwayTeam,Draw
+match366,12/05/2019,CD Leganés,RCD Espanyol,AwayTeam,AwayTeam
+match367,12/05/2019,Real Sociedad,Real Madrid,HomeTeam,Draw
+match368,12/05/2019,Valencia CF,D. Alavés,HomeTeam,HomeTeam
+match369,12/05/2019,Rayo Vallecano,R. Valladolid CF,AwayTeam,AwayTeam
+match370,12/05/2019,Villarreal CF,SD Eibar,HomeTeam,Draw
+match371,18/05/2019,D. Alavés,Girona FC,HomeTeam,HomeTeam
+match372,18/05/2019,RC Celta,Rayo Vallecano,Draw,AwayTeam
+match373,18/05/2019,RCD Espanyol,Real Sociedad,HomeTeam,Draw
+match374,18/05/2019,Getafe CF,Villarreal CF,Draw,Draw
+match375,18/05/2019,SD Huesca,CD Leganés,HomeTeam,AwayTeam
+match376,18/05/2019,Levante UD,Atlético de Madrid,Draw,HomeTeam
+match377,18/05/2019,Sevilla FC,Athletic Club,HomeTeam,HomeTeam
+match378,18/05/2019,R. Valladolid CF,Valencia CF,AwayTeam,AwayTeam
+match379,19/05/2019,SD Eibar,FC Barcelona,Draw,Draw
+match380,19/05/2019,Real Madrid,Real Betis,AwayTeam,Draw

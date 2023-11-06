@@ -1,0 +1,761 @@
+﻿id_match,team_name
+match1,Real Betis
+match1,Levante UD
+match2,Girona FC
+match2,R. Valladolid CF
+match3,FC Barcelona
+match3,D. Alavés
+match4,RC Celta
+match4,RCD Espanyol
+match5,Villarreal CF
+match5,Real Sociedad
+match6,SD Eibar
+match6,SD Huesca
+match7,Real Madrid
+match7,Getafe CF
+match8,Rayo Vallecano
+match8,Sevilla FC
+match9,Athletic Club
+match9,CD Leganés
+match10,Valencia CF
+match10,Atlético de Madrid
+match11,Getafe CF
+match11,SD Eibar
+match12,CD Leganés
+match12,Real Sociedad
+match13,D. Alavés
+match13,Real Betis
+match14,Atlético de Madrid
+match14,Rayo Vallecano
+match15,R. Valladolid CF
+match15,FC Barcelona
+match16,RCD Espanyol
+match16,Valencia CF
+match17,Girona FC
+match17,Real Madrid
+match18,Sevilla FC
+match18,Villarreal CF
+match19,Athletic Club
+match19,SD Huesca
+match20,Levante UD
+match20,RC Celta
+match21,SD Eibar
+match21,Real Sociedad
+match22,Getafe CF
+match22,R. Valladolid CF
+match23,Villarreal CF
+match23,Girona FC
+match24,RC Celta
+match24,Atlético de Madrid
+match25,Real Madrid
+match25,CD Leganés
+match26,D. Alavés
+match26,RCD Espanyol
+match27,FC Barcelona
+match27,SD Huesca
+match28,Real Betis
+match28,Sevilla FC
+match29,Levante UD
+match29,Valencia CF
+match30,SD Huesca
+match30,Rayo Vallecano
+match31,Athletic Club
+match31,Real Madrid
+match32,Atlético de Madrid
+match32,SD Eibar
+match33,Real Sociedad
+match33,FC Barcelona
+match34,Valencia CF
+match34,Real Betis
+match35,RCD Espanyol
+match35,Levante UD
+match36,CD Leganés
+match36,Villarreal CF
+match37,Sevilla FC
+match37,Getafe CF
+match38,R. Valladolid CF
+match38,D. Alavés
+match39,Girona FC
+match39,RC Celta
+match40,SD Huesca
+match40,Real Sociedad
+match41,RC Celta
+match41,R. Valladolid CF
+match42,SD Eibar
+match42,CD Leganés
+match43,Getafe CF
+match43,Atlético de Madrid
+match44,Real Madrid
+match44,RCD Espanyol
+match45,Rayo Vallecano
+match45,D. Alavés
+match46,FC Barcelona
+match46,Girona FC
+match47,Real Betis
+match47,Athletic Club
+match48,Levante UD
+match48,Sevilla FC
+match49,Villarreal CF
+match49,Valencia CF
+match50,Atlético de Madrid
+match50,SD Huesca
+match51,RCD Espanyol
+match51,SD Eibar
+match52,Real Sociedad
+match52,Rayo Vallecano
+match53,Athletic Club
+match53,Villarreal CF
+match54,CD Leganés
+match54,FC Barcelona
+match55,Sevilla FC
+match55,Real Madrid
+match56,Valencia CF
+match56,RC Celta
+match57,D. Alavés
+match57,Getafe CF
+match58,Girona FC
+match58,Real Betis
+match59,R. Valladolid CF
+match59,Levante UD
+match60,Rayo Vallecano
+match60,RCD Espanyol
+match61,FC Barcelona
+match61,Athletic Club
+match62,SD Eibar
+match62,Sevilla FC
+match63,Real Madrid
+match63,Atlético de Madrid
+match64,Real Sociedad
+match64,Valencia CF
+match65,Real Betis
+match65,CD Leganés
+match66,SD Huesca
+match66,Girona FC
+match67,Levante UD
+match67,D. Alavés
+match68,Villarreal CF
+match68,R. Valladolid CF
+match69,RC Celta
+match69,Getafe CF
+match70,Athletic Club
+match70,Real Sociedad
+match71,D. Alavés
+match71,Real Madrid
+match72,Getafe CF
+match72,Levante UD
+match73,Girona FC
+match73,SD Eibar
+match74,CD Leganés
+match74,Rayo Vallecano
+match75,Atlético de Madrid
+match75,Real Betis
+match76,RCD Espanyol
+match76,Villarreal CF
+match77,Sevilla FC
+match77,RC Celta
+match78,Valencia CF
+match78,FC Barcelona
+match79,R. Valladolid CF
+match79,SD Huesca
+match80,RC Celta
+match80,D. Alavés
+match81,FC Barcelona
+match81,Sevilla FC
+match82,Real Madrid
+match82,Levante UD
+match83,Valencia CF
+match83,CD Leganés
+match84,Villarreal CF
+match84,Atlético de Madrid
+match85,Real Betis
+match85,R. Valladolid CF
+match86,SD Eibar
+match86,Athletic Club
+match87,SD Huesca
+match87,RCD Espanyol
+match88,Rayo Vallecano
+match88,Getafe CF
+match89,Real Sociedad
+match89,Girona FC
+match90,Rayo Vallecano
+match90,Athletic Club
+match91,R. Valladolid CF
+match91,RCD Espanyol
+match92,Athletic Club
+match92,Valencia CF
+match93,Atlético de Madrid
+match93,Real Sociedad
+match94,RC Celta
+match94,SD Eibar
+match95,Girona FC
+match95,Rayo Vallecano
+match96,Levante UD
+match96,CD Leganés
+match97,D. Alavés
+match97,Villarreal CF
+match98,FC Barcelona
+match98,Real Madrid
+match99,Getafe CF
+match99,Real Betis
+match100,Sevilla FC
+match100,SD Huesca
+match101,CD Leganés
+match101,Atlético de Madrid
+match102,Real Madrid
+match102,R. Valladolid CF
+match103,Valencia CF
+match103,Girona FC
+match104,Rayo Vallecano
+match104,FC Barcelona
+match105,Real Betis
+match105,RC Celta
+match106,SD Eibar
+match106,D. Alavés
+match107,SD Huesca
+match107,Getafe CF
+match108,Real Sociedad
+match108,Sevilla FC
+match109,Villarreal CF
+match109,Levante UD
+match110,RCD Espanyol
+match110,Athletic Club
+match111,Levante UD
+match111,Real Sociedad
+match112,Atlético de Madrid
+match112,Athletic Club
+match113,Getafe CF
+match113,Valencia CF
+match114,Girona FC
+match114,CD Leganés
+match115,R. Valladolid CF
+match115,SD Eibar
+match116,D. Alavés
+match116,SD Huesca
+match117,FC Barcelona
+match117,Real Betis
+match118,RC Celta
+match118,Real Madrid
+match119,Sevilla FC
+match119,RCD Espanyol
+match120,Rayo Vallecano
+match120,Villarreal CF
+match121,CD Leganés
+match121,D. Alavés
+match122,Atlético de Madrid
+match122,FC Barcelona
+match123,SD Eibar
+match123,Real Madrid
+match124,SD Huesca
+match124,Levante UD
+match125,Valencia CF
+match125,Rayo Vallecano
+match126,Athletic Club
+match126,Getafe CF
+match127,RCD Espanyol
+match127,Girona FC
+match128,Sevilla FC
+match128,R. Valladolid CF
+match129,Villarreal CF
+match129,Real Betis
+match130,Real Sociedad
+match130,RC Celta
+match131,Rayo Vallecano
+match131,SD Eibar
+match132,RC Celta
+match132,SD Huesca
+match133,Getafe CF
+match133,RCD Espanyol
+match134,Real Madrid
+match134,Valencia CF
+match135,R. Valladolid CF
+match135,CD Leganés
+match136,D. Alavés
+match136,Sevilla FC
+match137,FC Barcelona
+match137,Villarreal CF
+match138,Real Betis
+match138,Real Sociedad
+match139,Girona FC
+match139,Atlético de Madrid
+match140,Levante UD
+match140,Athletic Club
+match141,CD Leganés
+match141,Getafe CF
+match142,Atlético de Madrid
+match142,D. Alavés
+match143,RCD Espanyol
+match143,FC Barcelona
+match144,Valencia CF
+match144,Sevilla FC
+match145,Villarreal CF
+match145,RC Celta
+match146,Real Betis
+match146,Rayo Vallecano
+match147,SD Eibar
+match147,Levante UD
+match148,SD Huesca
+match148,Real Madrid
+match149,Real Sociedad
+match149,R. Valladolid CF
+match150,Athletic Club
+match150,Girona FC
+match151,RC Celta
+match151,CD Leganés
+match152,SD Eibar
+match152,Valencia CF
+match153,Getafe CF
+match153,Real Sociedad
+match154,Real Madrid
+match154,Rayo Vallecano
+match155,R. Valladolid CF
+match155,Atlético de Madrid
+match156,RCD Espanyol
+match156,Real Betis
+match157,SD Huesca
+match157,Villarreal CF
+match158,Levante UD
+match158,FC Barcelona
+match159,Sevilla FC
+match159,Girona FC
+match160,D. Alavés
+match160,Athletic Club
+match161,Girona FC
+match161,Getafe CF
+match162,Real Sociedad
+match162,D. Alavés
+match163,Athletic Club
+match163,R. Valladolid CF
+match164,Atlético de Madrid
+match164,RCD Espanyol
+match165,FC Barcelona
+match165,RC Celta
+match166,Real Betis
+match166,SD Eibar
+match167,CD Leganés
+match167,Sevilla FC
+match168,Valencia CF
+match168,SD Huesca
+match169,Rayo Vallecano
+match169,Levante UD
+match170,Villarreal CF
+match170,Real Madrid
+match171,RCD Espanyol
+match171,CD Leganés
+match172,Levante UD
+match172,Girona FC
+match173,D. Alavés
+match173,Valencia CF
+match174,SD Huesca
+match174,Real Betis
+match175,R. Valladolid CF
+match175,Rayo Vallecano
+match176,SD Eibar
+match176,Villarreal CF
+match177,Getafe CF
+match177,FC Barcelona
+match178,Real Madrid
+match178,Real Sociedad
+match179,Sevilla FC
+match179,Atlético de Madrid
+match180,RC Celta
+match180,Athletic Club
+match181,Rayo Vallecano
+match181,RC Celta
+match182,Girona FC
+match182,D. Alavés
+match183,CD Leganés
+match183,SD Huesca
+match184,Valencia CF
+match184,R. Valladolid CF
+match185,Villarreal CF
+match185,Getafe CF
+match186,Athletic Club
+match186,Sevilla FC
+match187,Atlético de Madrid
+match187,Levante UD
+match188,FC Barcelona
+match188,SD Eibar
+match189,Real Betis
+match189,Real Madrid
+match190,Real Sociedad
+match190,RCD Espanyol
+match191,Getafe CF
+match191,D. Alavés
+match192,RC Celta
+match192,Valencia CF
+match193,SD Huesca
+match193,Atlético de Madrid
+match194,Real Madrid
+match194,Sevilla FC
+match195,FC Barcelona
+match195,CD Leganés
+match196,Real Betis
+match196,Girona FC
+match197,Levante UD
+match197,R. Valladolid CF
+match198,Rayo Vallecano
+match198,Real Sociedad
+match199,Villarreal CF
+match199,Athletic Club
+match200,SD Eibar
+match200,RCD Espanyol
+match201,Atlético de Madrid
+match201,Getafe CF
+match202,CD Leganés
+match202,SD Eibar
+match203,Sevilla FC
+match203,Levante UD
+match204,Valencia CF
+match204,Villarreal CF
+match205,Athletic Club
+match205,Real Betis
+match206,RCD Espanyol
+match206,Real Madrid
+match207,Girona FC
+match207,FC Barcelona
+match208,Real Sociedad
+match208,SD Huesca
+match209,R. Valladolid CF
+match209,RC Celta
+match210,D. Alavés
+match210,Rayo Vallecano
+match211,SD Huesca
+match211,R. Valladolid CF
+match212,FC Barcelona
+match212,Valencia CF
+match213,RC Celta
+match213,Sevilla FC
+match214,Levante UD
+match214,Getafe CF
+match215,Real Sociedad
+match215,Athletic Club
+match216,Real Betis
+match216,Atlético de Madrid
+match217,SD Eibar
+match217,Girona FC
+match218,Real Madrid
+match218,D. Alavés
+match219,Villarreal CF
+match219,RCD Espanyol
+match220,Rayo Vallecano
+match220,CD Leganés
+match221,R. Valladolid CF
+match221,Villarreal CF
+match222,Atlético de Madrid
+match222,Real Madrid
+match223,RCD Espanyol
+match223,Rayo Vallecano
+match224,Getafe CF
+match224,RC Celta
+match225,Girona FC
+match225,SD Huesca
+match226,Athletic Club
+match226,FC Barcelona
+match227,CD Leganés
+match227,Real Betis
+match228,Sevilla FC
+match228,SD Eibar
+match229,Valencia CF
+match229,Real Sociedad
+match230,D. Alavés
+match230,Levante UD
+match231,SD Eibar
+match231,Getafe CF
+match232,FC Barcelona
+match232,R. Valladolid CF
+match233,RC Celta
+match233,Levante UD
+match234,Real Sociedad
+match234,CD Leganés
+match235,Rayo Vallecano
+match235,Atlético de Madrid
+match236,Real Betis
+match236,D. Alavés
+match237,Real Madrid
+match237,Girona FC
+match238,Valencia CF
+match238,RCD Espanyol
+match239,Villarreal CF
+match239,Sevilla FC
+match240,SD Huesca
+match240,Athletic Club
+match241,RCD Espanyol
+match241,SD Huesca
+match242,D. Alavés
+match242,RC Celta
+match243,Athletic Club
+match243,SD Eibar
+match244,Getafe CF
+match244,Rayo Vallecano
+match245,Sevilla FC
+match245,FC Barcelona
+match246,Atlético de Madrid
+match246,Villarreal CF
+match247,CD Leganés
+match247,Valencia CF
+match248,Levante UD
+match248,Real Madrid
+match249,R. Valladolid CF
+match249,Real Betis
+match250,Girona FC
+match250,Real Sociedad
+match251,Rayo Vallecano
+match251,Girona FC
+match252,RCD Espanyol
+match252,R. Valladolid CF
+match253,SD Huesca
+match253,Sevilla FC
+match254,Real Madrid
+match254,FC Barcelona
+match255,Villarreal CF
+match255,D. Alavés
+match256,Real Betis
+match256,Getafe CF
+match257,SD Eibar
+match257,RC Celta
+match258,Real Sociedad
+match258,Atlético de Madrid
+match259,Valencia CF
+match259,Athletic Club
+match260,CD Leganés
+match260,Levante UD
+match261,Athletic Club
+match261,RCD Espanyol
+match262,D. Alavés
+match262,SD Eibar
+match263,Atlético de Madrid
+match263,CD Leganés
+match264,FC Barcelona
+match264,Rayo Vallecano
+match265,Getafe CF
+match265,SD Huesca
+match266,RC Celta
+match266,Real Betis
+match267,Girona FC
+match267,Valencia CF
+match268,Levante UD
+match268,Villarreal CF
+match269,Sevilla FC
+match269,Real Sociedad
+match270,R. Valladolid CF
+match270,Real Madrid
+match271,Real Sociedad
+match271,Levante UD
+match272,Athletic Club
+match272,Atlético de Madrid
+match273,SD Huesca
+match273,D. Alavés
+match274,CD Leganés
+match274,Girona FC
+match275,Real Madrid
+match275,RC Celta
+match276,Real Betis
+match276,FC Barcelona
+match277,SD Eibar
+match277,R. Valladolid CF
+match278,RCD Espanyol
+match278,Sevilla FC
+match279,Valencia CF
+match279,Getafe CF
+match280,Villarreal CF
+match280,Rayo Vallecano
+match281,Girona FC
+match281,Athletic Club
+match282,D. Alavés
+match282,Atlético de Madrid
+match283,FC Barcelona
+match283,RCD Espanyol
+match284,RC Celta
+match284,Villarreal CF
+match285,Getafe CF
+match285,CD Leganés
+match286,Levante UD
+match286,SD Eibar
+match287,Real Madrid
+match287,SD Huesca
+match288,Sevilla FC
+match288,Valencia CF
+match289,R. Valladolid CF
+match289,Real Sociedad
+match290,Rayo Vallecano
+match290,Real Betis
+match291,Atlético de Madrid
+match291,Girona FC
+match292,RCD Espanyol
+match292,Getafe CF
+match293,Villarreal CF
+match293,FC Barcelona
+match294,Athletic Club
+match294,Levante UD
+match295,SD Eibar
+match295,Rayo Vallecano
+match296,SD Huesca
+match296,RC Celta
+match297,Valencia CF
+match297,Real Madrid
+match298,CD Leganés
+match298,R. Valladolid CF
+match299,Sevilla FC
+match299,D. Alavés
+match300,Real Sociedad
+match300,Real Betis
+match301,FC Barcelona
+match301,Atlético de Madrid
+match302,Girona FC
+match302,RCD Espanyol
+match303,Real Madrid
+match303,SD Eibar
+match304,Rayo Vallecano
+match304,Valencia CF
+match305,D. Alavés
+match305,CD Leganés
+match306,Real Betis
+match306,Villarreal CF
+match307,RC Celta
+match307,Real Sociedad
+match308,Getafe CF
+match308,Athletic Club
+match309,Levante UD
+match309,SD Huesca
+match310,R. Valladolid CF
+match310,Sevilla FC
+match311,Atlético de Madrid
+match311,RC Celta
+match312,RCD Espanyol
+match312,D. Alavés
+match313,SD Huesca
+match313,FC Barcelona
+match314,Sevilla FC
+match314,Real Betis
+match315,Athletic Club
+match315,Rayo Vallecano
+match316,Girona FC
+match316,Villarreal CF
+match317,Real Sociedad
+match317,SD Eibar
+match318,Valencia CF
+match318,Levante UD
+match319,R. Valladolid CF
+match319,Getafe CF
+match320,CD Leganés
+match320,Real Madrid
+match321,D. Alavés
+match321,R. Valladolid CF
+match322,FC Barcelona
+match322,Real Sociedad
+match323,RC Celta
+match323,Girona FC
+match324,SD Eibar
+match324,Atlético de Madrid
+match325,Rayo Vallecano
+match325,SD Huesca
+match326,Real Betis
+match326,Valencia CF
+match327,Getafe CF
+match327,Sevilla FC
+match328,Levante UD
+match328,RCD Espanyol
+match329,Real Madrid
+match329,Athletic Club
+match330,Villarreal CF
+match330,CD Leganés
+match331,D. Alavés
+match331,FC Barcelona
+match332,SD Huesca
+match332,SD Eibar
+match333,R. Valladolid CF
+match333,Girona FC
+match334,Atlético de Madrid
+match334,Valencia CF
+match335,RCD Espanyol
+match335,RC Celta
+match336,CD Leganés
+match336,Athletic Club
+match337,Levante UD
+match337,Real Betis
+match338,Getafe CF
+match338,Real Madrid
+match339,Sevilla FC
+match339,Rayo Vallecano
+match340,Real Sociedad
+match340,Villarreal CF
+match341,Athletic Club
+match341,D. Alavés
+match342,Atlético de Madrid
+match342,R. Valladolid CF
+match343,FC Barcelona
+match343,Levante UD
+match344,CD Leganés
+match344,RC Celta
+match345,Girona FC
+match345,Sevilla FC
+match346,Real Sociedad
+match346,Getafe CF
+match347,Valencia CF
+match347,SD Eibar
+match348,Rayo Vallecano
+match348,Real Madrid
+match349,Villarreal CF
+match349,SD Huesca
+match350,Real Betis
+match350,RCD Espanyol
+match351,Sevilla FC
+match351,CD Leganés
+match352,D. Alavés
+match352,Real Sociedad
+match353,RC Celta
+match353,FC Barcelona
+match354,RCD Espanyol
+match354,Atlético de Madrid
+match355,Levante UD
+match355,Rayo Vallecano
+match356,SD Eibar
+match356,Real Betis
+match357,Getafe CF
+match357,Girona FC
+match358,SD Huesca
+match358,Valencia CF
+match359,Real Madrid
+match359,Villarreal CF
+match360,R. Valladolid CF
+match360,Athletic Club
+match361,Athletic Club
+match361,RC Celta
+match362,Atlético de Madrid
+match362,Sevilla FC
+match363,FC Barcelona
+match363,Getafe CF
+match364,Real Betis
+match364,SD Huesca
+match365,Girona FC
+match365,Levante UD
+match366,CD Leganés
+match366,RCD Espanyol
+match367,Real Sociedad
+match367,Real Madrid
+match368,Valencia CF
+match368,D. Alavés
+match369,Rayo Vallecano
+match369,R. Valladolid CF
+match370,Villarreal CF
+match370,SD Eibar
+match371,D. Alavés
+match371,Girona FC
+match372,RC Celta
+match372,Rayo Vallecano
+match373,RCD Espanyol
+match373,Real Sociedad
+match374,Getafe CF
+match374,Villarreal CF
+match375,SD Huesca
+match375,CD Leganés
+match376,Levante UD
+match376,Atlético de Madrid
+match377,Sevilla FC
+match377,Athletic Club
+match378,R. Valladolid CF
+match378,Valencia CF
+match379,SD Eibar
+match379,FC Barcelona
+match380,Real Madrid
+match380,Real Betis

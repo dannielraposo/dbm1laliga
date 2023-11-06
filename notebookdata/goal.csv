@@ -1,0 +1,984 @@
+﻿id_goal,goal_minute,penalty?,own_goal?,id_match,player_name
+goal1,38,FALSE,FALSE,match1,Roger Martí
+goal2,54,FALSE,FALSE,match1,José Luis Morales Nogales
+goal3,95,FALSE,FALSE,match1,José Luis Morales Nogales
+goal4,64,FALSE,FALSE,match3,Lionel Messi
+goal5,92,FALSE,FALSE,match3,Lionel Messi
+goal6,83,FALSE,FALSE,match3,Philippe Coutinho
+goal7,51,FALSE,TRUE,match4,David López Silva
+goal8,45,FALSE,FALSE,match4,Mario Hermoso
+goal9,16,FALSE,FALSE,match5,Gerard Moreno
+goal10,40,FALSE,FALSE,match5,Willian José
+goal11,71,FALSE,FALSE,match5,Juan Miguel Jiménez
+goal12,69,FALSE,FALSE,match6,Gonzalo Escalante
+goal13,5,FALSE,FALSE,match6,Álex Gallar
+goal14,40,FALSE,FALSE,match6,Álex Gallar
+goal15,20,FALSE,FALSE,match7,Dani Carvajal
+goal16,51,FALSE,FALSE,match7,Gareth Bale
+goal17,85,TRUE,FALSE,match8,Adrián Embarba
+goal18,15,FALSE,FALSE,match8,Franco Vázquez
+goal19,31,FALSE,FALSE,match8,André Silva
+goal20,46,FALSE,FALSE,match8,André Silva
+goal21,79,FALSE,FALSE,match8,André Silva
+goal22,27,FALSE,FALSE,match9,Peru Nolaskoain
+goal23,93,FALSE,FALSE,match9,Iker Muniain
+goal24,33,FALSE,FALSE,match9,Jonathan Silva
+goal25,56,FALSE,FALSE,match10,Rodrigo Moreno Machado
+goal26,26,FALSE,FALSE,match10,Ángel Correa
+goal27,18,FALSE,FALSE,match11,Ángel Rodríguez
+goal28,90,FALSE,FALSE,match11,Jorge Molina Vidal
+goal29,54,FALSE,FALSE,match12,Nabil El Zhar
+goal30,88,FALSE,FALSE,match12,Nabil El Zhar
+goal31,11,FALSE,FALSE,match12,David Zurutuza
+goal32,17,FALSE,FALSE,match12,Asier Illarramendi
+goal33,63,FALSE,FALSE,match14,Antoine Griezmann
+goal34,57,FALSE,FALSE,match15,Ousmane Dembélé
+goal35,62,FALSE,FALSE,match16,Esteban Granero
+goal36,68,FALSE,FALSE,match16,Borja Iglesias
+goal37,16,FALSE,FALSE,match17,Borja García Freire
+goal38,39,TRUE,FALSE,match17,Sergio Ramos
+goal39,52,TRUE,FALSE,match17,Karim Benzema
+goal40,80,FALSE,FALSE,match17,Karim Benzema
+goal41,59,FALSE,FALSE,match17,Gareth Bale
+goal42,47,FALSE,FALSE,match19,Markel Susaeta
+goal43,63,FALSE,FALSE,match19,Yuri Berchiche
+goal44,71,FALSE,FALSE,match19,Jorge Miramón
+goal45,87,FALSE,FALSE,match19,Ezequiel Chimy Ávila
+goal46,78,TRUE,FALSE,match20,José Luis Morales Nogales
+goal47,10,FALSE,FALSE,match20,Pione Sisto
+goal48,35,FALSE,FALSE,match20,Maxi Gómez
+goal49,26,FALSE,FALSE,match21,Marc Cardona
+goal50,91,FALSE,FALSE,match21,Charles Días Barbosa
+goal51,15,TRUE,FALSE,match21,Willian José
+goal52,54,FALSE,FALSE,match23,Cristhian Stuani
+goal53,46,FALSE,FALSE,match24,Maxi Gómez
+goal54,52,FALSE,FALSE,match24,Iago Aspas
+goal55,17,FALSE,FALSE,match25,Gareth Bale
+goal56,48,FALSE,FALSE,match25,Karim Benzema
+goal57,61,FALSE,FALSE,match25,Karim Benzema
+goal58,66,TRUE,FALSE,match25,Sergio Ramos
+goal59,24,TRUE,FALSE,match25,Guido Carrillo
+goal60,57,FALSE,FALSE,match26,Borja Bastón
+goal61,59,FALSE,FALSE,match26,Rubén Sobrino
+goal62,42,TRUE,FALSE,match26,Léo Baptistão
+goal63,16,FALSE,FALSE,match27,Lionel Messi
+goal64,61,FALSE,FALSE,match27,Lionel Messi
+goal65,24,FALSE,TRUE,match27,Jorge Pulido
+goal66,39,FALSE,FALSE,match27,Luis Suárez
+goal67,93,TRUE,FALSE,match27,Luis Suárez
+goal68,48,FALSE,FALSE,match27,Ousmane Dembélé
+goal69,52,FALSE,FALSE,match27,Ivan Rakitic
+goal70,81,FALSE,FALSE,match27,Jordi Alba
+goal71,3,FALSE,FALSE,match27,Juan Camilo Hernández Suárez
+goal72,42,FALSE,FALSE,match27,Álex Gallar
+goal73,80,FALSE,FALSE,match28,Joaquín Sánchez
+goal74,13,FALSE,FALSE,match29,Roger Martí
+goal75,33,FALSE,FALSE,match29,Roger Martí
+goal76,16,FALSE,FALSE,match29,Denís Chéryshev
+goal77,52,TRUE,FALSE,match29,Daniel Parejo
+goal78,29,FALSE,FALSE,match30,Giannelli Imbula
+goal79,32,FALSE,FALSE,match31,Iker Muniain
+goal80,63,FALSE,FALSE,match31,Isco
+goal81,94,FALSE,FALSE,match32,Borja Garcés Moreno
+goal82,87,FALSE,FALSE,match32,Sergi Enrich
+goal83,12,FALSE,FALSE,match33,Aritz Elustondo
+goal84,63,FALSE,FALSE,match33,Luis Suárez
+goal85,66,FALSE,FALSE,match33,Ousmane Dembélé
+goal86,52,FALSE,FALSE,match35,Sergio García de la Fuente
+goal87,65,FALSE,FALSE,match36,Carlos Bacca
+goal88,3,FALSE,FALSE,match37,Ángel Rodríguez
+goal89,38,FALSE,FALSE,match37,Ángel Rodríguez
+goal90,93,FALSE,FALSE,match38,Ibai Gómez
+goal91,22,FALSE,FALSE,match39,Cristhian Stuani
+goal92,56,FALSE,FALSE,match39,Cristhian Stuani
+goal93,37,FALSE,FALSE,match39,Pedro Alcalá Guirado
+goal94,34,FALSE,FALSE,match39,Iago Aspas
+goal95,87,FALSE,FALSE,match39,Sofiane Boufal
+goal96,64,FALSE,FALSE,match40,Mikel Merino
+goal97,5,FALSE,FALSE,match41,Iago Aspas
+goal98,54,FALSE,FALSE,match41,Iago Aspas
+goal99,9,FALSE,FALSE,match41,Maxi Gómez
+goal100,39,FALSE,FALSE,match41,Óscar Plano
+goal101,65,FALSE,FALSE,match41,Enes Ünal
+goal102,94,FALSE,FALSE,match41,Leonardo Suárez
+goal103,52,FALSE,FALSE,match42,Kike García
+goal104,14,FALSE,FALSE,match43,Thomas Lemar
+goal105,60,FALSE,FALSE,match43,Thomas Lemar
+goal106,41,FALSE,FALSE,match44,Marco Asensio
+goal107,30,FALSE,FALSE,match45,Raúl de Tomás
+goal108,8,FALSE,FALSE,match45,Ximo Navarro
+goal109,34,FALSE,FALSE,match45,Ibai Gómez
+goal110,77,FALSE,FALSE,match45,Ibai Gómez
+goal111,56,FALSE,FALSE,match45,Jonathan Calleri
+goal112,95,FALSE,FALSE,match45,Burgui
+goal113,19,FALSE,FALSE,match46,Lionel Messi
+goal114,63,FALSE,FALSE,match46,Gerard Piqué
+goal115,45,FALSE,FALSE,match46,Cristhian Stuani
+goal116,51,FALSE,FALSE,match46,Cristhian Stuani
+goal117,51,FALSE,FALSE,match47,Marc Bartra
+goal118,68,FALSE,FALSE,match47,Sergio Canales
+goal119,7,FALSE,FALSE,match47,Iñaki Williams
+goal120,18,FALSE,FALSE,match47,Raúl García Escudero
+goal121,12,FALSE,FALSE,match48,Roger Martí
+goal122,90,FALSE,FALSE,match48,Moses Simon
+goal123,11,FALSE,FALSE,match48,Wissam Ben Yedder
+goal124,35,FALSE,FALSE,match48,Wissam Ben Yedder
+goal125,45,FALSE,FALSE,match48,Wissam Ben Yedder
+goal126,21,FALSE,FALSE,match48,Daniel Carriço
+goal127,49,FALSE,FALSE,match48,André Silva
+goal128,59,FALSE,FALSE,match48,Pablo Sarabia
+goal129,16,FALSE,FALSE,match50,Antoine Griezmann
+goal130,29,FALSE,FALSE,match50,Yakubu Partey
+goal131,33,FALSE,FALSE,match50,Koke Resurrección
+goal132,68,FALSE,FALSE,match51,Mario Hermoso
+goal133,5,FALSE,FALSE,match52,Jon Bautista
+goal134,78,FALSE,FALSE,match52,Willian José
+goal135,31,FALSE,FALSE,match52,Luis Advíncula
+goal136,36,TRUE,FALSE,match52,Óscar Trejo
+goal137,65,FALSE,FALSE,match53,Pablo Fornals
+goal138,80,FALSE,FALSE,match53,Ramiro Funes Mori
+goal139,89,FALSE,FALSE,match53,Karl Toko Ekambi
+goal140,52,FALSE,FALSE,match54,Nabil El Zhar
+goal141,53,FALSE,FALSE,match54,Óscar Rodríguez Arnaiz
+goal142,12,FALSE,FALSE,match54,Philippe Coutinho
+goal143,17,FALSE,FALSE,match55,André Silva
+goal144,21,FALSE,FALSE,match55,André Silva
+goal145,39,FALSE,FALSE,match55,Wissam Ben Yedder
+goal146,25,FALSE,FALSE,match56,Michy Batshuayi
+goal147,82,FALSE,FALSE,match56,Iago Aspas
+goal148,93,FALSE,FALSE,match57,Jonathan Calleri
+goal149,80,FALSE,FALSE,match57,Amath Ndiaye
+goal150,64,FALSE,FALSE,match58,Loren Morón García
+goal151,50,FALSE,FALSE,match59,Enes Ünal
+goal152,56,FALSE,FALSE,match59,Nacho Martínez García
+goal153,47,FALSE,FALSE,match59,Sergio Postigo Redondo
+goal154,6,FALSE,FALSE,match60,Raúl de Tomás
+goal155,47,TRUE,FALSE,match60,Gaël Kakuta
+goal156,19,FALSE,FALSE,match60,Borja Iglesias
+goal157,46,FALSE,FALSE,match60,Esteban Granero
+goal158,84,FALSE,FALSE,match61,Munir El Haddadi
+goal159,41,FALSE,FALSE,match61,Óscar De Marcos
+goal160,99,FALSE,FALSE,match62,Joan Jordán
+goal161,47,FALSE,FALSE,match62,André Silva
+goal162,59,TRUE,FALSE,match62,Éver Banega
+goal163,94,FALSE,FALSE,match62,Éver Banega
+goal164,36,FALSE,FALSE,match64,Kevin Gameiro
+goal165,89,FALSE,FALSE,match65,Loren Morón García
+goal166,72,TRUE,FALSE,match66,Gonzalo Melero
+goal167,37,TRUE,FALSE,match66,Cristhian Stuani
+goal168,19,FALSE,FALSE,match67,Jason Remeseiro
+goal169,36,FALSE,FALSE,match67,Antonio García Aranda
+goal170,5,FALSE,FALSE,match67,Rubén Sobrino
+goal171,53,FALSE,FALSE,match68,Leonardo Suárez
+goal172,33,FALSE,FALSE,match69,Maxi Gómez
+goal173,78,FALSE,FALSE,match69,Jaime Mata
+goal174,32,FALSE,FALSE,match70,Iker Muniain
+goal175,30,TRUE,FALSE,match70,Mikel Oyarzabal
+goal176,74,TRUE,FALSE,match70,Mikel Oyarzabal
+goal177,47,FALSE,FALSE,match70,Luca Sangalli
+goal178,95,FALSE,FALSE,match71,Manu García
+goal179,60,FALSE,FALSE,match72,Enis Bardhi
+goal180,40,FALSE,FALSE,match73,Cristhian Stuani
+goal181,42,FALSE,FALSE,match73,Cristhian Stuani
+goal182,12,TRUE,FALSE,match73,Charles Días Barbosa
+goal183,50,FALSE,FALSE,match73,Anaitz Arbilla Zabala
+goal184,72,FALSE,FALSE,match73,Sergi Enrich
+goal185,14,FALSE,FALSE,match74,Guido Carrillo
+goal186,74,FALSE,FALSE,match75,Ángel Correa
+goal187,7,FALSE,FALSE,match76,Hernán Arsenio Pérez
+goal188,79,FALSE,FALSE,match76,Sergi Darder
+goal189,92,FALSE,FALSE,match76,Pablo Piatti
+goal190,45,FALSE,FALSE,match76,Karl Toko Ekambi
+goal191,39,FALSE,FALSE,match77,Pablo Sarabia
+goal192,61,FALSE,FALSE,match77,Wissam Ben Yedder
+goal193,85,FALSE,FALSE,match77,Sofiane Boufal
+goal194,2,FALSE,FALSE,match78,Ezequiel Garay
+goal195,23,FALSE,FALSE,match78,Lionel Messi
+goal196,28,FALSE,FALSE,match79,Rubén Alcaraz
+goal197,58,FALSE,FALSE,match80,Tomás Pina
+goal198,2,FALSE,FALSE,match81,Philippe Coutinho
+goal199,12,FALSE,FALSE,match81,Lionel Messi
+goal200,63,TRUE,FALSE,match81,Luis Suárez
+goal201,88,FALSE,FALSE,match81,Ivan Rakitic
+goal202,79,FALSE,TRUE,match81,Clément Lenglet
+goal203,91,FALSE,FALSE,match81,Luis Muriel
+goal204,72,FALSE,FALSE,match82,Marcelo Vieira
+goal205,6,FALSE,FALSE,match82,José Luis Morales Nogales
+goal206,13,TRUE,FALSE,match82,Roger Martí
+goal207,85,FALSE,FALSE,match83,José Luis Gayà
+goal208,63,TRUE,FALSE,match83,Gerard Gumbau
+goal209,65,FALSE,FALSE,match84,Mario Gaspar
+goal210,51,FALSE,FALSE,match84,Filipe Luís
+goal211,35,FALSE,FALSE,match85,Antonio Jesús Regal Angulo
+goal212,17,TRUE,FALSE,match86,Charles Días Barbosa
+goal213,21,FALSE,FALSE,match86,Iñaki Williams
+goal214,41,FALSE,FALSE,match87,Borja Iglesias
+goal215,64,FALSE,FALSE,match87,Borja Iglesias
+goal216,74,FALSE,FALSE,match88,Raúl de Tomás
+goal217,63,FALSE,FALSE,match88,Dimitri Foulquier
+goal218,67,FALSE,TRUE,match88,Sergio Akieme
+goal219,23,FALSE,FALSE,match90,José Ángel Pozo
+goal220,66,FALSE,FALSE,match90,Iker Muniain
+goal221,91,FALSE,FALSE,match91,Daniele Verde
+goal222,20,FALSE,FALSE,match91,Borja Iglesias
+goal223,45,FALSE,FALSE,match93,Diego Godín
+goal224,60,FALSE,FALSE,match93,Filipe Luís
+goal225,5,FALSE,FALSE,match94,Iago Aspas
+goal226,36,FALSE,FALSE,match94,Iago Aspas
+goal227,82,FALSE,FALSE,match94,Iago Aspas
+goal228,56,FALSE,FALSE,match94,Brais Méndez
+goal229,34,TRUE,FALSE,match95,Portu
+goal230,45,FALSE,FALSE,match95,Portu
+goal231,61,FALSE,FALSE,match95,Alejandro Gálvez
+goal232,14,FALSE,FALSE,match96,Roger Martí
+goal233,90,FALSE,FALSE,match96,Rubén Rochina
+goal234,51,FALSE,FALSE,match97,Jonathan Calleri
+goal235,94,FALSE,FALSE,match97,Borja Bastón
+goal236,10,FALSE,FALSE,match97,Gerard Moreno
+goal237,11,FALSE,FALSE,match98,Philippe Coutinho
+goal238,30,TRUE,FALSE,match98,Luis Suárez
+goal239,75,FALSE,FALSE,match98,Luis Suárez
+goal240,83,FALSE,FALSE,match98,Luis Suárez
+goal241,87,FALSE,FALSE,match98,Arturo Vidal
+goal242,50,FALSE,FALSE,match98,Marcelo Vieira
+goal243,60,FALSE,FALSE,match99,Jorge Molina Vidal
+goal244,62,FALSE,FALSE,match99,Dimitri Foulquier
+goal245,65,FALSE,FALSE,match100,Pablo Sarabia
+goal246,78,FALSE,FALSE,match100,Pablo Sarabia
+goal247,93,FALSE,FALSE,match100,Jorge Pulido
+goal248,82,FALSE,FALSE,match101,Guido Carrillo
+goal249,69,FALSE,FALSE,match101,Antoine Griezmann
+goal250,83,FALSE,FALSE,match102,Vinícius Júnior
+goal251,88,TRUE,FALSE,match102,Sergio Ramos
+goal252,48,FALSE,FALSE,match103,Pere Pons
+goal253,35,FALSE,FALSE,match104,José Ángel Pozo
+goal254,57,FALSE,FALSE,match104,Álvaro García Rivera
+goal255,10,FALSE,FALSE,match104,Luis Suárez
+goal256,90,FALSE,FALSE,match104,Luis Suárez
+goal257,87,FALSE,FALSE,match104,Ousmane Dembélé
+goal258,33,FALSE,FALSE,match105,Loren Morón García
+goal259,57,FALSE,FALSE,match105,Junior Firpo
+goal260,87,FALSE,FALSE,match105,Sergio Canales
+goal261,63,FALSE,FALSE,match105,Maxi Gómez
+goal262,84,FALSE,FALSE,match105,Maxi Gómez
+goal263,69,FALSE,FALSE,match105,Brais Méndez
+goal264,69,FALSE,FALSE,match106,Joan Jordán
+goal265,91,FALSE,FALSE,match106,Papakouli Diop
+goal266,4,FALSE,FALSE,match106,Jony Rodríguez
+goal267,50,FALSE,FALSE,match107,Xabier Etxeita
+goal268,91,FALSE,FALSE,match107,Jorge Molina Vidal
+goal269,93,FALSE,FALSE,match109,Alfonso Pedraza
+goal270,77,FALSE,TRUE,match109,Ramiro Funes Mori
+goal271,41,FALSE,FALSE,match110,Borja Iglesias
+goal272,4,FALSE,FALSE,match111,José Manuel Rodríguez Benito
+goal273,73,FALSE,FALSE,match111,Theo Hernández
+goal274,77,FALSE,FALSE,match111,Juan Miguel Jiménez
+goal275,83,FALSE,FALSE,match111,Mikel Oyarzabal
+goal276,61,FALSE,FALSE,match112,Yakubu Partey
+goal277,80,FALSE,FALSE,match112,Rodri Hernández
+goal278,91,FALSE,FALSE,match112,Diego Godín
+goal279,36,FALSE,FALSE,match112,Iñaki Williams
+goal280,64,FALSE,FALSE,match112,Iñaki Williams
+goal281,81,TRUE,FALSE,match113,Daniel Parejo
+goal282,41,FALSE,FALSE,match116,Jony Rodríguez
+goal283,68,FALSE,FALSE,match116,Rubén Sobrino
+goal284,35,FALSE,FALSE,match116,Moi Gómez
+goal285,68,TRUE,FALSE,match117,Lionel Messi
+goal286,92,FALSE,FALSE,match117,Lionel Messi
+goal287,79,FALSE,FALSE,match117,Arturo Vidal
+goal288,20,FALSE,FALSE,match117,Junior Firpo
+goal289,34,FALSE,FALSE,match117,Joaquín Sánchez
+goal290,71,FALSE,FALSE,match117,Giovani Lo Celso
+goal291,83,FALSE,FALSE,match117,Sergio Canales
+goal292,61,FALSE,FALSE,match118,Hugo Mallo
+goal293,94,FALSE,FALSE,match118,Brais Méndez
+goal294,23,FALSE,FALSE,match118,Karim Benzema
+goal295,56,FALSE,TRUE,match118,Gustavo Cabral
+goal296,83,TRUE,FALSE,match118,Sergio Ramos
+goal297,91,FALSE,FALSE,match118,Dani Ceballos
+goal298,70,FALSE,FALSE,match119,Gabriel Mercado
+goal299,89,FALSE,FALSE,match119,Wissam Ben Yedder
+goal300,38,FALSE,FALSE,match119,Borja Iglesias
+goal301,46,FALSE,FALSE,match120,Raúl de Tomás
+goal302,66,FALSE,FALSE,match120,Álvaro García Rivera
+goal303,33,FALSE,FALSE,match120,Samuel Chukwueze
+goal304,80,FALSE,FALSE,match120,Nicola Sansone
+goal305,42,FALSE,FALSE,match121,Youssef En-Nesyri
+goal306,90,FALSE,FALSE,match122,Ousmane Dembélé
+goal307,16,FALSE,FALSE,match123,Gonzalo Escalante
+goal308,52,FALSE,FALSE,match123,Sergi Enrich
+goal309,57,FALSE,FALSE,match123,Kike García
+goal310,23,FALSE,FALSE,match124,Christian Rivera Hernández
+goal311,51,FALSE,FALSE,match124,Xabier Etxeita
+goal312,46,FALSE,FALSE,match124,Roger Martí
+goal313,74,FALSE,FALSE,match124,Emmanuel Boateng
+goal314,35,FALSE,FALSE,match125,Santi Mina
+goal315,61,FALSE,FALSE,match125,Santi Mina
+goal316,76,FALSE,FALSE,match125,Kevin Gameiro
+goal317,67,FALSE,FALSE,match126,Peru Nolaskoain
+goal318,77,FALSE,FALSE,match126,Jaime Mata
+goal319,74,FALSE,FALSE,match127,Borja Iglesias
+goal320,4,FALSE,FALSE,match127,Cristhian Stuani
+goal321,6,FALSE,FALSE,match127,Cristhian Stuani
+goal322,90,FALSE,FALSE,match127,Seydou Doumbia
+goal323,30,FALSE,FALSE,match128,André Silva
+goal324,52,FALSE,FALSE,match129,Gerard Moreno
+goal325,54,FALSE,FALSE,match129,Samuel Chukwueze
+goal326,90,FALSE,FALSE,match129,Giovani Lo Celso
+goal327,37,FALSE,FALSE,match130,Mikel Oyarzabal
+goal328,47,FALSE,FALSE,match130,David Zurutuza
+goal329,82,FALSE,FALSE,match130,Maxi Gómez
+goal330,53,FALSE,FALSE,match131,Adrián Embarba
+goal331,38,FALSE,FALSE,match132,Iago Aspas
+goal332,77,FALSE,FALSE,match132,Iago Aspas
+goal333,55,FALSE,FALSE,match133,Jorge Molina Vidal
+goal334,65,FALSE,FALSE,match133,Jaime Mata
+goal335,80,FALSE,FALSE,match133,Vitorino Antunes
+goal336,8,FALSE,TRUE,match134,Daniel Wass
+goal337,83,FALSE,FALSE,match134,Lucas Vázquez
+goal338,50,FALSE,FALSE,match135,Toni Villa
+goal339,93,FALSE,FALSE,match135,Enes Ünal
+goal340,11,FALSE,FALSE,match135,Dimitrios Siovas
+goal341,42,FALSE,FALSE,match135,Óscar Rodríguez Arnaiz
+goal342,66,FALSE,FALSE,match135,Guido Carrillo
+goal343,75,FALSE,FALSE,match135,Guido Carrillo
+goal344,37,FALSE,FALSE,match136,Jony Rodríguez
+goal345,78,FALSE,FALSE,match136,Wissam Ben Yedder
+goal346,35,FALSE,FALSE,match137,Gerard Piqué
+goal347,87,FALSE,FALSE,match137,Carles Aleñá
+goal348,33,FALSE,FALSE,match138,Junior Firpo
+goal349,47,TRUE,FALSE,match139,Cristhian Stuani
+goal350,82,FALSE,TRUE,match139,Jonás Ramalho
+goal351,49,FALSE,FALSE,match140,José Manuel Rodríguez Benito
+goal352,59,FALSE,FALSE,match140,José Campaña
+goal353,69,FALSE,FALSE,match140,Roger Martí
+goal354,64,FALSE,FALSE,match141,Allan Romeo Nyom
+goal355,39,FALSE,FALSE,match141,Leandro Cabrera
+goal356,25,FALSE,FALSE,match142,Nikola Kalinic
+goal357,82,FALSE,FALSE,match142,Antoine Griezmann
+goal358,87,FALSE,FALSE,match142,Rodri Hernández
+goal359,17,FALSE,FALSE,match143,Lionel Messi
+goal360,65,FALSE,FALSE,match143,Lionel Messi
+goal361,26,FALSE,FALSE,match143,Ousmane Dembélé
+goal362,45,FALSE,FALSE,match143,Luis Suárez
+goal363,92,FALSE,FALSE,match144,Mouctar Diakhaby
+goal364,55,FALSE,FALSE,match144,Pablo Sarabia
+goal365,83,FALSE,FALSE,match145,Carlos Bacca
+goal366,87,FALSE,FALSE,match145,Carlos Bacca
+goal367,44,FALSE,FALSE,match145,Brais Méndez
+goal368,49,FALSE,FALSE,match145,Okay Yokuslu
+goal369,51,FALSE,FALSE,match145,Maxi Gómez
+goal370,59,TRUE,FALSE,match146,Giovani Lo Celso
+goal371,76,FALSE,FALSE,match146,Sidnei Rechel da Silva Junior
+goal372,8,FALSE,FALSE,match147,Sergi Enrich
+goal373,57,FALSE,FALSE,match147,Gonzalo Escalante
+goal374,61,TRUE,FALSE,match147,Charles Días Barbosa
+goal375,65,FALSE,FALSE,match147,Charles Días Barbosa
+goal376,9,FALSE,FALSE,match147,José Luis Morales Nogales
+goal377,25,FALSE,FALSE,match147,Róber Pier
+goal378,75,FALSE,TRUE,match147,Paulo Oliveira
+goal379,91,FALSE,FALSE,match147,Borja Mayoral
+goal380,8,FALSE,FALSE,match148,Gareth Bale
+goal381,62,FALSE,FALSE,match149,Mikel Oyarzabal
+goal382,16,FALSE,FALSE,match149,Toni Villa
+goal383,54,FALSE,FALSE,match149,Antonio Jesús Regal Angulo
+goal384,92,TRUE,FALSE,match150,Aritz Aduriz
+goal385,56,TRUE,FALSE,match152,Charles Días Barbosa
+goal386,29,FALSE,FALSE,match152,Rodrigo Moreno Machado
+goal387,3,FALSE,FALSE,match153,Jorge Molina Vidal
+goal388,13,FALSE,FALSE,match154,Karim Benzema
+goal389,57,FALSE,FALSE,match155,Fernando Calero
+goal390,63,FALSE,TRUE,match155,Saúl Ñíguez
+goal391,26,FALSE,FALSE,match155,Nikola Kalinic
+goal392,46,TRUE,FALSE,match155,Antoine Griezmann
+goal393,80,FALSE,FALSE,match155,Antoine Griezmann
+goal394,24,FALSE,FALSE,match156,Sergio García de la Fuente
+goal395,43,FALSE,FALSE,match156,Giovani Lo Celso
+goal396,85,FALSE,FALSE,match156,Cristian Tello
+goal397,91,FALSE,TRUE,match156,Óscar Duarte
+goal398,44,TRUE,FALSE,match157,Juan Camilo Hernández Suárez
+goal399,94,FALSE,FALSE,match157,Samuele Longo
+goal400,63,TRUE,FALSE,match157,Carlos Bacca
+goal401,81,FALSE,FALSE,match157,Gerard Moreno
+goal402,35,FALSE,FALSE,match158,Luis Suárez
+goal403,43,FALSE,FALSE,match158,Lionel Messi
+goal404,47,FALSE,FALSE,match158,Lionel Messi
+goal405,60,FALSE,FALSE,match158,Lionel Messi
+goal406,88,FALSE,FALSE,match158,Gerard Piqué
+goal407,55,TRUE,FALSE,match159,Éver Banega
+goal408,64,FALSE,FALSE,match159,Pablo Sarabia
+goal409,85,FALSE,FALSE,match161,Bernardo Espinosa
+goal410,61,FALSE,FALSE,match161,Ángel Rodríguez
+goal411,11,FALSE,FALSE,match162,Jonathan Calleri
+goal412,45,TRUE,FALSE,match163,Aritz Aduriz
+goal413,92,FALSE,FALSE,match163,Óscar Plano
+goal414,56,TRUE,FALSE,match164,Antoine Griezmann
+goal415,10,FALSE,FALSE,match165,Ousmane Dembélé
+goal416,45,FALSE,FALSE,match165,Lionel Messi
+goal417,21,FALSE,FALSE,match166,Antonio Sanabria
+goal418,72,TRUE,FALSE,match166,Fabián Orellana
+goal419,5,FALSE,FALSE,match167,Mikel Vesga
+goal420,91,FALSE,FALSE,match167,Wissam Ben Yedder
+goal421,25,FALSE,FALSE,match168,Daniel Parejo
+goal422,94,FALSE,FALSE,match168,Cristiano Piccini
+goal423,72,TRUE,FALSE,match168,Juan Camilo Hernández Suárez
+goal424,23,FALSE,TRUE,match169,Antonio García Aranda
+goal425,67,FALSE,FALSE,match169,Raúl de Tomás
+goal426,60,FALSE,FALSE,match169,Rubén Rochina
+goal427,4,FALSE,FALSE,match170,Santi Cazorla
+goal428,82,FALSE,FALSE,match170,Santi Cazorla
+goal429,7,FALSE,FALSE,match170,Karim Benzema
+goal430,20,FALSE,FALSE,match170,Raphaël Varane
+goal431,9,FALSE,FALSE,match171,Borja Iglesias
+goal432,58,FALSE,FALSE,match172,José Luis Morales Nogales
+goal433,86,FALSE,FALSE,match172,Koke Andújar
+goal434,31,FALSE,FALSE,match172,Portu
+goal435,72,FALSE,FALSE,match172,Aleix García
+goal436,21,FALSE,FALSE,match173,Borja Bastón
+goal437,47,FALSE,FALSE,match173,Tomás Pina
+goal438,14,FALSE,FALSE,match173,Daniel Parejo
+goal439,73,FALSE,FALSE,match174,David Ferreiro
+goal440,79,FALSE,FALSE,match174,Christian Rivera Hernández
+goal441,55,TRUE,FALSE,match174,Antonio Sanabria
+goal442,1,FALSE,FALSE,match175,Álvaro Medrán
+goal443,43,FALSE,FALSE,match177,Jaime Mata
+goal444,20,FALSE,FALSE,match177,Lionel Messi
+goal445,39,FALSE,FALSE,match177,Luis Suárez
+goal446,3,TRUE,FALSE,match178,Willian José
+goal447,83,FALSE,FALSE,match178,Rubén Pardo
+goal448,37,FALSE,FALSE,match179,Wissam Ben Yedder
+goal449,45,FALSE,FALSE,match179,Antoine Griezmann
+goal450,47,FALSE,FALSE,match180,Fran Beltrán
+goal451,19,FALSE,FALSE,match180,Iker Muniain
+goal452,54,FALSE,FALSE,match180,Iñaki Williams
+goal453,4,FALSE,FALSE,match181,Raúl de Tomás
+goal454,37,FALSE,FALSE,match181,Raúl de Tomás
+goal455,77,FALSE,FALSE,match181,Raúl de Tomás
+goal456,91,FALSE,FALSE,match181,Tiago Manuel Dias Correia
+goal457,13,FALSE,FALSE,match181,Néstor Araujo
+goal458,18,TRUE,FALSE,match181,Maxi Gómez
+goal459,12,FALSE,FALSE,match182,Cristhian Stuani
+goal460,50,FALSE,FALSE,match182,Borja Bastón
+goal461,73,FALSE,FALSE,match183,Youssef En-Nesyri
+goal462,71,FALSE,FALSE,match184,Daniel Parejo
+goal463,82,FALSE,FALSE,match184,Rubén Alcaraz
+goal464,75,FALSE,TRUE,match185,Leandro Cabrera
+goal465,52,FALSE,FALSE,match185,Jorge Molina Vidal
+goal466,89,FALSE,FALSE,match185,Ángel Rodríguez
+goal467,23,FALSE,FALSE,match186,Iñaki Williams
+goal468,84,FALSE,FALSE,match186,Iñaki Williams
+goal469,57,TRUE,FALSE,match187,Antoine Griezmann
+goal470,19,FALSE,FALSE,match188,Luis Suárez
+goal471,59,FALSE,FALSE,match188,Luis Suárez
+goal472,53,FALSE,FALSE,match188,Lionel Messi
+goal473,67,FALSE,FALSE,match189,Sergio Canales
+goal474,13,FALSE,FALSE,match189,Luka Modric
+goal475,88,FALSE,FALSE,match189,Dani Ceballos
+goal476,3,FALSE,FALSE,match190,Mikel Merino
+goal477,8,TRUE,FALSE,match190,Willian José
+goal478,63,FALSE,FALSE,match190,Willian José
+goal479,32,FALSE,FALSE,match190,Edinaldo Gomes Pereira
+goal480,46,FALSE,TRUE,match190,Diego Llorente
+goal481,33,TRUE,FALSE,match191,Jaime Mata
+goal482,88,FALSE,FALSE,match191,Jaime Mata
+goal483,46,FALSE,FALSE,match191,Jorge Molina Vidal
+goal484,55,FALSE,FALSE,match191,Jorge Molina Vidal
+goal485,40,FALSE,FALSE,match192,Néstor Araujo
+goal486,71,FALSE,FALSE,match192,Ferrán Torres
+goal487,84,FALSE,FALSE,match192,Rodrigo Moreno Machado
+goal488,31,FALSE,FALSE,match193,Lucas Hernández
+goal489,52,FALSE,FALSE,match193,Santiago Arias
+goal490,71,FALSE,FALSE,match193,Koke Resurrección
+goal491,78,FALSE,FALSE,match194,Carlos Casemiro
+goal492,92,FALSE,FALSE,match194,Luka Modric
+goal493,32,FALSE,FALSE,match195,Ousmane Dembélé
+goal494,71,FALSE,FALSE,match195,Luis Suárez
+goal495,92,FALSE,FALSE,match195,Lionel Messi
+goal496,57,FALSE,FALSE,match195,Martin Braithwaite
+goal497,12,FALSE,FALSE,match196,Cristian Tello
+goal498,54,FALSE,FALSE,match196,Loren Morón García
+goal499,94,TRUE,FALSE,match196,Sergio Canales
+goal500,36,FALSE,FALSE,match196,Aleix García
+goal501,44,FALSE,FALSE,match196,Seydou Doumbia
+goal502,42,FALSE,FALSE,match197,Koke Andújar
+goal503,95,FALSE,FALSE,match197,Roger Martí
+goal504,22,FALSE,FALSE,match198,Santiago Comesaña Veiga
+goal505,28,FALSE,FALSE,match198,Adrián Embarba
+goal506,39,FALSE,FALSE,match198,Héctor Moreno
+goal507,82,FALSE,FALSE,match198,Willian José
+goal508,71,FALSE,FALSE,match199,Karl Toko Ekambi
+goal509,18,FALSE,TRUE,match199,Jaume Costa
+goal510,24,FALSE,FALSE,match200,Sergi Enrich
+goal511,52,FALSE,FALSE,match200,Pablo De Blasis
+goal512,84,FALSE,FALSE,match200,Charles Días Barbosa
+goal513,27,FALSE,FALSE,match201,Antoine Griezmann
+goal514,37,FALSE,FALSE,match201,Saúl Ñíguez
+goal515,46,FALSE,FALSE,match202,Youssef En-Nesyri
+goal516,67,FALSE,FALSE,match202,Youssef En-Nesyri
+goal517,29,FALSE,FALSE,match202,Kike García
+goal518,36,FALSE,FALSE,match202,Joan Jordán
+goal519,48,FALSE,FALSE,match203,Wissam Ben Yedder
+goal520,60,FALSE,FALSE,match203,André Silva
+goal521,71,FALSE,FALSE,match203,Franco Vázquez
+goal522,80,TRUE,FALSE,match203,Pablo Sarabia
+goal523,90,FALSE,FALSE,match203,Quincy Promes
+goal524,4,FALSE,FALSE,match204,Mouctar Diakhaby
+goal525,51,FALSE,FALSE,match204,Denís Chéryshev
+goal526,86,FALSE,FALSE,match204,Rodrigo Moreno Machado
+goal527,21,FALSE,FALSE,match205,Iker Muniain
+goal528,25,FALSE,FALSE,match206,Léo Baptistão
+goal529,81,FALSE,FALSE,match206,Roberto Rosales
+goal530,4,FALSE,FALSE,match206,Karim Benzema
+goal531,46,FALSE,FALSE,match206,Karim Benzema
+goal532,15,FALSE,FALSE,match206,Sergio Ramos
+goal533,67,FALSE,FALSE,match206,Gareth Bale
+goal534,9,FALSE,FALSE,match207,Nélson Semedo
+goal535,68,FALSE,FALSE,match207,Lionel Messi
+goal536,55,FALSE,FALSE,match209,Óscar Plano
+goal537,69,FALSE,FALSE,match209,Keko Gontán
+goal538,16,FALSE,FALSE,match209,Pione Sisto
+goal539,47,FALSE,FALSE,match210,Raúl de Tomás
+goal540,19,FALSE,FALSE,match211,Enric Gallego
+goal541,50,FALSE,FALSE,match211,Jorge Pulido
+goal542,53,FALSE,FALSE,match211,Moi Gómez
+goal543,77,FALSE,FALSE,match211,Ezequiel Chimy Ávila
+goal544,39,TRUE,FALSE,match212,Lionel Messi
+goal545,64,FALSE,FALSE,match212,Lionel Messi
+goal546,24,FALSE,FALSE,match212,Kevin Gameiro
+goal547,32,TRUE,FALSE,match212,Daniel Parejo
+goal548,73,FALSE,FALSE,match213,Okay Yokuslu
+goal549,16,FALSE,FALSE,match215,Mikel Oyarzabal
+goal550,45,FALSE,FALSE,match215,Willian José
+goal551,82,FALSE,FALSE,match215,Raúl García Escudero
+goal552,65,TRUE,FALSE,match216,Sergio Canales
+goal553,37,FALSE,FALSE,match217,Rubén Peña Jiménez
+goal554,46,FALSE,FALSE,match217,Charles Días Barbosa
+goal555,57,TRUE,FALSE,match217,Charles Días Barbosa
+goal556,30,FALSE,FALSE,match218,Karim Benzema
+goal557,80,FALSE,FALSE,match218,Vinícius Júnior
+goal558,91,FALSE,FALSE,match218,Mariano Díaz Mejía
+goal559,37,FALSE,FALSE,match219,Vicente Iborra de la Fuente
+goal560,65,TRUE,FALSE,match219,Santi Cazorla
+goal561,75,FALSE,TRUE,match219,Daniele Bonera
+goal562,81,FALSE,FALSE,match219,Roberto Rosales
+goal563,83,FALSE,FALSE,match220,Álvaro García Rivera
+goal564,36,FALSE,FALSE,match220,Martin Braithwaite
+goal565,85,FALSE,FALSE,match220,Youssef En-Nesyri
+goal566,25,FALSE,FALSE,match222,Antoine Griezmann
+goal567,16,FALSE,FALSE,match222,Carlos Casemiro
+goal568,42,TRUE,FALSE,match222,Sergio Ramos
+goal569,74,FALSE,FALSE,match222,Gareth Bale
+goal570,72,TRUE,FALSE,match223,Borja Iglesias
+goal571,95,FALSE,FALSE,match223,Sergi Darder
+goal572,33,FALSE,FALSE,match223,Abdoulaye Ba
+goal573,39,TRUE,FALSE,match224,Jaime Mata
+goal574,81,FALSE,FALSE,match224,Jaime Mata
+goal575,62,FALSE,FALSE,match224,Jorge Molina Vidal
+goal576,2,FALSE,FALSE,match224,Néstor Araujo
+goal577,35,FALSE,FALSE,match225,Ezequiel Chimy Ávila
+goal578,40,FALSE,FALSE,match225,Ezequiel Chimy Ávila
+goal579,22,FALSE,FALSE,match227,Youssef En-Nesyri
+goal580,36,FALSE,FALSE,match227,Youssef En-Nesyri
+goal581,66,FALSE,FALSE,match227,Youssef En-Nesyri
+goal582,88,FALSE,FALSE,match228,Wissam Ben Yedder
+goal583,92,FALSE,FALSE,match228,Pablo Sarabia
+goal584,22,FALSE,FALSE,match228,Fabián Orellana
+goal585,63,FALSE,FALSE,match228,Charles Días Barbosa
+goal586,23,FALSE,FALSE,match230,Víctor Laguardia Cisneros
+goal587,93,FALSE,FALSE,match230,Jony Rodríguez
+goal588,67,TRUE,FALSE,match231,Charles Días Barbosa
+goal589,80,FALSE,FALSE,match231,Charles Días Barbosa
+goal590,37,FALSE,FALSE,match231,Jaime Mata
+goal591,52,FALSE,FALSE,match231,Dimitri Foulquier
+goal592,43,TRUE,FALSE,match232,Lionel Messi
+goal593,88,TRUE,FALSE,match233,Brais Méndez
+goal594,20,FALSE,FALSE,match233,José Luis Morales Nogales
+goal595,62,FALSE,FALSE,match233,José Luis Morales Nogales
+goal596,40,FALSE,FALSE,match233,Koke Andújar
+goal597,89,FALSE,FALSE,match233,Borja Mayoral
+goal598,50,FALSE,FALSE,match234,Mikel Oyarzabal
+goal599,59,FALSE,FALSE,match234,Mikel Oyarzabal
+goal600,75,FALSE,FALSE,match234,Willian José
+goal601,74,FALSE,FALSE,match235,Antoine Griezmann
+goal602,15,FALSE,FALSE,match236,Giovani Lo Celso
+goal603,28,FALSE,FALSE,match236,Guillermo Maripán
+goal604,25,FALSE,FALSE,match237,Carlos Casemiro
+goal605,65,TRUE,FALSE,match237,Cristhian Stuani
+goal606,75,FALSE,FALSE,match237,Portu
+goal607,20,FALSE,FALSE,match239,Álvaro González Soberón
+goal608,46,FALSE,FALSE,match239,Karl Toko Ekambi
+goal609,86,FALSE,FALSE,match239,Alfonso Pedraza
+goal610,19,TRUE,FALSE,match240,Raúl García Escudero
+goal611,20,FALSE,FALSE,match241,Esteban Granero
+goal612,47,FALSE,FALSE,match241,Xabier Etxeita
+goal613,1,FALSE,FALSE,match243,Raúl García Escudero
+goal614,28,FALSE,FALSE,match244,Jaime Mata
+goal615,68,FALSE,FALSE,match244,Jorge Molina Vidal
+goal616,58,FALSE,FALSE,match244,Raúl de Tomás
+goal617,22,FALSE,FALSE,match245,Jesús Navas
+goal618,42,FALSE,FALSE,match245,Gabriel Mercado
+goal619,26,FALSE,FALSE,match245,Lionel Messi
+goal620,67,FALSE,FALSE,match245,Lionel Messi
+goal621,85,FALSE,FALSE,match245,Lionel Messi
+goal622,93,FALSE,FALSE,match245,Luis Suárez
+goal623,31,FALSE,FALSE,match246,Álvaro Morata
+goal624,88,FALSE,FALSE,match246,Saúl Ñíguez
+goal625,89,FALSE,FALSE,match247,Martin Braithwaite
+goal626,22,FALSE,FALSE,match247,Geoffrey Kondogbia
+goal627,60,FALSE,FALSE,match248,Roger Martí
+goal628,43,TRUE,FALSE,match248,Karim Benzema
+goal629,78,TRUE,FALSE,match248,Gareth Bale
+goal630,48,FALSE,FALSE,match249,Aissa Mandi
+goal631,87,FALSE,FALSE,match249,Joaquín Sánchez
+goal632,30,FALSE,FALSE,match251,Cristhian Stuani
+goal633,85,FALSE,FALSE,match251,Cristhian Stuani
+goal634,1,FALSE,FALSE,match252,Borja Iglesias
+goal635,55,FALSE,FALSE,match252,Mario Hermoso
+goal636,65,FALSE,FALSE,match252,Wu Lei
+goal637,17,FALSE,FALSE,match252,Rubén Alcaraz
+goal638,7,FALSE,FALSE,match253,Juanpi
+goal639,98,FALSE,FALSE,match253,Ezequiel Chimy Ávila
+goal640,84,TRUE,FALSE,match253,Wissam Ben Yedder
+goal641,26,FALSE,FALSE,match254,Ivan Rakitic
+goal642,61,TRUE,FALSE,match255,Santi Cazorla
+goal643,54,FALSE,FALSE,match255,Guillermo Maripán
+goal644,77,FALSE,FALSE,match255,Takashi Inui
+goal645,75,FALSE,FALSE,match256,Joaquín Sánchez
+goal646,20,FALSE,FALSE,match256,Leandro Cabrera
+goal647,44,FALSE,FALSE,match256,Jaime Mata
+goal648,87,FALSE,FALSE,match257,Sergi Enrich
+goal649,30,FALSE,FALSE,match258,Álvaro Morata
+goal650,33,FALSE,FALSE,match258,Álvaro Morata
+goal651,49,FALSE,FALSE,match259,Rodrigo Moreno Machado
+goal652,89,FALSE,FALSE,match259,Kevin Gameiro
+goal653,13,FALSE,FALSE,match260,Óscar Rodríguez Arnaiz
+goal654,80,FALSE,FALSE,match261,Raúl García Escudero
+goal655,9,FALSE,FALSE,match261,Facundo Ferreyra
+goal656,58,FALSE,FALSE,match262,Takashi Inui
+goal657,71,FALSE,FALSE,match262,Marc Cardona
+goal658,80,FALSE,FALSE,match266,Jesé Rodríguez
+goal659,50,FALSE,FALSE,match263,Saúl Ñíguez
+goal660,38,FALSE,FALSE,match264,Gerard Piqué
+goal661,51,TRUE,FALSE,match264,Lionel Messi
+goal662,82,FALSE,FALSE,match264,Luis Suárez
+goal663,24,FALSE,FALSE,match264,Raúl de Tomás
+goal664,50,FALSE,FALSE,match265,Jaime Mata
+goal665,77,TRUE,FALSE,match265,Jaime Mata
+goal666,35,FALSE,FALSE,match265,Enric Gallego
+goal667,80,FALSE,FALSE,match266,Jesé Rodríguez
+goal668,22,FALSE,FALSE,match267,Jonás Ramalho
+goal669,83,TRUE,FALSE,match267,Cristhian Stuani
+goal670,14,FALSE,FALSE,match267,Gonçalo Guedes
+goal671,53,FALSE,FALSE,match267,Daniel Parejo
+goal672,90,FALSE,FALSE,match267,Ferrán Torres
+goal673,93,FALSE,TRUE,match268,Róber Pier
+goal674,96,FALSE,FALSE,match268,Samuel Chukwueze
+goal675,25,FALSE,FALSE,match269,Pablo Sarabia
+goal676,48,FALSE,FALSE,match269,Wissam Ben Yedder
+goal677,58,FALSE,FALSE,match269,Wissam Ben Yedder
+goal678,61,FALSE,FALSE,match269,Wissam Ben Yedder
+goal679,69,FALSE,TRUE,match269,Mikel Oyarzabal
+goal680,28,FALSE,FALSE,match269,Mikel Oyarzabal
+goal681,77,TRUE,FALSE,match269,Mikel Oyarzabal
+goal682,29,FALSE,FALSE,match270,Anuar Mohamed Tuhami
+goal683,34,FALSE,FALSE,match270,Raphaël Varane
+goal684,51,TRUE,FALSE,match270,Karim Benzema
+goal685,59,FALSE,FALSE,match270,Karim Benzema
+goal686,85,FALSE,FALSE,match270,Luka Modric
+goal687,26,FALSE,FALSE,match271,Adnan Januzaj
+goal688,79,FALSE,FALSE,match271,Borja Mayoral
+goal689,73,FALSE,FALSE,match272,Iñaki Williams
+goal690,85,FALSE,FALSE,match272,Kenan Kodro
+goal691,14,TRUE,FALSE,match273,Ezequiel Chimy Ávila
+goal692,11,TRUE,FALSE,match273,Jonathan Calleri
+goal693,86,FALSE,FALSE,match273,Jonathan Calleri
+goal694,80,FALSE,FALSE,match273,John Guidetti
+goal695,13,FALSE,FALSE,match274,Portu
+goal696,22,FALSE,FALSE,match274,Portu
+goal697,62,FALSE,FALSE,match275,Isco
+goal698,77,FALSE,FALSE,match275,Gareth Bale
+goal699,82,FALSE,FALSE,match276,Loren Morón García
+goal700,18,FALSE,FALSE,match276,Lionel Messi
+goal701,47,FALSE,FALSE,match276,Lionel Messi
+goal702,85,FALSE,FALSE,match276,Lionel Messi
+goal703,63,FALSE,FALSE,match276,Luis Suárez
+goal704,54,FALSE,FALSE,match277,Fabián Orellana
+goal705,91,TRUE,FALSE,match277,Daniele Verde
+goal706,93,FALSE,FALSE,match277,Sergi Guardiola
+goal707,53,TRUE,FALSE,match278,Wissam Ben Yedder
+goal708,50,FALSE,FALSE,match280,Karl Toko Ekambi
+goal709,52,FALSE,FALSE,match280,Karl Toko Ekambi
+goal710,88,FALSE,FALSE,match280,Gerard Moreno
+goal711,20,FALSE,FALSE,match280,Mario Suárez
+goal712,37,FALSE,FALSE,match281,Cristhian Stuani
+goal713,53,FALSE,FALSE,match281,Iñaki Williams
+goal714,59,FALSE,FALSE,match281,Raúl García Escudero
+goal715,5,FALSE,FALSE,match282,Saúl Ñíguez
+goal716,11,FALSE,FALSE,match282,Diego Costa
+goal717,59,FALSE,FALSE,match282,Álvaro Morata
+goal718,84,FALSE,FALSE,match282,Yakubu Partey
+goal719,71,FALSE,FALSE,match283,Lionel Messi
+goal720,89,FALSE,FALSE,match283,Lionel Messi
+goal721,50,FALSE,FALSE,match284,Iago Aspas
+goal722,86,TRUE,FALSE,match284,Iago Aspas
+goal723,71,FALSE,FALSE,match284,Maxi Gómez
+goal724,11,FALSE,FALSE,match284,Karl Toko Ekambi
+goal725,15,FALSE,FALSE,match284,Alfonso Pedraza
+goal726,49,FALSE,FALSE,match285,Michael Santos
+goal727,83,FALSE,FALSE,match285,Juan Francisco
+goal728,5,FALSE,FALSE,match286,José Luis Morales Nogales
+goal729,26,FALSE,FALSE,match286,Rubén Rochina
+goal730,19,FALSE,FALSE,match286,Gonzalo Escalante
+goal731,78,FALSE,FALSE,match286,Sergi Enrich
+goal732,25,FALSE,FALSE,match287,Isco
+goal733,62,FALSE,FALSE,match287,Dani Ceballos
+goal734,89,FALSE,FALSE,match287,Karim Benzema
+goal735,3,FALSE,FALSE,match287,Christian Rivera Hernández
+goal736,74,FALSE,FALSE,match287,Xabier Etxeita
+goal737,46,TRUE,FALSE,match288,Daniel Parejo
+goal738,9,FALSE,FALSE,match289,Keko Gontán
+goal739,79,FALSE,FALSE,match289,Mikel Oyarzabal
+goal740,34,FALSE,FALSE,match290,Raúl de Tomás
+goal741,81,FALSE,FALSE,match290,Cristian Tello
+goal742,76,FALSE,FALSE,match291,Diego Godín
+goal743,94,FALSE,FALSE,match291,Antoine Griezmann
+goal744,56,FALSE,FALSE,match292,Borja Iglesias
+goal745,72,FALSE,FALSE,match292,Ángel Rodríguez
+goal746,23,FALSE,FALSE,match293,Samuel Chukwueze
+goal747,50,FALSE,FALSE,match293,Karl Toko Ekambi
+goal748,62,FALSE,FALSE,match293,Vicente Iborra de la Fuente
+goal749,80,FALSE,FALSE,match293,Carlos Bacca
+goal750,12,FALSE,FALSE,match293,Philippe Coutinho
+goal751,16,FALSE,FALSE,match293,Malcom
+goal752,90,FALSE,FALSE,match293,Lionel Messi
+goal753,93,FALSE,FALSE,match293,Luis Suárez
+goal754,5,FALSE,FALSE,match294,Yuri Berchiche
+goal755,27,FALSE,FALSE,match294,Iñaki Williams
+goal756,93,TRUE,FALSE,match294,Iker Muniain
+goal757,51,TRUE,FALSE,match294,Roger Martí
+goal758,89,FALSE,FALSE,match294,Erick Cabaco
+goal759,64,FALSE,FALSE,match295,Charles Días Barbosa
+goal760,73,FALSE,FALSE,match295,Pedro León
+goal761,40,FALSE,FALSE,match295,José Ángel Pozo
+goal762,63,FALSE,FALSE,match296,Enric Gallego
+goal763,71,FALSE,FALSE,match296,Ezequiel Chimy Ávila
+goal764,73,FALSE,FALSE,match296,Jorge Pulido
+goal765,14,FALSE,FALSE,match296,Brais Méndez
+goal766,57,FALSE,FALSE,match296,Iago Aspas
+goal767,81,FALSE,FALSE,match296,Ryad Boudebouz
+goal768,35,FALSE,FALSE,match297,Gonçalo Guedes
+goal769,83,FALSE,FALSE,match297,Ezequiel Garay
+goal770,93,FALSE,FALSE,match297,Karim Benzema
+goal771,96,FALSE,FALSE,match298,Guido Carrillo
+goal772,41,FALSE,FALSE,match299,Roque Mesa
+goal773,80,FALSE,FALSE,match299,Pablo Sarabia
+goal774,17,FALSE,FALSE,match300,Juan Miguel Jiménez
+goal775,83,FALSE,FALSE,match300,Mikel Oyarzabal
+goal776,56,FALSE,FALSE,match300,Sergio Canales
+goal777,85,FALSE,FALSE,match301,Luis Suárez
+goal778,86,FALSE,FALSE,match301,Lionel Messi
+goal779,80,TRUE,FALSE,match302,Cristhian Stuani
+goal780,59,FALSE,FALSE,match302,Sergi Darder
+goal781,89,FALSE,TRUE,match302,Yassine Bounou
+goal782,59,FALSE,FALSE,match303,Karim Benzema
+goal783,81,FALSE,FALSE,match303,Karim Benzema
+goal784,39,FALSE,FALSE,match303,Marc Cardona
+goal785,32,FALSE,FALSE,match304,Raúl de Tomás
+goal786,91,FALSE,FALSE,match304,Mario Suárez
+goal787,18,TRUE,FALSE,match305,Jonathan Calleri
+goal788,93,FALSE,FALSE,match305,Jonathan Silva
+goal789,11,FALSE,FALSE,match306,Giovani Lo Celso
+goal790,63,FALSE,FALSE,match306,Giovani Lo Celso
+goal791,13,FALSE,FALSE,match306,Ramiro Funes Mori
+goal792,51,TRUE,FALSE,match307,Iago Aspas
+goal793,70,FALSE,FALSE,match307,Iago Aspas
+goal794,91,FALSE,FALSE,match307,Maxi Gómez
+goal795,32,TRUE,FALSE,match307,Willian José
+goal796,78,FALSE,FALSE,match308,Ángel Rodríguez
+goal797,19,FALSE,FALSE,match309,Roger Martí
+goal798,65,TRUE,FALSE,match309,José Luis Morales Nogales
+goal799,63,FALSE,FALSE,match309,Enric Gallego
+goal800,69,FALSE,FALSE,match309,Ezequiel Chimy Ávila
+goal801,84,FALSE,FALSE,match310,Roque Mesa
+goal802,92,FALSE,FALSE,match310,Munir El Haddadi
+goal803,42,FALSE,FALSE,match311,Antoine Griezmann
+goal804,74,FALSE,FALSE,match311,Álvaro Morata
+goal805,19,FALSE,FALSE,match312,Adrià Pedrosa
+goal806,47,FALSE,TRUE,match312,Víctor Laguardia Cisneros
+goal807,56,FALSE,FALSE,match312,Jonathan Calleri
+goal808,26,FALSE,FALSE,match314,Munir El Haddadi
+goal809,59,FALSE,FALSE,match314,Pablo Sarabia
+goal810,63,FALSE,FALSE,match314,Franco Vázquez
+goal811,55,FALSE,FALSE,match314,Giovani Lo Celso
+goal812,82,FALSE,FALSE,match314,Cristian Tello
+goal813,2,FALSE,FALSE,match315,Iñaki Williams
+goal814,50,FALSE,FALSE,match315,Iñaki Williams
+goal815,72,FALSE,FALSE,match315,Raúl García Escudero
+goal816,45,FALSE,FALSE,match315,Álex Moreno
+goal817,85,FALSE,FALSE,match315,Raúl de Tomás
+goal818,7,FALSE,FALSE,match316,Samuel Chukwueze
+goal819,1,FALSE,FALSE,match317,Juan Miguel Jiménez
+goal820,85,FALSE,FALSE,match317,Joan Jordán
+goal821,2,FALSE,FALSE,match318,Santi Mina
+goal822,63,FALSE,FALSE,match318,Santi Mina
+goal823,57,FALSE,FALSE,match318,Gonçalo Guedes
+goal824,56,FALSE,TRUE,match318,Carlos Soler
+goal825,30,FALSE,FALSE,match319,Sergi Guardiola
+goal826,69,TRUE,FALSE,match319,Enes Ünal
+goal827,14,FALSE,FALSE,match319,Mauro Arambarri
+goal828,96,TRUE,FALSE,match319,Jorge Molina Vidal
+goal829,45,FALSE,FALSE,match320,Jonathan Silva
+goal830,51,FALSE,FALSE,match320,Karim Benzema
+goal831,4,FALSE,FALSE,match321,John Guidetti
+goal832,24,FALSE,FALSE,match321,Jony Rodríguez
+goal833,38,FALSE,FALSE,match321,Joaquín Fernández Moreno
+goal834,76,TRUE,FALSE,match321,Enes Ünal
+goal835,45,FALSE,FALSE,match322,Clément Lenglet
+goal836,64,FALSE,FALSE,match322,Jordi Alba
+goal837,62,FALSE,FALSE,match322,Juan Miguel Jiménez
+goal838,34,FALSE,FALSE,match323,Iago Aspas
+goal839,69,FALSE,FALSE,match323,Sofiane Boufal
+goal840,48,FALSE,FALSE,match323,Portu
+goal841,85,FALSE,FALSE,match324,Thomas Lemar
+goal842,78,TRUE,FALSE,match326,Giovani Lo Celso
+goal843,45,FALSE,FALSE,match326,Gonçalo Guedes
+goal844,49,FALSE,FALSE,match326,Gonçalo Guedes
+goal845,35,TRUE,FALSE,match327,Jaime Mata
+goal846,50,TRUE,FALSE,match327,Jorge Molina Vidal
+goal847,53,FALSE,FALSE,match327,Jorge Molina Vidal
+goal848,62,FALSE,FALSE,match328,Rúben Vezo
+goal849,72,FALSE,FALSE,match328,Rubén Rochina
+goal850,16,FALSE,FALSE,match328,Borja Iglesias
+goal851,65,FALSE,FALSE,match328,Marc Roca
+goal852,47,FALSE,FALSE,match329,Karim Benzema
+goal853,76,FALSE,FALSE,match329,Karim Benzema
+goal854,90,FALSE,FALSE,match329,Karim Benzema
+goal855,64,FALSE,FALSE,match330,Carlos Bacca
+goal856,80,FALSE,FALSE,match330,Karl Toko Ekambi
+goal857,87,TRUE,FALSE,match330,Nabil El Zhar
+goal858,54,FALSE,FALSE,match331,Carles Aleñá
+goal859,60,TRUE,FALSE,match331,Luis Suárez
+goal860,54,FALSE,FALSE,match332,Enric Gallego
+goal861,57,FALSE,FALSE,match332,Ezequiel Chimy Ávila
+goal862,67,FALSE,FALSE,match333,Míchel Herrero
+goal863,9,FALSE,FALSE,match334,Álvaro Morata
+goal864,49,FALSE,FALSE,match334,Antoine Griezmann
+goal865,81,FALSE,FALSE,match334,Ángel Correa
+goal866,36,FALSE,FALSE,match334,Kevin Gameiro
+goal867,77,TRUE,FALSE,match334,Daniel Parejo
+goal868,33,FALSE,FALSE,match335,Wu Lei
+goal869,72,FALSE,FALSE,match335,Maxi Gómez
+goal870,43,FALSE,TRUE,match336,Youssef En-Nesyri
+goal871,9,FALSE,FALSE,match337,José Campaña
+goal872,32,FALSE,FALSE,match337,José Campaña
+goal873,56,TRUE,FALSE,match337,José Luis Morales Nogales
+goal874,81,FALSE,FALSE,match337,Koke Andújar
+goal875,55,FALSE,FALSE,match339,Quincy Promes
+goal876,57,FALSE,FALSE,match339,Munir El Haddadi
+goal877,62,FALSE,FALSE,match339,Munir El Haddadi
+goal878,69,FALSE,FALSE,match339,Wissam Ben Yedder
+goal879,86,FALSE,FALSE,match339,Bryan Gil
+goal880,85,FALSE,FALSE,match340,Gerard Moreno
+goal881,41,FALSE,FALSE,match341,Beñat Etxebarria
+goal882,45,FALSE,FALSE,match341,Borja Bastón
+goal883,66,FALSE,TRUE,match342,Joaquín Fernández Moreno
+goal884,62,FALSE,FALSE,match343,Lionel Messi
+goal885,62,FALSE,FALSE,match345,Portu
+goal886,21,TRUE,FALSE,match346,Willian José
+goal887,53,FALSE,FALSE,match346,Mikel Oyarzabal
+goal888,89,FALSE,FALSE,match346,Samuel Sáiz
+goal889,93,FALSE,FALSE,match347,Charles Días Barbosa
+goal890,23,TRUE,FALSE,match348,Adrián Embarba
+goal891,30,FALSE,FALSE,match349,Pablo Fornals
+goal892,78,FALSE,FALSE,match349,Ezequiel Chimy Ávila
+goal893,94,FALSE,FALSE,match350,Zouhair Feddal
+goal894,37,FALSE,FALSE,match350,Sergi Darder
+goal895,8,FALSE,FALSE,match351,Youssef En-Nesyri
+goal896,20,FALSE,FALSE,match351,Martin Braithwaite
+goal897,82,FALSE,FALSE,match351,Óscar Rodríguez Arnaiz
+goal898,24,FALSE,TRUE,match352,Manu García
+goal899,67,FALSE,FALSE,match353,Maxi Gómez
+goal900,88,TRUE,FALSE,match353,Iago Aspas
+goal901,46,FALSE,TRUE,match354,Diego Godín
+goal902,52,FALSE,FALSE,match354,Borja Iglesias
+goal903,89,TRUE,FALSE,match354,Borja Iglesias
+goal904,14,FALSE,FALSE,match355,José Campaña
+goal905,43,FALSE,FALSE,match355,Rúben Vezo
+goal906,85,FALSE,FALSE,match355,Jason Remeseiro
+goal907,90,FALSE,FALSE,match355,Enis Bardhi
+goal908,71,FALSE,FALSE,match355,Álvaro García Rivera
+goal909,46,FALSE,FALSE,match356,José Ángel Valdés
+goal910,16,FALSE,FALSE,match357,Jorge Molina Vidal
+goal911,77,FALSE,FALSE,match357,Ángel Rodríguez
+goal912,66,FALSE,FALSE,match358,Gonzalo Melero
+goal913,92,TRUE,FALSE,match358,Álex Gallar
+goal914,2,FALSE,FALSE,match358,Daniel Wass
+goal915,16,FALSE,FALSE,match358,Rodrigo Moreno Machado
+goal916,51,FALSE,FALSE,match358,Rodrigo Moreno Machado
+goal917,20,FALSE,FALSE,match358,Santi Mina
+goal918,32,FALSE,FALSE,match358,Santi Mina
+goal919,40,FALSE,TRUE,match358,Xabier Etxeita
+goal920,2,FALSE,FALSE,match359,Mariano Díaz Mejía
+goal921,49,FALSE,FALSE,match359,Mariano Díaz Mejía
+goal922,40,FALSE,FALSE,match359,Jesús Vallejo
+goal923,11,FALSE,FALSE,match359,Gerard Moreno
+goal924,94,FALSE,FALSE,match359,Jaume Costa
+goal925,21,FALSE,FALSE,match360,Waldo Rubio Martín
+goal926,16,TRUE,FALSE,match361,Raúl García Escudero
+goal927,17,FALSE,FALSE,match361,Raúl García Escudero
+goal928,40,FALSE,FALSE,match361,Iñaki Williams
+goal929,89,TRUE,FALSE,match361,Iago Aspas
+goal930,30,FALSE,FALSE,match362,Koke Resurrección
+goal931,70,FALSE,FALSE,match362,Pablo Sarabia
+goal932,39,FALSE,FALSE,match363,Arturo Vidal
+goal933,89,FALSE,TRUE,match363,Mauro Arambarri
+goal934,22,FALSE,FALSE,match364,Joaquín Sánchez
+goal935,98,FALSE,FALSE,match364,Joaquín Sánchez
+goal936,55,TRUE,FALSE,match364,Juanpi
+goal937,60,FALSE,FALSE,match365,Cristhian Stuani
+goal938,62,FALSE,FALSE,match365,José Luis Morales Nogales
+goal939,86,FALSE,FALSE,match365,Enis Bardhi
+goal940,35,FALSE,FALSE,match366,Borja Iglesias
+goal941,71,TRUE,FALSE,match366,Borja Iglesias
+goal942,26,FALSE,FALSE,match367,Mikel Merino
+goal943,57,FALSE,FALSE,match367,Joseba Zaldua
+goal944,67,FALSE,FALSE,match367,Ander Barrenetxea
+goal945,6,FALSE,FALSE,match367,Brahim Díaz
+goal946,29,FALSE,FALSE,match368,Carlos Soler
+goal947,34,FALSE,FALSE,match368,Santi Mina
+goal948,68,FALSE,FALSE,match368,Kevin Gameiro
+goal949,12,FALSE,FALSE,match368,Ximo Navarro
+goal950,73,FALSE,FALSE,match369,Álvaro Medrán
+goal951,6,TRUE,FALSE,match369,Enes Ünal
+goal952,80,FALSE,FALSE,match369,Sergi Guardiola
+goal953,59,FALSE,FALSE,match370,Karl Toko Ekambi
+goal954,40,FALSE,FALSE,match371,Wakaso Mubarak
+goal955,83,FALSE,FALSE,match371,Jonathan Calleri
+goal956,86,FALSE,FALSE,match371,Portu
+goal957,82,TRUE,FALSE,match372,Iago Aspas
+goal958,92,FALSE,FALSE,match372,Iago Aspas
+goal959,29,TRUE,FALSE,match372,Adrián Embarba
+goal960,71,FALSE,FALSE,match372,Álvaro Medrán
+goal961,58,FALSE,FALSE,match373,Roberto Rosales
+goal962,65,FALSE,FALSE,match373,Wu Lei
+goal963,13,FALSE,FALSE,match374,Francisco Portillo Soler
+goal964,76,FALSE,FALSE,match374,Nemanja Maksimovic
+goal965,44,FALSE,FALSE,match374,Vicente Iborra de la Fuente
+goal966,87,FALSE,FALSE,match374,Gerard Moreno
+goal967,55,FALSE,FALSE,match375,Martín Mantovani
+goal968,83,FALSE,FALSE,match375,Martín Mantovani
+goal969,39,FALSE,TRUE,match375,Martín Mantovani
+goal970,6,FALSE,FALSE,match376,Erick Cabaco
+goal971,36,FALSE,FALSE,match376,Roger Martí
+goal972,68,FALSE,FALSE,match376,Rodri Hernández
+goal973,79,FALSE,FALSE,match376,Sergio Camello
+goal974,44,FALSE,FALSE,match377,Wissam Ben Yedder
+goal975,92,FALSE,FALSE,match377,Munir El Haddadi
+goal976,36,FALSE,FALSE,match378,Carlos Soler
+goal977,52,FALSE,FALSE,match378,Rodrigo Moreno Machado
+goal978,20,FALSE,FALSE,match379,Marc Cucurella
+goal979,45,FALSE,FALSE,match379,Pablo De Blasis
+goal980,31,FALSE,FALSE,match379,Lionel Messi
+goal981,32,FALSE,FALSE,match379,Lionel Messi
+goal982,61,FALSE,FALSE,match380,Loren Morón García
+goal983,75,FALSE,FALSE,match380,Jesé Rodríguez

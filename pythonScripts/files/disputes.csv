@@ -1,0 +1,761 @@
+id_match,team_name,home_team?
+match1,Real Betis,True
+match1,Levante UD,False
+match2,Girona FC,True
+match2,R. Valladolid CF,False
+match3,FC Barcelona,True
+match3,D. Alavés,False
+match4,RC Celta,True
+match4,RCD Espanyol,False
+match5,Villarreal CF,True
+match5,Real Sociedad,False
+match6,SD Eibar,True
+match6,SD Huesca,False
+match7,Real Madrid,True
+match7,Getafe CF,False
+match8,Rayo Vallecano,True
+match8,Sevilla FC,False
+match9,Athletic Club,True
+match9,CD Leganés,False
+match10,Valencia CF,True
+match10,Atlético de Madrid,False
+match11,Getafe CF,True
+match11,SD Eibar,False
+match12,CD Leganés,True
+match12,Real Sociedad,False
+match13,D. Alavés,True
+match13,Real Betis,False
+match14,Atlético de Madrid,True
+match14,Rayo Vallecano,False
+match15,R. Valladolid CF,True
+match15,FC Barcelona,False
+match16,RCD Espanyol,True
+match16,Valencia CF,False
+match17,Girona FC,True
+match17,Real Madrid,False
+match18,Sevilla FC,True
+match18,Villarreal CF,False
+match19,Athletic Club,True
+match19,SD Huesca,False
+match20,Levante UD,True
+match20,RC Celta,False
+match21,SD Eibar,True
+match21,Real Sociedad,False
+match22,Getafe CF,True
+match22,R. Valladolid CF,False
+match23,Villarreal CF,True
+match23,Girona FC,False
+match24,RC Celta,True
+match24,Atlético de Madrid,False
+match25,Real Madrid,True
+match25,CD Leganés,False
+match26,D. Alavés,True
+match26,RCD Espanyol,False
+match27,FC Barcelona,True
+match27,SD Huesca,False
+match28,Real Betis,True
+match28,Sevilla FC,False
+match29,Levante UD,True
+match29,Valencia CF,False
+match30,SD Huesca,True
+match30,Rayo Vallecano,False
+match31,Athletic Club,True
+match31,Real Madrid,False
+match32,Atlético de Madrid,True
+match32,SD Eibar,False
+match33,Real Sociedad,True
+match33,FC Barcelona,False
+match34,Valencia CF,True
+match34,Real Betis,False
+match35,RCD Espanyol,True
+match35,Levante UD,False
+match36,CD Leganés,True
+match36,Villarreal CF,False
+match37,Sevilla FC,True
+match37,Getafe CF,False
+match38,R. Valladolid CF,True
+match38,D. Alavés,False
+match39,Girona FC,True
+match39,RC Celta,False
+match40,SD Huesca,True
+match40,Real Sociedad,False
+match41,RC Celta,True
+match41,R. Valladolid CF,False
+match42,SD Eibar,True
+match42,CD Leganés,False
+match43,Getafe CF,True
+match43,Atlético de Madrid,False
+match44,Real Madrid,True
+match44,RCD Espanyol,False
+match45,Rayo Vallecano,True
+match45,D. Alavés,False
+match46,FC Barcelona,True
+match46,Girona FC,False
+match47,Real Betis,True
+match47,Athletic Club,False
+match48,Levante UD,True
+match48,Sevilla FC,False
+match49,Villarreal CF,True
+match49,Valencia CF,False
+match50,Atlético de Madrid,True
+match50,SD Huesca,False
+match51,RCD Espanyol,True
+match51,SD Eibar,False
+match52,Real Sociedad,True
+match52,Rayo Vallecano,False
+match53,Athletic Club,True
+match53,Villarreal CF,False
+match54,CD Leganés,True
+match54,FC Barcelona,False
+match55,Sevilla FC,True
+match55,Real Madrid,False
+match56,Valencia CF,True
+match56,RC Celta,False
+match57,D. Alavés,True
+match57,Getafe CF,False
+match58,Girona FC,True
+match58,Real Betis,False
+match59,R. Valladolid CF,True
+match59,Levante UD,False
+match60,Rayo Vallecano,True
+match60,RCD Espanyol,False
+match61,FC Barcelona,True
+match61,Athletic Club,False
+match62,SD Eibar,True
+match62,Sevilla FC,False
+match63,Real Madrid,True
+match63,Atlético de Madrid,False
+match64,Real Sociedad,True
+match64,Valencia CF,False
+match65,Real Betis,True
+match65,CD Leganés,False
+match66,SD Huesca,True
+match66,Girona FC,False
+match67,Levante UD,True
+match67,D. Alavés,False
+match68,Villarreal CF,True
+match68,R. Valladolid CF,False
+match69,RC Celta,True
+match69,Getafe CF,False
+match70,Athletic Club,True
+match70,Real Sociedad,False
+match71,D. Alavés,True
+match71,Real Madrid,False
+match72,Getafe CF,True
+match72,Levante UD,False
+match73,Girona FC,True
+match73,SD Eibar,False
+match74,CD Leganés,True
+match74,Rayo Vallecano,False
+match75,Atlético de Madrid,True
+match75,Real Betis,False
+match76,RCD Espanyol,True
+match76,Villarreal CF,False
+match77,Sevilla FC,True
+match77,RC Celta,False
+match78,Valencia CF,True
+match78,FC Barcelona,False
+match79,R. Valladolid CF,True
+match79,SD Huesca,False
+match80,RC Celta,True
+match80,D. Alavés,False
+match81,FC Barcelona,True
+match81,Sevilla FC,False
+match82,Real Madrid,True
+match82,Levante UD,False
+match83,Valencia CF,True
+match83,CD Leganés,False
+match84,Villarreal CF,True
+match84,Atlético de Madrid,False
+match85,Real Betis,True
+match85,R. Valladolid CF,False
+match86,SD Eibar,True
+match86,Athletic Club,False
+match87,SD Huesca,True
+match87,RCD Espanyol,False
+match88,Rayo Vallecano,True
+match88,Getafe CF,False
+match89,Real Sociedad,True
+match89,Girona FC,False
+match90,Rayo Vallecano,True
+match90,Athletic Club,False
+match91,R. Valladolid CF,True
+match91,RCD Espanyol,False
+match92,Athletic Club,True
+match92,Valencia CF,False
+match93,Atlético de Madrid,True
+match93,Real Sociedad,False
+match94,RC Celta,True
+match94,SD Eibar,False
+match95,Girona FC,True
+match95,Rayo Vallecano,False
+match96,Levante UD,True
+match96,CD Leganés,False
+match97,D. Alavés,True
+match97,Villarreal CF,False
+match98,FC Barcelona,True
+match98,Real Madrid,False
+match99,Getafe CF,True
+match99,Real Betis,False
+match100,Sevilla FC,True
+match100,SD Huesca,False
+match101,CD Leganés,True
+match101,Atlético de Madrid,False
+match102,Real Madrid,True
+match102,R. Valladolid CF,False
+match103,Valencia CF,True
+match103,Girona FC,False
+match104,Rayo Vallecano,True
+match104,FC Barcelona,False
+match105,Real Betis,True
+match105,RC Celta,False
+match106,SD Eibar,True
+match106,D. Alavés,False
+match107,SD Huesca,True
+match107,Getafe CF,False
+match108,Real Sociedad,True
+match108,Sevilla FC,False
+match109,Villarreal CF,True
+match109,Levante UD,False
+match110,RCD Espanyol,True
+match110,Athletic Club,False
+match111,Levante UD,True
+match111,Real Sociedad,False
+match112,Atlético de Madrid,True
+match112,Athletic Club,False
+match113,Getafe CF,True
+match113,Valencia CF,False
+match114,Girona FC,True
+match114,CD Leganés,False
+match115,R. Valladolid CF,True
+match115,SD Eibar,False
+match116,D. Alavés,True
+match116,SD Huesca,False
+match117,FC Barcelona,True
+match117,Real Betis,False
+match118,RC Celta,True
+match118,Real Madrid,False
+match119,Sevilla FC,True
+match119,RCD Espanyol,False
+match120,Rayo Vallecano,True
+match120,Villarreal CF,False
+match121,CD Leganés,True
+match121,D. Alavés,False
+match122,Atlético de Madrid,True
+match122,FC Barcelona,False
+match123,SD Eibar,True
+match123,Real Madrid,False
+match124,SD Huesca,True
+match124,Levante UD,False
+match125,Valencia CF,True
+match125,Rayo Vallecano,False
+match126,Athletic Club,True
+match126,Getafe CF,False
+match127,RCD Espanyol,True
+match127,Girona FC,False
+match128,Sevilla FC,True
+match128,R. Valladolid CF,False
+match129,Villarreal CF,True
+match129,Real Betis,False
+match130,Real Sociedad,True
+match130,RC Celta,False
+match131,Rayo Vallecano,True
+match131,SD Eibar,False
+match132,RC Celta,True
+match132,SD Huesca,False
+match133,Getafe CF,True
+match133,RCD Espanyol,False
+match134,Real Madrid,True
+match134,Valencia CF,False
+match135,R. Valladolid CF,True
+match135,CD Leganés,False
+match136,D. Alavés,True
+match136,Sevilla FC,False
+match137,FC Barcelona,True
+match137,Villarreal CF,False
+match138,Real Betis,True
+match138,Real Sociedad,False
+match139,Girona FC,True
+match139,Atlético de Madrid,False
+match140,Levante UD,True
+match140,Athletic Club,False
+match141,CD Leganés,True
+match141,Getafe CF,False
+match142,Atlético de Madrid,True
+match142,D. Alavés,False
+match143,RCD Espanyol,True
+match143,FC Barcelona,False
+match144,Valencia CF,True
+match144,Sevilla FC,False
+match145,Villarreal CF,True
+match145,RC Celta,False
+match146,Real Betis,True
+match146,Rayo Vallecano,False
+match147,SD Eibar,True
+match147,Levante UD,False
+match148,SD Huesca,True
+match148,Real Madrid,False
+match149,Real Sociedad,True
+match149,R. Valladolid CF,False
+match150,Athletic Club,True
+match150,Girona FC,False
+match151,RC Celta,True
+match151,CD Leganés,False
+match152,SD Eibar,True
+match152,Valencia CF,False
+match153,Getafe CF,True
+match153,Real Sociedad,False
+match154,Real Madrid,True
+match154,Rayo Vallecano,False
+match155,R. Valladolid CF,True
+match155,Atlético de Madrid,False
+match156,RCD Espanyol,True
+match156,Real Betis,False
+match157,SD Huesca,True
+match157,Villarreal CF,False
+match158,Levante UD,True
+match158,FC Barcelona,False
+match159,Sevilla FC,True
+match159,Girona FC,False
+match160,D. Alavés,True
+match160,Athletic Club,False
+match161,Girona FC,True
+match161,Getafe CF,False
+match162,Real Sociedad,True
+match162,D. Alavés,False
+match163,Athletic Club,True
+match163,R. Valladolid CF,False
+match164,Atlético de Madrid,True
+match164,RCD Espanyol,False
+match165,FC Barcelona,True
+match165,RC Celta,False
+match166,Real Betis,True
+match166,SD Eibar,False
+match167,CD Leganés,True
+match167,Sevilla FC,False
+match168,Valencia CF,True
+match168,SD Huesca,False
+match169,Rayo Vallecano,True
+match169,Levante UD,False
+match170,Villarreal CF,True
+match170,Real Madrid,False
+match171,RCD Espanyol,True
+match171,CD Leganés,False
+match172,Levante UD,True
+match172,Girona FC,False
+match173,D. Alavés,True
+match173,Valencia CF,False
+match174,SD Huesca,True
+match174,Real Betis,False
+match175,R. Valladolid CF,True
+match175,Rayo Vallecano,False
+match176,SD Eibar,True
+match176,Villarreal CF,False
+match177,Getafe CF,True
+match177,FC Barcelona,False
+match178,Real Madrid,True
+match178,Real Sociedad,False
+match179,Sevilla FC,True
+match179,Atlético de Madrid,False
+match180,RC Celta,True
+match180,Athletic Club,False
+match181,Rayo Vallecano,True
+match181,RC Celta,False
+match182,Girona FC,True
+match182,D. Alavés,False
+match183,CD Leganés,True
+match183,SD Huesca,False
+match184,Valencia CF,True
+match184,R. Valladolid CF,False
+match185,Villarreal CF,True
+match185,Getafe CF,False
+match186,Athletic Club,True
+match186,Sevilla FC,False
+match187,Atlético de Madrid,True
+match187,Levante UD,False
+match188,FC Barcelona,True
+match188,SD Eibar,False
+match189,Real Betis,True
+match189,Real Madrid,False
+match190,Real Sociedad,True
+match190,RCD Espanyol,False
+match191,Getafe CF,True
+match191,D. Alavés,False
+match192,RC Celta,True
+match192,Valencia CF,False
+match193,SD Huesca,True
+match193,Atlético de Madrid,False
+match194,Real Madrid,True
+match194,Sevilla FC,False
+match195,FC Barcelona,True
+match195,CD Leganés,False
+match196,Real Betis,True
+match196,Girona FC,False
+match197,Levante UD,True
+match197,R. Valladolid CF,False
+match198,Rayo Vallecano,True
+match198,Real Sociedad,False
+match199,Villarreal CF,True
+match199,Athletic Club,False
+match200,SD Eibar,True
+match200,RCD Espanyol,False
+match201,Atlético de Madrid,True
+match201,Getafe CF,False
+match202,CD Leganés,True
+match202,SD Eibar,False
+match203,Sevilla FC,True
+match203,Levante UD,False
+match204,Valencia CF,True
+match204,Villarreal CF,False
+match205,Athletic Club,True
+match205,Real Betis,False
+match206,RCD Espanyol,True
+match206,Real Madrid,False
+match207,Girona FC,True
+match207,FC Barcelona,False
+match208,Real Sociedad,True
+match208,SD Huesca,False
+match209,R. Valladolid CF,True
+match209,RC Celta,False
+match210,D. Alavés,True
+match210,Rayo Vallecano,False
+match211,SD Huesca,True
+match211,R. Valladolid CF,False
+match212,FC Barcelona,True
+match212,Valencia CF,False
+match213,RC Celta,True
+match213,Sevilla FC,False
+match214,Levante UD,True
+match214,Getafe CF,False
+match215,Real Sociedad,True
+match215,Athletic Club,False
+match216,Real Betis,True
+match216,Atlético de Madrid,False
+match217,SD Eibar,True
+match217,Girona FC,False
+match218,Real Madrid,True
+match218,D. Alavés,False
+match219,Villarreal CF,True
+match219,RCD Espanyol,False
+match220,Rayo Vallecano,True
+match220,CD Leganés,False
+match221,R. Valladolid CF,True
+match221,Villarreal CF,False
+match222,Atlético de Madrid,True
+match222,Real Madrid,False
+match223,RCD Espanyol,True
+match223,Rayo Vallecano,False
+match224,Getafe CF,True
+match224,RC Celta,False
+match225,Girona FC,True
+match225,SD Huesca,False
+match226,Athletic Club,True
+match226,FC Barcelona,False
+match227,CD Leganés,True
+match227,Real Betis,False
+match228,Sevilla FC,True
+match228,SD Eibar,False
+match229,Valencia CF,True
+match229,Real Sociedad,False
+match230,D. Alavés,True
+match230,Levante UD,False
+match231,SD Eibar,True
+match231,Getafe CF,False
+match232,FC Barcelona,True
+match232,R. Valladolid CF,False
+match233,RC Celta,True
+match233,Levante UD,False
+match234,Real Sociedad,True
+match234,CD Leganés,False
+match235,Rayo Vallecano,True
+match235,Atlético de Madrid,False
+match236,Real Betis,True
+match236,D. Alavés,False
+match237,Real Madrid,True
+match237,Girona FC,False
+match238,Valencia CF,True
+match238,RCD Espanyol,False
+match239,Villarreal CF,True
+match239,Sevilla FC,False
+match240,SD Huesca,True
+match240,Athletic Club,False
+match241,RCD Espanyol,True
+match241,SD Huesca,False
+match242,D. Alavés,True
+match242,RC Celta,False
+match243,Athletic Club,True
+match243,SD Eibar,False
+match244,Getafe CF,True
+match244,Rayo Vallecano,False
+match245,Sevilla FC,True
+match245,FC Barcelona,False
+match246,Atlético de Madrid,True
+match246,Villarreal CF,False
+match247,CD Leganés,True
+match247,Valencia CF,False
+match248,Levante UD,True
+match248,Real Madrid,False
+match249,R. Valladolid CF,True
+match249,Real Betis,False
+match250,Girona FC,True
+match250,Real Sociedad,False
+match251,Rayo Vallecano,True
+match251,Girona FC,False
+match252,RCD Espanyol,True
+match252,R. Valladolid CF,False
+match253,SD Huesca,True
+match253,Sevilla FC,False
+match254,Real Madrid,True
+match254,FC Barcelona,False
+match255,Villarreal CF,True
+match255,D. Alavés,False
+match256,Real Betis,True
+match256,Getafe CF,False
+match257,SD Eibar,True
+match257,RC Celta,False
+match258,Real Sociedad,True
+match258,Atlético de Madrid,False
+match259,Valencia CF,True
+match259,Athletic Club,False
+match260,CD Leganés,True
+match260,Levante UD,False
+match261,Athletic Club,True
+match261,RCD Espanyol,False
+match262,D. Alavés,True
+match262,SD Eibar,False
+match263,Atlético de Madrid,True
+match263,CD Leganés,False
+match264,FC Barcelona,True
+match264,Rayo Vallecano,False
+match265,Getafe CF,True
+match265,SD Huesca,False
+match266,RC Celta,True
+match266,Real Betis,False
+match267,Girona FC,True
+match267,Valencia CF,False
+match268,Levante UD,True
+match268,Villarreal CF,False
+match269,Sevilla FC,True
+match269,Real Sociedad,False
+match270,R. Valladolid CF,True
+match270,Real Madrid,False
+match271,Real Sociedad,True
+match271,Levante UD,False
+match272,Athletic Club,True
+match272,Atlético de Madrid,False
+match273,SD Huesca,True
+match273,D. Alavés,False
+match274,CD Leganés,True
+match274,Girona FC,False
+match275,Real Madrid,True
+match275,RC Celta,False
+match276,Real Betis,True
+match276,FC Barcelona,False
+match277,SD Eibar,True
+match277,R. Valladolid CF,False
+match278,RCD Espanyol,True
+match278,Sevilla FC,False
+match279,Valencia CF,True
+match279,Getafe CF,False
+match280,Villarreal CF,True
+match280,Rayo Vallecano,False
+match281,Girona FC,True
+match281,Athletic Club,False
+match282,D. Alavés,True
+match282,Atlético de Madrid,False
+match283,FC Barcelona,True
+match283,RCD Espanyol,False
+match284,RC Celta,True
+match284,Villarreal CF,False
+match285,Getafe CF,True
+match285,CD Leganés,False
+match286,Levante UD,True
+match286,SD Eibar,False
+match287,Real Madrid,True
+match287,SD Huesca,False
+match288,Sevilla FC,True
+match288,Valencia CF,False
+match289,R. Valladolid CF,True
+match289,Real Sociedad,False
+match290,Rayo Vallecano,True
+match290,Real Betis,False
+match291,Atlético de Madrid,True
+match291,Girona FC,False
+match292,RCD Espanyol,True
+match292,Getafe CF,False
+match293,Villarreal CF,True
+match293,FC Barcelona,False
+match294,Athletic Club,True
+match294,Levante UD,False
+match295,SD Eibar,True
+match295,Rayo Vallecano,False
+match296,SD Huesca,True
+match296,RC Celta,False
+match297,Valencia CF,True
+match297,Real Madrid,False
+match298,CD Leganés,True
+match298,R. Valladolid CF,False
+match299,Sevilla FC,True
+match299,D. Alavés,False
+match300,Real Sociedad,True
+match300,Real Betis,False
+match301,FC Barcelona,True
+match301,Atlético de Madrid,False
+match302,Girona FC,True
+match302,RCD Espanyol,False
+match303,Real Madrid,True
+match303,SD Eibar,False
+match304,Rayo Vallecano,True
+match304,Valencia CF,False
+match305,D. Alavés,True
+match305,CD Leganés,False
+match306,Real Betis,True
+match306,Villarreal CF,False
+match307,RC Celta,True
+match307,Real Sociedad,False
+match308,Getafe CF,True
+match308,Athletic Club,False
+match309,Levante UD,True
+match309,SD Huesca,False
+match310,R. Valladolid CF,True
+match310,Sevilla FC,False
+match311,Atlético de Madrid,True
+match311,RC Celta,False
+match312,RCD Espanyol,True
+match312,D. Alavés,False
+match313,SD Huesca,True
+match313,FC Barcelona,False
+match314,Sevilla FC,True
+match314,Real Betis,False
+match315,Athletic Club,True
+match315,Rayo Vallecano,False
+match316,Girona FC,True
+match316,Villarreal CF,False
+match317,Real Sociedad,True
+match317,SD Eibar,False
+match318,Valencia CF,True
+match318,Levante UD,False
+match319,R. Valladolid CF,True
+match319,Getafe CF,False
+match320,CD Leganés,True
+match320,Real Madrid,False
+match321,D. Alavés,True
+match321,R. Valladolid CF,False
+match322,FC Barcelona,True
+match322,Real Sociedad,False
+match323,RC Celta,True
+match323,Girona FC,False
+match324,SD Eibar,True
+match324,Atlético de Madrid,False
+match325,Rayo Vallecano,True
+match325,SD Huesca,False
+match326,Real Betis,True
+match326,Valencia CF,False
+match327,Getafe CF,True
+match327,Sevilla FC,False
+match328,Levante UD,True
+match328,RCD Espanyol,False
+match329,Real Madrid,True
+match329,Athletic Club,False
+match330,Villarreal CF,True
+match330,CD Leganés,False
+match331,D. Alavés,True
+match331,FC Barcelona,False
+match332,SD Huesca,True
+match332,SD Eibar,False
+match333,R. Valladolid CF,True
+match333,Girona FC,False
+match334,Atlético de Madrid,True
+match334,Valencia CF,False
+match335,RCD Espanyol,True
+match335,RC Celta,False
+match336,CD Leganés,True
+match336,Athletic Club,False
+match337,Levante UD,True
+match337,Real Betis,False
+match338,Getafe CF,True
+match338,Real Madrid,False
+match339,Sevilla FC,True
+match339,Rayo Vallecano,False
+match340,Real Sociedad,True
+match340,Villarreal CF,False
+match341,Athletic Club,True
+match341,D. Alavés,False
+match342,Atlético de Madrid,True
+match342,R. Valladolid CF,False
+match343,FC Barcelona,True
+match343,Levante UD,False
+match344,CD Leganés,True
+match344,RC Celta,False
+match345,Girona FC,True
+match345,Sevilla FC,False
+match346,Real Sociedad,True
+match346,Getafe CF,False
+match347,Valencia CF,True
+match347,SD Eibar,False
+match348,Rayo Vallecano,True
+match348,Real Madrid,False
+match349,Villarreal CF,True
+match349,SD Huesca,False
+match350,Real Betis,True
+match350,RCD Espanyol,False
+match351,Sevilla FC,True
+match351,CD Leganés,False
+match352,D. Alavés,True
+match352,Real Sociedad,False
+match353,RC Celta,True
+match353,FC Barcelona,False
+match354,RCD Espanyol,True
+match354,Atlético de Madrid,False
+match355,Levante UD,True
+match355,Rayo Vallecano,False
+match356,SD Eibar,True
+match356,Real Betis,False
+match357,Getafe CF,True
+match357,Girona FC,False
+match358,SD Huesca,True
+match358,Valencia CF,False
+match359,Real Madrid,True
+match359,Villarreal CF,False
+match360,R. Valladolid CF,True
+match360,Athletic Club,False
+match361,Athletic Club,True
+match361,RC Celta,False
+match362,Atlético de Madrid,True
+match362,Sevilla FC,False
+match363,FC Barcelona,True
+match363,Getafe CF,False
+match364,Real Betis,True
+match364,SD Huesca,False
+match365,Girona FC,True
+match365,Levante UD,False
+match366,CD Leganés,True
+match366,RCD Espanyol,False
+match367,Real Sociedad,True
+match367,Real Madrid,False
+match368,Valencia CF,True
+match368,D. Alavés,False
+match369,Rayo Vallecano,True
+match369,R. Valladolid CF,False
+match370,Villarreal CF,True
+match370,SD Eibar,False
+match371,D. Alavés,True
+match371,Girona FC,False
+match372,RC Celta,True
+match372,Rayo Vallecano,False
+match373,RCD Espanyol,True
+match373,Real Sociedad,False
+match374,Getafe CF,True
+match374,Villarreal CF,False
+match375,SD Huesca,True
+match375,CD Leganés,False
+match376,Levante UD,True
+match376,Atlético de Madrid,False
+match377,Sevilla FC,True
+match377,Athletic Club,False
+match378,R. Valladolid CF,True
+match378,Valencia CF,False
+match379,SD Eibar,True
+match379,FC Barcelona,False
+match380,Real Madrid,True
+match380,Real Betis,False

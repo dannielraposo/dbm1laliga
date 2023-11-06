@@ -1,0 +1,380 @@
+match1,17/08/2018,Benito Villamarín,AwayTeam,AwayTeam
+match2,17/08/2018,Municipal de Montilivi,Draw,Draw
+match3,18/08/2018,Spotify Camp Nou,HomeTeam,Draw
+match4,18/08/2018,Balaídos ,Draw,AwayTeam
+match5,18/08/2018,Estadio de la Cerámica,AwayTeam,Draw
+match6,19/08/2018,Ipurúa,AwayTeam,AwayTeam
+match7,19/08/2018,Santiago Bernabéu,HomeTeam,HomeTeam
+match8,19/08/2018,Estadio de Vallecas,AwayTeam,AwayTeam
+match9,20/08/2018,San Mamés,HomeTeam,Draw
+match10,20/08/2018,Mestalla,Draw,AwayTeam
+match11,24/08/2018,Coliseum,HomeTeam,HomeTeam
+match12,24/08/2018,Municipal de Butarque,Draw,AwayTeam
+match13,25/08/2018,Mendizorroza,Draw,Draw
+match14,25/08/2018,Cívitas Metropolitano,HomeTeam,Draw
+match15,25/08/2018,José Zorrilla,AwayTeam,Draw
+match16,26/08/2018,RCDE Stadium,HomeTeam,Draw
+match17,26/08/2018,Municipal de Montilivi,AwayTeam,Draw
+match18,26/08/2018,Ramón Sánchez-Pizjuán,Draw,Draw
+match19,27/08/2018,San Mamés,Draw,Draw
+match20,27/08/2018,Ciutat de Valencia,AwayTeam,AwayTeam
+match21,31/08/2018,Ipurúa,HomeTeam,Draw
+match22,31/08/2018,Coliseum,Draw,Draw
+match23,31/08/2018,Estadio de la Cerámica,AwayTeam,Draw
+match24,01/09/2018,Balaídos ,HomeTeam,Draw
+match25,01/09/2018,Santiago Bernabéu,HomeTeam,Draw
+match26,02/09/2018,Mendizorroza,HomeTeam,AwayTeam
+match27,02/09/2018,Spotify Camp Nou,HomeTeam,HomeTeam
+match28,02/09/2018,Benito Villamarín,HomeTeam,Draw
+match29,02/09/2018,Ciutat de Valencia,Draw,HomeTeam
+match30,14/09/2018,Estadio El Alcoraz,AwayTeam,AwayTeam
+match31,15/09/2018,San Mamés,Draw,HomeTeam
+match32,15/09/2018,Cívitas Metropolitano,Draw,Draw
+match33,15/09/2018,Reale Arena,AwayTeam,HomeTeam
+match34,15/09/2018,Mestalla,Draw,Draw
+match35,16/09/2018,RCDE Stadium,HomeTeam,Draw
+match36,16/09/2018,Municipal de Butarque,AwayTeam,Draw
+match37,16/09/2018,Ramón Sánchez-Pizjuán,AwayTeam,AwayTeam
+match38,16/09/2018,José Zorrilla,AwayTeam,Draw
+match39,17/09/2018,Municipal de Montilivi,HomeTeam,HomeTeam
+match40,21/09/2018,Estadio El Alcoraz,AwayTeam,Draw
+match41,22/09/2018,Balaídos ,Draw,HomeTeam
+match42,22/09/2018,Ipurúa,HomeTeam,Draw
+match43,22/09/2018,Coliseum,AwayTeam,AwayTeam
+match44,22/09/2018,Santiago Bernabéu,HomeTeam,HomeTeam
+match45,22/09/2018,Estadio de Vallecas,AwayTeam,AwayTeam
+match46,23/09/2018,Spotify Camp Nou,Draw,Draw
+match47,23/09/2018,Benito Villamarín,Draw,AwayTeam
+match48,23/09/2018,Ciutat de Valencia,AwayTeam,AwayTeam
+match49,23/09/2018,Estadio de la Cerámica,Draw,Draw
+match50,25/09/2018,Cívitas Metropolitano,HomeTeam,HomeTeam
+match51,25/09/2018,RCDE Stadium,HomeTeam,Draw
+match52,25/09/2018,Reale Arena,Draw,AwayTeam
+match53,26/09/2018,San Mamés,AwayTeam,Draw
+match54,26/09/2018,Municipal de Butarque,HomeTeam,AwayTeam
+match55,26/09/2018,Ramón Sánchez-Pizjuán,HomeTeam,HomeTeam
+match56,26/09/2018,Mestalla,Draw,HomeTeam
+match57,27/09/2018,Mendizorroza,Draw,Draw
+match58,27/09/2018,Municipal de Montilivi,AwayTeam,Draw
+match59,27/09/2018,José Zorrilla,HomeTeam,Draw
+match60,28/09/2018,Estadio de Vallecas,Draw,AwayTeam
+match61,29/09/2018,Spotify Camp Nou,Draw,AwayTeam
+match62,29/09/2018,Ipurúa,AwayTeam,Draw
+match63,29/09/2018,Santiago Bernabéu,Draw,Draw
+match64,29/09/2018,Reale Arena,AwayTeam,AwayTeam
+match65,30/09/2018,Benito Villamarín,HomeTeam,Draw
+match66,30/09/2018,Estadio El Alcoraz,Draw,AwayTeam
+match67,30/09/2018,Ciutat de Valencia,HomeTeam,HomeTeam
+match68,30/09/2018,Estadio de la Cerámica,AwayTeam,Draw
+match69,01/10/2018,Balaídos ,Draw,HomeTeam
+match70,05/10/2018,San Mamés,AwayTeam,Draw
+match71,06/10/2018,Mendizorroza,HomeTeam,Draw
+match72,06/10/2018,Coliseum,AwayTeam,Draw
+match73,06/10/2018,Municipal de Montilivi,AwayTeam,Draw
+match74,06/10/2018,Municipal de Butarque,HomeTeam,HomeTeam
+match75,07/10/2018,Cívitas Metropolitano,HomeTeam,Draw
+match76,07/10/2018,RCDE Stadium,HomeTeam,Draw
+match77,07/10/2018,Ramón Sánchez-Pizjuán,HomeTeam,HomeTeam
+match78,07/10/2018,Mestalla,Draw,Draw
+match79,07/10/2018,José Zorrilla,HomeTeam,HomeTeam
+match80,19/10/2018,Balaídos ,AwayTeam,Draw
+match81,20/10/2018,Spotify Camp Nou,HomeTeam,HomeTeam
+match82,20/10/2018,Santiago Bernabéu,AwayTeam,AwayTeam
+match83,20/10/2018,Mestalla,Draw,Draw
+match84,20/10/2018,Estadio de la Cerámica,Draw,Draw
+match85,21/10/2018,Benito Villamarín,AwayTeam,AwayTeam
+match86,21/10/2018,Ipurúa,Draw,Draw
+match87,21/10/2018,Estadio El Alcoraz,AwayTeam,AwayTeam
+match88,21/10/2018,Estadio de Vallecas,AwayTeam,Draw
+match89,22/10/2018,Reale Arena,Draw,Draw
+match90,24/10/2018,Estadio de Vallecas,Draw,HomeTeam
+match91,26/10/2018,José Zorrilla,Draw,AwayTeam
+match92,27/10/2018,San Mamés,Draw,Draw
+match93,27/10/2018,Cívitas Metropolitano,HomeTeam,HomeTeam
+match94,27/10/2018,Balaídos ,HomeTeam,HomeTeam
+match95,27/10/2018,Municipal de Montilivi,HomeTeam,HomeTeam
+match96,27/10/2018,Ciutat de Valencia,HomeTeam,HomeTeam
+match97,28/10/2018,Mendizorroza,HomeTeam,AwayTeam
+match98,28/10/2018,Spotify Camp Nou,HomeTeam,HomeTeam
+match99,28/10/2018,Coliseum,HomeTeam,Draw
+match100,28/10/2018,Ramón Sánchez-Pizjuán,HomeTeam,Draw
+match101,03/11/2018,Municipal de Butarque,Draw,Draw
+match102,03/11/2018,Santiago Bernabéu,HomeTeam,Draw
+match103,03/11/2018,Mestalla,AwayTeam,Draw
+match104,03/11/2018,Estadio de Vallecas,AwayTeam,Draw
+match105,04/11/2018,Benito Villamarín,Draw,HomeTeam
+match106,04/11/2018,Ipurúa,HomeTeam,AwayTeam
+match107,04/11/2018,Estadio El Alcoraz,Draw,Draw
+match108,04/11/2018,Reale Arena,Draw,Draw
+match109,04/11/2018,Estadio de la Cerámica,Draw,Draw
+match110,05/11/2018,RCDE Stadium,HomeTeam,HomeTeam
+match111,09/11/2018,Ciutat de Valencia,AwayTeam,HomeTeam
+match112,10/11/2018,Cívitas Metropolitano,HomeTeam,AwayTeam
+match113,10/11/2018,Coliseum,AwayTeam,Draw
+match114,10/11/2018,Municipal de Montilivi,Draw,Draw
+match115,10/11/2018,José Zorrilla,Draw,Draw
+match116,11/11/2018,Mendizorroza,HomeTeam,Draw
+match117,11/11/2018,Spotify Camp Nou,AwayTeam,AwayTeam
+match118,11/11/2018,Balaídos ,AwayTeam,AwayTeam
+match119,11/11/2018,Ramón Sánchez-Pizjuán,HomeTeam,AwayTeam
+match120,11/11/2018,Estadio de Vallecas,Draw,Draw
+match121,23/11/2018,Municipal de Butarque,HomeTeam,HomeTeam
+match122,24/11/2018,Cívitas Metropolitano,Draw,Draw
+match123,24/11/2018,Ipurúa,HomeTeam,HomeTeam
+match124,24/11/2018,Estadio El Alcoraz,Draw,Draw
+match125,24/11/2018,Mestalla,HomeTeam,HomeTeam
+match126,25/11/2018,San Mamés,Draw,Draw
+match127,25/11/2018,RCDE Stadium,AwayTeam,AwayTeam
+match128,25/11/2018,Ramón Sánchez-Pizjuán,HomeTeam,HomeTeam
+match129,25/11/2018,Estadio de la Cerámica,HomeTeam,Draw
+match130,26/11/2018,Reale Arena,HomeTeam,HomeTeam
+match131,30/11/2018,Estadio de Vallecas,HomeTeam,Draw
+match132,01/12/2018,Balaídos ,HomeTeam,HomeTeam
+match133,01/12/2018,Coliseum,HomeTeam,Draw
+match134,01/12/2018,Santiago Bernabéu,HomeTeam,HomeTeam
+match135,01/12/2018,José Zorrilla,AwayTeam,AwayTeam
+match136,02/12/2018,Mendizorroza,Draw,HomeTeam
+match137,02/12/2018,Spotify Camp Nou,HomeTeam,HomeTeam
+match138,02/12/2018,Benito Villamarín,HomeTeam,HomeTeam
+match139,02/12/2018,Municipal de Montilivi,Draw,HomeTeam
+match140,03/12/2018,Ciutat de Valencia,HomeTeam,HomeTeam
+match141,07/12/2018,Municipal de Butarque,Draw,AwayTeam
+match142,08/12/2018,Cívitas Metropolitano,HomeTeam,HomeTeam
+match143,08/12/2018,RCDE Stadium,AwayTeam,AwayTeam
+match144,08/12/2018,Mestalla,Draw,Draw
+match145,08/12/2018,Estadio de la Cerámica,AwayTeam,AwayTeam
+match146,09/12/2018,Benito Villamarín,HomeTeam,Draw
+match147,09/12/2018,Ipurúa,Draw,AwayTeam
+match148,09/12/2018,Estadio El Alcoraz,AwayTeam,AwayTeam
+match149,09/12/2018,Reale Arena,AwayTeam,AwayTeam
+match150,10/12/2018,San Mamés,HomeTeam,Draw
+match151,14/12/2018,Balaídos ,Draw,Draw
+match152,15/12/2018,Ipurúa,Draw,AwayTeam
+match153,15/12/2018,Coliseum,HomeTeam,HomeTeam
+match154,15/12/2018,Santiago Bernabéu,HomeTeam,HomeTeam
+match155,15/12/2018,José Zorrilla,AwayTeam,AwayTeam
+match156,16/12/2018,RCDE Stadium,AwayTeam,Draw
+match157,16/12/2018,Estadio El Alcoraz,Draw,HomeTeam
+match158,16/12/2018,Ciutat de Valencia,AwayTeam,AwayTeam
+match159,16/12/2018,Ramón Sánchez-Pizjuán,HomeTeam,Draw
+match160,17/12/2018,Mendizorroza,Draw,Draw
+match161,21/12/2018,Municipal de Montilivi,Draw,Draw
+match162,21/12/2018,Reale Arena,AwayTeam,AwayTeam
+match163,22/12/2018,San Mamés,Draw,HomeTeam
+match164,22/12/2018,Cívitas Metropolitano,HomeTeam,Draw
+match165,22/12/2018,Spotify Camp Nou,HomeTeam,HomeTeam
+match166,22/12/2018,Benito Villamarín,Draw,HomeTeam
+match167,23/12/2018,Municipal de Butarque,Draw,HomeTeam
+match168,23/12/2018,Mestalla,HomeTeam,HomeTeam
+match169,23/12/2018,Estadio de Vallecas,HomeTeam,HomeTeam
+match170,03/01/2019,Estadio de la Cerámica,Draw,AwayTeam
+match171,04/01/2019,RCDE Stadium,HomeTeam,HomeTeam
+match172,04/01/2019,Ciutat de Valencia,Draw,AwayTeam
+match173,05/01/2019,Mendizorroza,HomeTeam,HomeTeam
+match174,05/01/2019,Estadio El Alcoraz,HomeTeam,Draw
+match175,05/01/2019,José Zorrilla,AwayTeam,AwayTeam
+match176,06/01/2019,Ipurúa,Draw,Draw
+match177,06/01/2019,Coliseum,AwayTeam,AwayTeam
+match178,06/01/2019,Santiago Bernabéu,AwayTeam,AwayTeam
+match179,06/01/2019,Ramón Sánchez-Pizjuán,Draw,Draw
+match180,07/01/2019,Balaídos ,AwayTeam,Draw
+match181,11/01/2019,Estadio de Vallecas,HomeTeam,Draw
+match182,12/01/2019,Municipal de Montilivi,Draw,HomeTeam
+match183,12/01/2019,Municipal de Butarque,HomeTeam,Draw
+match184,12/01/2019,Mestalla,Draw,Draw
+match185,12/01/2019,Estadio de la Cerámica,AwayTeam,Draw
+match186,13/01/2019,San Mamés,HomeTeam,HomeTeam
+match187,13/01/2019,Cívitas Metropolitano,HomeTeam,Draw
+match188,13/01/2019,Spotify Camp Nou,HomeTeam,HomeTeam
+match189,13/01/2019,Benito Villamarín,AwayTeam,AwayTeam
+match190,14/01/2019,Reale Arena,HomeTeam,Draw
+match191,18/01/2019,Coliseum,HomeTeam,HomeTeam
+match192,19/01/2019,Balaídos ,AwayTeam,HomeTeam
+match193,19/01/2019,Estadio El Alcoraz,AwayTeam,AwayTeam
+match194,19/01/2019,Santiago Bernabéu,HomeTeam,Draw
+match195,20/01/2019,Spotify Camp Nou,HomeTeam,HomeTeam
+match196,20/01/2019,Benito Villamarín,HomeTeam,AwayTeam
+match197,20/01/2019,Ciutat de Valencia,HomeTeam,HomeTeam
+match198,20/01/2019,Estadio de Vallecas,Draw,HomeTeam
+match199,20/01/2019,Estadio de la Cerámica,Draw,AwayTeam
+match200,21/01/2019,Ipurúa,HomeTeam,
+match201,26/01/2019,Cívitas Metropolitano,HomeTeam,HomeTeam
+match202,26/01/2019,Municipal de Butarque,Draw,AwayTeam
+match203,26/01/2019,Ramón Sánchez-Pizjuán,HomeTeam,Draw
+match204,26/01/2019,Mestalla,HomeTeam,HomeTeam
+match205,27/01/2019,San Mamés,HomeTeam,HomeTeam
+match206,27/01/2019,RCDE Stadium,AwayTeam,AwayTeam
+match207,27/01/2019,Municipal de Montilivi,AwayTeam,AwayTeam
+match208,27/01/2019,Reale Arena,Draw,Draw
+match209,27/01/2019,José Zorrilla,HomeTeam,AwayTeam
+match210,28/01/2019,Mendizorroza,AwayTeam,Draw
+match211,01/02/2019,Estadio El Alcoraz,HomeTeam,HomeTeam
+match212,02/02/2019,Spotify Camp Nou,Draw,AwayTeam
+match213,02/02/2019,Balaídos ,HomeTeam,Draw
+match214,02/02/2019,Ciutat de Valencia,Draw,Draw
+match215,02/02/2019,Reale Arena,HomeTeam,HomeTeam
+match216,03/02/2019,Benito Villamarín,HomeTeam,Draw
+match217,03/02/2019,Ipurúa,HomeTeam,HomeTeam
+match218,03/02/2019,Santiago Bernabéu,HomeTeam,HomeTeam
+match219,03/02/2019,Estadio de la Cerámica,Draw,HomeTeam
+match220,04/02/2019,Estadio de Vallecas,AwayTeam,AwayTeam
+match221,08/02/2019,José Zorrilla,Draw,Draw
+match222,09/02/2019,Cívitas Metropolitano,AwayTeam,AwayTeam
+match223,09/02/2019,RCDE Stadium,HomeTeam,AwayTeam
+match224,09/02/2019,Coliseum,HomeTeam,Draw
+match225,09/02/2019,Municipal de Montilivi,AwayTeam,AwayTeam
+match226,10/02/2019,San Mamés,Draw,Draw
+match227,10/02/2019,Municipal de Butarque,HomeTeam,HomeTeam
+match228,10/02/2019,Ramón Sánchez-Pizjuán,Draw,AwayTeam
+match229,10/02/2019,Mestalla,Draw,Draw
+match230,11/02/2019,Mendizorroza,HomeTeam,HomeTeam
+match231,15/02/2019,Ipurúa,Draw,AwayTeam
+match232,16/02/2019,Spotify Camp Nou,HomeTeam,HomeTeam
+match233,16/02/2019,Balaídos ,AwayTeam,AwayTeam
+match234,16/02/2019,Reale Arena,HomeTeam,Draw
+match235,16/02/2019,Estadio de Vallecas,AwayTeam,Draw
+match236,17/02/2019,Benito Villamarín,Draw,Draw
+match237,17/02/2019,Santiago Bernabéu,AwayTeam,HomeTeam
+match238,17/02/2019,Mestalla,Draw,Draw
+match239,17/02/2019,Estadio de la Cerámica,HomeTeam,HomeTeam
+match240,18/02/2019,Estadio El Alcoraz,AwayTeam,AwayTeam
+match241,22/02/2019,RCDE Stadium,Draw,HomeTeam
+match242,23/02/2019,Mendizorroza,Draw,Draw
+match243,23/02/2019,San Mamés,HomeTeam,HomeTeam
+match244,23/02/2019,Coliseum,HomeTeam,HomeTeam
+match245,23/02/2019,Ramón Sánchez-Pizjuán,AwayTeam,HomeTeam
+match246,24/02/2019,Cívitas Metropolitano,HomeTeam,HomeTeam
+match247,24/02/2019,Municipal de Butarque,Draw,AwayTeam
+match248,24/02/2019,Ciutat de Valencia,AwayTeam,AwayTeam
+match249,24/02/2019,José Zorrilla,AwayTeam,AwayTeam
+match250,25/02/2019,Municipal de Montilivi,Draw,Draw
+match251,01/03/2019,Estadio de Vallecas,AwayTeam,AwayTeam
+match252,02/03/2019,RCDE Stadium,HomeTeam,Draw
+match253,02/03/2019,Estadio El Alcoraz,HomeTeam,HomeTeam
+match254,02/03/2019,Santiago Bernabéu,AwayTeam,AwayTeam
+match255,02/03/2019,Estadio de la Cerámica,AwayTeam,Draw
+match256,03/03/2019,Benito Villamarín,AwayTeam,AwayTeam
+match257,03/03/2019,Ipurúa,HomeTeam,Draw
+match258,03/03/2019,Reale Arena,AwayTeam,AwayTeam
+match259,03/03/2019,Mestalla,HomeTeam,Draw
+match260,04/03/2019,Municipal de Butarque,HomeTeam,HomeTeam
+match261,08/03/2019,San Mamés,Draw,AwayTeam
+match262,09/03/2019,Mendizorroza,Draw,Draw
+match263,09/03/2019,Cívitas Metropolitano,HomeTeam,Draw
+match264,09/03/2019,Spotify Camp Nou,HomeTeam,Draw
+match265,09/03/2019,Coliseum,HomeTeam,AwayTeam
+match266,10/03/2019,Balaídos ,AwayTeam,Draw
+match267,10/03/2019,Municipal de Montilivi,AwayTeam,Draw
+match268,10/03/2019,Ciutat de Valencia,AwayTeam,Draw
+match269,10/03/2019,Ramón Sánchez-Pizjuán,HomeTeam,Draw
+match270,10/03/2019,José Zorrilla,AwayTeam,Draw
+match271,15/03/2019,Reale Arena,Draw,HomeTeam
+match272,16/03/2019,San Mamés,HomeTeam,Draw
+match273,16/03/2019,Estadio El Alcoraz,AwayTeam,Draw
+match274,16/03/2019,Municipal de Butarque,AwayTeam,AwayTeam
+match275,16/03/2019,Santiago Bernabéu,HomeTeam,Draw
+match276,17/03/2019,Benito Villamarín,AwayTeam,AwayTeam
+match277,17/03/2019,Ipurúa,AwayTeam,Draw
+match278,17/03/2019,RCDE Stadium,AwayTeam,Draw
+match279,17/03/2019,Mestalla,Draw,Draw
+match280,17/03/2019,Estadio de la Cerámica,HomeTeam,AwayTeam
+match281,29/03/2019,Municipal de Montilivi,AwayTeam,HomeTeam
+match282,30/03/2019,Mendizorroza,AwayTeam,AwayTeam
+match283,30/03/2019,Spotify Camp Nou,HomeTeam,Draw
+match284,30/03/2019,Balaídos ,HomeTeam,AwayTeam
+match285,30/03/2019,Coliseum,AwayTeam,Draw
+match286,31/03/2019,Ciutat de Valencia,Draw,HomeTeam
+match287,31/03/2019,Santiago Bernabéu,HomeTeam,Draw
+match288,31/03/2019,Ramón Sánchez-Pizjuán,AwayTeam,AwayTeam
+match289,31/03/2019,José Zorrilla,Draw,HomeTeam
+match290,31/03/2019,Estadio de Vallecas,Draw,HomeTeam
+match291,02/04/2019,Cívitas Metropolitano,HomeTeam,Draw
+match292,02/04/2019,RCDE Stadium,Draw,Draw
+match293,02/04/2019,Estadio de la Cerámica,Draw,AwayTeam
+match294,03/04/2019,San Mamés,HomeTeam,HomeTeam
+match295,03/04/2019,Ipurúa,HomeTeam,AwayTeam
+match296,03/04/2019,Estadio El Alcoraz,Draw,AwayTeam
+match297,03/04/2019,Mestalla,HomeTeam,HomeTeam
+match298,04/04/2019,Municipal de Butarque,HomeTeam,Draw
+match299,04/04/2019,Ramón Sánchez-Pizjuán,HomeTeam,HomeTeam
+match300,04/04/2019,Reale Arena,HomeTeam,HomeTeam
+match301,06/04/2019,Spotify Camp Nou,HomeTeam,Draw
+match302,06/04/2019,Municipal de Montilivi,AwayTeam,Draw
+match303,06/04/2019,Santiago Bernabéu,HomeTeam,AwayTeam
+match304,06/04/2019,Estadio de Vallecas,HomeTeam,HomeTeam
+match305,07/04/2019,Mendizorroza,Draw,HomeTeam
+match306,07/04/2019,Benito Villamarín,HomeTeam,Draw
+match307,07/04/2019,Balaídos ,HomeTeam,AwayTeam
+match308,07/04/2019,Coliseum,HomeTeam,Draw
+match309,07/04/2019,Ciutat de Valencia,Draw,HomeTeam
+match310,07/04/2019,José Zorrilla,AwayTeam,Draw
+match311,13/04/2019,Cívitas Metropolitano,HomeTeam,HomeTeam
+match312,13/04/2019,RCDE Stadium,HomeTeam,HomeTeam
+match313,13/04/2019,Estadio El Alcoraz,Draw,Draw
+match314,13/04/2019,Ramón Sánchez-Pizjuán,HomeTeam,HomeTeam
+match315,14/04/2019,San Mamés,HomeTeam,Draw
+match316,14/04/2019,Municipal de Montilivi,AwayTeam,AwayTeam
+match317,14/04/2019,Reale Arena,Draw,HomeTeam
+match318,14/04/2019,Mestalla,HomeTeam,HomeTeam
+match319,14/04/2019,José Zorrilla,Draw,Draw
+match320,15/04/2019,Municipal de Butarque,Draw,HomeTeam
+match321,19/04/2019,Mendizorroza,Draw,HomeTeam
+match322,20/04/2019,Spotify Camp Nou,HomeTeam,HomeTeam
+match323,20/04/2019,Balaídos ,HomeTeam,HomeTeam
+match324,20/04/2019,Ipurúa,AwayTeam,Draw
+match325,20/04/2019,Estadio de Vallecas,Draw,Draw
+match326,21/04/2019,Benito Villamarín,AwayTeam,AwayTeam
+match327,21/04/2019,Coliseum,HomeTeam,HomeTeam
+match328,21/04/2019,Ciutat de Valencia,Draw,AwayTeam
+match329,21/04/2019,Santiago Bernabéu,HomeTeam,Draw
+match330,21/04/2019,Estadio de la Cerámica,HomeTeam,Draw
+match331,23/04/2019,Mendizorroza,AwayTeam,Draw
+match332,23/04/2019,Estadio El Alcoraz,HomeTeam,Draw
+match333,23/04/2019,José Zorrilla,HomeTeam,Draw
+match334,24/04/2019,Cívitas Metropolitano,HomeTeam,Draw
+match335,24/04/2019,RCDE Stadium,Draw,HomeTeam
+match336,24/04/2019,Municipal de Butarque,AwayTeam,AwayTeam
+match337,24/04/2019,Ciutat de Valencia,HomeTeam,HomeTeam
+match338,25/04/2019,Coliseum,Draw,Draw
+match339,25/04/2019,Ramón Sánchez-Pizjuán,HomeTeam,Draw
+match340,25/04/2019,Reale Arena,AwayTeam,Draw
+match341,27/04/2019,San Mamés,Draw,Draw
+match342,27/04/2019,Cívitas Metropolitano,HomeTeam,Draw
+match343,27/04/2019,Spotify Camp Nou,HomeTeam,Draw
+match344,27/04/2019,Municipal de Butarque,Draw,Draw
+match345,28/04/2019,Municipal de Montilivi,HomeTeam,Draw
+match346,28/04/2019,Reale Arena,HomeTeam,HomeTeam
+match347,28/04/2019,Mestalla,AwayTeam,Draw
+match348,28/04/2019,Estadio de Vallecas,HomeTeam,HomeTeam
+match349,28/04/2019,Estadio de la Cerámica,Draw,HomeTeam
+match350,29/04/2019,Benito Villamarín,Draw,AwayTeam
+match351,03/05/2019,Ramón Sánchez-Pizjuán,AwayTeam,AwayTeam
+match352,04/05/2019,Mendizorroza,AwayTeam,AwayTeam
+match353,04/05/2019,Balaídos ,HomeTeam,Draw
+match354,04/05/2019,RCDE Stadium,HomeTeam,HomeTeam
+match355,04/05/2019,Ciutat de Valencia,HomeTeam,HomeTeam
+match356,05/05/2019,Ipurúa,HomeTeam,HomeTeam
+match357,05/05/2019,Coliseum,HomeTeam,HomeTeam
+match358,05/05/2019,Estadio El Alcoraz,AwayTeam,AwayTeam
+match359,05/05/2019,Santiago Bernabéu,HomeTeam,HomeTeam
+match360,05/05/2019,José Zorrilla,HomeTeam,HomeTeam
+match361,12/05/2019,San Mamés,HomeTeam,HomeTeam
+match362,12/05/2019,Cívitas Metropolitano,Draw,HomeTeam
+match363,12/05/2019,Spotify Camp Nou,HomeTeam,HomeTeam
+match364,12/05/2019,Benito Villamarín,HomeTeam,HomeTeam
+match365,12/05/2019,Municipal de Montilivi,AwayTeam,Draw
+match366,12/05/2019,Municipal de Butarque,AwayTeam,AwayTeam
+match367,12/05/2019,Reale Arena,HomeTeam,Draw
+match368,12/05/2019,Mestalla,HomeTeam,HomeTeam
+match369,12/05/2019,Estadio de Vallecas,AwayTeam,AwayTeam
+match370,12/05/2019,Estadio de la Cerámica,HomeTeam,Draw
+match371,18/05/2019,Mendizorroza,HomeTeam,HomeTeam
+match372,18/05/2019,Balaídos ,Draw,AwayTeam
+match373,18/05/2019,RCDE Stadium,HomeTeam,Draw
+match374,18/05/2019,Coliseum,Draw,Draw
+match375,18/05/2019,Estadio El Alcoraz,HomeTeam,AwayTeam
+match376,18/05/2019,Ciutat de Valencia,Draw,HomeTeam
+match377,18/05/2019,Ramón Sánchez-Pizjuán,HomeTeam,HomeTeam
+match378,18/05/2019,José Zorrilla,AwayTeam,AwayTeam
+match379,19/05/2019,Ipurúa,Draw,Draw
+match380,19/05/2019,Santiago Bernabéu,AwayTeam,Draw

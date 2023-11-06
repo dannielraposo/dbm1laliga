@@ -1,0 +1,30 @@
+FROM node:alpine
+LABEL maintainer="Daniel Raposo"
+
+## Set timezone
+RUN apk update && apk add --no-cache tzdata
+ENV TZ Europe/Paris
+
+## Create a new user without root permissions for security
+RUN addgroup -S nodejs && adduser -S -G nodejs nodejs
+USER nodejs
+
+### Install the modules in the /tmp directory to use the caching in case of changes
+ADD package.json /tmp/package.json
+RUN cd /tmp && npm install --omit=dev
+
+### Copy the modules in the new user's home directory to avoid permission issues
+RUN mkdir -p /home/nodejs/app && cp -a /tmp/node_modules /home/nodejs/app/
+
+### Change the work directory
+WORKDIR /home/nodejs/app
+
+### Copy all code files into the Docker
+# ADD . /home/nodejs/app
+COPY --chown=nodejs:nodejs . /home/nodejs/app
+
+ENV PORT 7070
+EXPOSE 7070
+
+ENV DOCKER Yes
+CMD [ "node", "app.js" ]

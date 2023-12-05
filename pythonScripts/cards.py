@@ -4,21 +4,20 @@ import csv
 
 match = "match380"
 html = """  """
-# Parsear el HTML con BeautifulSoup
+# Parsing HTML with BeautifulSoup:
 soup = BeautifulSoup(html, 'html.parser')
 
-# Encontrar todas las entradas de tarjetas amarillas y rojas
+# Find entries with red and yellow cards:
 tarjetas_divs = soup.find_all('div', {'class': 'imso_gf__in-card-hr'})
 tarjetas = []
 
-# Palabras clave asociadas a tarjetas amarillas y rojas
 keywords = ['TARJETA AMARILLA', 'TARJETA ROJA']
 
-# Iterar sobre las entradas de tarjetas y extraer la información
+# Iterate over entries of cards and extract information:
 for div in tarjetas_divs:
     texto = div.get_text(strip=True)
 
-    # Verificar si el texto contiene las palabras clave de tarjetas amarillas o rojas
+    #Verify if the text has the keywords of yellow or red cards:
     if any(keyword in texto for keyword in keywords):
         tipo_tarjeta = 'Yellow' if 'amarilla' in texto.lower() else 'Red'
         nombre_jugador = div.find_next('div', {'class': 'imso_gf__pl-nm'}).text.strip()
@@ -28,10 +27,10 @@ for div in tarjetas_divs:
         tarjetas.append((match, tipo_tarjeta, nombre_jugador, minuto))
 
 
-# Escribir los datos en un archivo CSV
+# Write data in a csv file:
 with open('tarjetas.csv', 'a', encoding='utf-8', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
-    # Escribir datos
+    # Write data:
     csvwriter.writerows(tarjetas)
 
-print("Los datos de la consulta se han guardado en 'cards.csv'.")
+print("Data of consult has been saved in 'cards.csv'.")

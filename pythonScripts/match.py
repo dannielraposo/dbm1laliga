@@ -1,6 +1,6 @@
 import csv
 
-# Leer las consultas desde un archivo CSV
+# Read consults from csv file:
 matches = []
 with open('files/Match.csv',encoding='utf-8', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
@@ -14,7 +14,7 @@ with open('files/Team.csv',encoding='utf-8', newline='') as csvfile:
     for row in reader:
         teams.append((row['\ufeffteam_name'], row['city'], row['year'], row['stadium'], row['president']))
 
-# Procesar cada consulta
+# Process each consult:
 for match in matches:
     match_id, date, home_team, away_team, winner_team_FT,winner_team_HT = match
     
@@ -24,10 +24,10 @@ for match in matches:
             stadium = team[3]
 
 
-    # Escribir los datos en un archivo CSV
-    with open('matchNew.csv', 'a', encoding='utf-8', newline='') as csvfile:
+    # Write the data in a CSV file:
+    with open('files/matchNew.csv', 'a', encoding='utf-8', newline='') as csvfile:
         csvwriter = csv.writer(csvfile)
-        # Escribir datos
+        # Write data:
         csvwriter.writerow([match_id, date, stadium, winner_team_FT, winner_team_HT ])
 
-    print("Los datos de la consulta " + match[0] + "se han guardado en 'matchNew.csv'.")
+    print("Data from consult " + match[0] + "has been saved in 'matchNew.csv'.")

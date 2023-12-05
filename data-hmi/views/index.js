@@ -36,7 +36,8 @@ $(async function () {
         querysql = `SELECT player.player_name, birthyear, nationality, position, COUNT(*) AS goals FROM player 
                     INNER JOIN goal ON goal.player_name = player.player_name
                     WHERE player.birthyear > 1985 AND (SELECT COUNT(*) FROM goal WHERE goal.player_name=player.player_name )>15
-                    GROUP BY player.player_name`
+                    GROUP BY player.player_name
+		    ORDER BY COUNT(*) DESC`
         break;
       case '3':
         querysql = `SELECT player.player_name, player.team_name, COUNT(*) AS yellow_cards FROM player 

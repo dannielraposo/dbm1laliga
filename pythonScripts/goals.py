@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import csv
 
-# Función para extraer datos y formatearlos
+# Function to extract and format data:
 def extraer_datos(elemento, match_id):
     nombre = elemento.find('span').text
     minutos_goles = elemento.find_all('span', class_='imso_gs__g-a-t')
@@ -21,22 +21,22 @@ def extraer_datos(elemento, match_id):
     return goles
 
 
-# Leer las consultas desde un archivo CSV
+# Read consults from csv file:
 consultas = []
-with open('consulterror2.csv',encoding='utf-8', newline='') as csvfile:
+with open('files/consults.csv',encoding='utf-8', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         consultas.append((row['\ufeffMatch'], row['Fecha'], row['Equipo Local'], row['Equipo Visitante']))
 
 
-# Procesar cada consulta
+# Process each consult:
 for consulta in consultas:
     match_id, fecha, equipo_local, equipo_visitante = consulta
 
-    # Construir la consulta para buscar el partido de fútbol en Google
+    # Construct the consult to search the match on Google:
     query = f"{fecha} {equipo_local} {equipo_visitante}"
 
-    # Realizar la búsqueda en Google y obtener el HTML de la página de resultados
+    # Make the consult on Google and getting HTML of results page
     url = f"https://www.google.com/search?q={query}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
@@ -44,26 +44,26 @@ for consulta in consultas:
     response = requests.get(url, headers=headers)
     html = response.text
 
-    # Parsear el HTML con BeautifulSoup
+    # Parsing HTML with BeautifulSoup
     soup = BeautifulSoup(html, 'html.parser')
 
-    # Encontrar el elemento por clase o identificador en el HTML
+    # Find element in the HTML:
     clase_o_identificador = "imso_gs__gs-r"
     elementos = soup.findAll(class_=clase_o_identificador)
 
     datos = []
 
-    # Procesar cada elemento y extraer los datos
+    # Process each element and extract data:
     for e in elementos:
         goles = extraer_datos(e, match_id)
         datos.extend(goles)
 
-    # Escribir los datos en un archivo CSV
+    # Write the data in a CSV file:
     with open('goles.csv', 'a', encoding='utf-8', newline='') as csvfile:
         csvwriter = csv.writer(csvfile)
-        # Escribir datos
+        # Write data:
         csvwriter.writerows(datos)
 
-    print("Los datos de la consulta " + consulta[0] + "se han guardado en 'goles.csv'.")
+    print("Data from consult " + consulta[0] + "has been saved in 'goles.csv'.")
 
-    time.sleep(1)
+    time.sleep(1) #to not get blocked from Google!
